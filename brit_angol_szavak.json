@@ -1,0 +1,122 @@
+[
+  {
+    "word": "colour",
+    "phonetic": "/ˈkʌlə/",
+    "example_sentence": "What colour is your car?",
+    "category": "appearance"
+  },
+  {
+    "word": "favourite",
+    "phonetic": "/ˈfeɪvərɪt/",
+    "example_sentence": "This is my favourite book.",
+    "category": "opinion"
+  },
+  {
+    "word": "centre",
+    "phonetic": "/ˈsentə/",
+    "example_sentence": "The shop is in the town centre.",
+    "category": "location"
+  },
+  {
+    "word": "realise",
+    "phonetic": "/ˈrɪəlaɪz/",
+    "example_sentence": "I didn't realise you were here.",
+    "category": "thinking"
+  },
+  {
+    "word": "theatre",
+    "phonetic": "/ˈθɪətə/",
+    "example_sentence": "We went to the theatre last night.",
+    "category": "entertainment"
+  },
+  {
+    "word": "grey",
+    "phonetic": "/ɡreɪ/",
+    "example_sentence": "The sky is grey today.",
+    "category": "colour"
+  },
+  {
+    "word": "programme",
+    "phonetic": "/ˈprəʊɡræm/",
+    "example_sentence": "What's on the television programme?",
+    "category": "media"
+  },
+  {
+    "word": "licence",
+    "phonetic": "/ˈlaɪsəns/",
+    "example_sentence": "You need a driving licence.",
+    "category": "document"
+  },
+  {
+    "word": "analyse",
+    "phonetic": "/ˈænəlaɪz/",
+    "example_sentence": "We need to analyse the data.",
+    "category": "work"
+  },
+  {
+    "word": "honour",
+    "phonetic": "/ˈɒnə/",
+    "example_sentence": "It's an honour to meet you.",
+    "category": "respect"
+  },
+  {
+    "word": "neighbour",
+    "phonetic": "/ˈneɪbə/",
+    "example_sentence": "My neighbour is very friendly.",
+    "category": "people"
+  },
+  {
+    "word": "flavour",
+    "phonetic": "/ˈfleɪvə/",
+    "example_sentence": "This ice cream has a lovely flavour.",
+    "category": "taste"
+  },
+  {
+    "word": "behaviour",
+    "phonetic": "/bɪˈheɪvjə/",
+    "example_sentence": "His behaviour was excellent.",
+    "category": "character"
+  },
+  {
+    "word": "organise",
+    "phonetic": "/ˈɔːɡənaɪz/",
+    "example_sentence": "Can you organise the meeting?",
+    "category": "planning"
+  },
+  {
+    "word": "travelled",
+    "phonetic": "/ˈtrævəld/",
+    "example_sentence": "She travelled around Europe.",
+    "category": "movement"
+  },
+  {
+    "word": "jewellery",
+    "phonetic": "/ˈdʒuːəlri/",
+    "example_sentence": "She wore beautiful jewellery.",
+    "category": "accessories"
+  },
+  {
+    "word": "aluminium",
+    "phonetic": "/ˌæljʊˈmɪniəm/",
+    "example_sentence": "The can is made of aluminium.",
+    "category": "material"
+  },
+  {
+    "word": "specialise",
+    "phonetic": "/ˈspeʃəlaɪz/",
+    "example_sentence": "We specialise in modern art.",
+    "category": "expertise"
+  },
+  {
+    "word": "recognise",
+    "phonetic": "/ˈrekəɡnaɪz/",
+    "example_sentence": "I didn't recognise you at first.",
+    "category": "perception"
+  },
+  {
+    "word": "civilisation",
+    "phonetic": "/ˌsɪvəlaɪˈzeɪʃən/",
+    "example_sentence": "Ancient civilisation fascinates me.",
+    "category": "history"
+  }
+]

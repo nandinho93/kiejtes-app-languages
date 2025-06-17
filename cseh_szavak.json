@@ -1,0 +1,126 @@
+{
+  "language": "czech",
+  "display_name": "Cseh",
+  "words": [
+    {
+      "word": "nepřítomnost",
+      "phonetic": "[ˈnɛpr̝̊iːtomnost]",
+      "example_sentence": "Během jeho nepřítomnosti jsem se staral o dům.",
+      "category": "Personal data"
+    },
+    {
+      "word": "rodina",
+      "phonetic": "[ˈrodɪna]",
+      "example_sentence": "Moje rodina je pro mě velmi důležitá.",
+      "category": "Personal data"
+    },
+    {
+      "word": "práce",
+      "phonetic": "[ˈpraːt͡sɛ]",
+      "example_sentence": "Chodím do práce každé ráno.",
+      "category": "Work"
+    },
+    {
+      "word": "škola",
+      "phonetic": "[ˈʃkola]",
+      "example_sentence": "Děti chodí do školy ráno.",
+      "category": "Education"
+    },
+    {
+      "word": "nemocnice",
+      "phonetic": "[ˈnɛmot͡snɪt͡sɛ]",
+      "example_sentence": "Doktor pracuje v nemocnici.",
+      "category": "Health"
+    },
+    {
+      "word": "jídlo",
+      "phonetic": "[ˈjiːdlo]",
+      "example_sentence": "České jídlo je velmi chutné.",
+      "category": "Food"
+    },
+    {
+      "word": "čas",
+      "phonetic": "[t͡ʃas]",
+      "example_sentence": "Čas ubíhá velmi rychle.",
+      "category": "Time"
+    },
+    {
+      "word": "peníze",
+      "phonetic": "[ˈpɛniːzɛ]",
+      "example_sentence": "Potřebuji peníze na koupi auta.",
+      "category": "Finance"
+    },
+    {
+      "word": "město",
+      "phonetic": "[ˈmɲɛsto]",
+      "example_sentence": "Praha je velmi krásné město.",
+      "category": "Geography"
+    },
+    {
+      "word": "cesta",
+      "phonetic": "[ˈt͡sɛsta]",
+      "example_sentence": "Moje cesta do Čech byla neuvěřitelná.",
+      "category": "Travel"
+    },
+    {
+      "word": "hudba",
+      "phonetic": "[ˈɦudba]",
+      "example_sentence": "Miluji poslouchání klasické hudby.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "kniha",
+      "phonetic": "[ˈkɲiɦa]",
+      "example_sentence": "Čtu velmi zajímavou knihu.",
+      "category": "Education"
+    },
+    {
+      "word": "přátelství",
+      "phonetic": "[ˈpr̝̊aːtɛlstviː]",
+      "example_sentence": "Přátelství je velmi cenný poklad.",
+      "category": "Personal data"
+    },
+    {
+      "word": "příroda",
+      "phonetic": "[ˈpr̝̊iːroda]",
+      "example_sentence": "Rád se procházím v přírodě.",
+      "category": "Nature"
+    },
+    {
+      "word": "štěstí",
+      "phonetic": "[ˈʃcɛstiː]",
+      "example_sentence": "Štěstí se nachází v malých věcech.",
+      "category": "Emotions"
+    },
+    {
+      "word": "komunikace",
+      "phonetic": "[ˈkomu.nɪkat͡sɛ]",
+      "example_sentence": "Komunikace je klíčem ve vztazích.",
+      "category": "Communication"
+    },
+    {
+      "word": "technologie",
+      "phonetic": "[ˈtɛxnolo.ɡɪjɛ]",
+      "example_sentence": "Technologie se vyvíjí velmi rychle.",
+      "category": "Technology"
+    },
+    {
+      "word": "kultura",
+      "phonetic": "[ˈkultura]",
+      "example_sentence": "Česká kultura je velmi bohatá.",
+      "category": "Culture"
+    },
+    {
+      "word": "svoboda",
+      "phonetic": "[ˈsvoboda]",
+      "example_sentence": "Svoboda je základní právo.",
+      "category": "Society"
+    },
+    {
+      "word": "naděje",
+      "phonetic": "[ˈnadɲɛjɛ]",
+      "example_sentence": "Nikdy neztrácej naději v budoucnost.",
+      "category": "Emotions"
+    }
+  ]
+}

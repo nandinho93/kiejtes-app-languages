@@ -1,0 +1,126 @@
+{
+  "language": "korean",
+  "display_name": "Koreai",
+  "words": [
+    {
+      "word": "부재",
+      "phonetic": "[pud͡ʑɛ]",
+      "example_sentence": "그의 부재 동안 제가 집을 돌봤습니다.",
+      "category": "Personal data"
+    },
+    {
+      "word": "가족",
+      "phonetic": "[kad͡ʑok]",
+      "example_sentence": "제 가족은 저에게 매우 중요합니다.",
+      "category": "Personal data"
+    },
+    {
+      "word": "일",
+      "phonetic": "[iɭ]",
+      "example_sentence": "저는 매일 아침 일하러 갑니다.",
+      "category": "Work"
+    },
+    {
+      "word": "학교",
+      "phonetic": "[hak̚k͈jo]",
+      "example_sentence": "아이들은 아침에 학교에 갑니다.",
+      "category": "Education"
+    },
+    {
+      "word": "병원",
+      "phonetic": "[pjʌŋwʌn]",
+      "example_sentence": "의사는 병원에서 일합니다.",
+      "category": "Health"
+    },
+    {
+      "word": "음식",
+      "phonetic": "[ɯmsik̚]",
+      "example_sentence": "한국 음식은 매우 맛있습니다.",
+      "category": "Food"
+    },
+    {
+      "word": "시간",
+      "phonetic": "[ɕigan]",
+      "example_sentence": "시간이 매우 빨리 지나갑니다.",
+      "category": "Time"
+    },
+    {
+      "word": "돈",
+      "phonetic": "[ton]",
+      "example_sentence": "차를 사기 위해 돈이 필요합니다.",
+      "category": "Finance"
+    },
+    {
+      "word": "도시",
+      "phonetic": "[toɕi]",
+      "example_sentence": "서울은 매우 아름다운 도시입니다.",
+      "category": "Geography"
+    },
+    {
+      "word": "여행",
+      "phonetic": "[jʌhɛŋ]",
+      "example_sentence": "한국으로의 여행이 정말 놀라웠습니다.",
+      "category": "Travel"
+    },
+    {
+      "word": "음악",
+      "phonetic": "[ɯmak̚]",
+      "example_sentence": "클래식 음악 듣는 것을 좋아합니다.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "책",
+      "phonetic": "[t͡ɕʰɛk̚]",
+      "example_sentence": "매우 흥미로운 책을 읽고 있습니다.",
+      "category": "Education"
+    },
+    {
+      "word": "우정",
+      "phonetic": "[ud͡ʑʌŋ]",
+      "example_sentence": "우정은 매우 소중한 보물입니다.",
+      "category": "Personal data"
+    },
+    {
+      "word": "자연",
+      "phonetic": "[t͡ɕajʌn]",
+      "example_sentence": "자연 속에서 걷는 것을 좋아합니다.",
+      "category": "Nature"
+    },
+    {
+      "word": "행복",
+      "phonetic": "[hɛŋbok̚]",
+      "example_sentence": "행복은 작은 것들 속에 있습니다.",
+      "category": "Emotions"
+    },
+    {
+      "word": "소통",
+      "phonetic": "[sotʰoŋ]",
+      "example_sentence": "소통은 관계의 열쇠입니다.",
+      "category": "Communication"
+    },
+    {
+      "word": "기술",
+      "phonetic": "[kisuɭ]",
+      "example_sentence": "기술이 매우 빠르게 발전하고 있습니다.",
+      "category": "Technology"
+    },
+    {
+      "word": "문화",
+      "phonetic": "[munhwa]",
+      "example_sentence": "한국 문화는 매우 풍부합니다.",
+      "category": "Culture"
+    },
+    {
+      "word": "자유",
+      "phonetic": "[t͡ɕaju]",
+      "example_sentence": "자유는 기본적인 권리입니다.",
+      "category": "Society"
+    },
+    {
+      "word": "희망",
+      "phonetic": "[himaŋ]",
+      "example_sentence": "미래에 대한 희망을 절대 잃지 마세요.",
+      "category": "Emotions"
+    }
+  ]
+}

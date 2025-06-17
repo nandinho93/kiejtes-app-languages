@@ -1,0 +1,126 @@
+{
+  "language": "slovenian",
+  "display_name": "Szlovén",
+  "words": [
+    {
+      "word": "odsotnost",
+      "phonetic": "[ˈoːdsotnost]",
+      "example_sentence": "Med njegovo odsotnostjo sem skrbel za hišo.",
+      "category": "Personal data"
+    },
+    {
+      "word": "družina",
+      "phonetic": "[druˈʒiːna]",
+      "example_sentence": "Moja družina je zame zelo pomembna.",
+      "category": "Personal data"
+    },
+    {
+      "word": "delo",
+      "phonetic": "[ˈdeːlo]",
+      "example_sentence": "Vsako jutro grem v službo.",
+      "category": "Work"
+    },
+    {
+      "word": "šola",
+      "phonetic": "[ˈʃoːla]",
+      "example_sentence": "Otroci gredo v šolo zjutraj.",
+      "category": "Education"
+    },
+    {
+      "word": "bolnišnica",
+      "phonetic": "[bolˈniːʃnit͡sa]",
+      "example_sentence": "Zdravnik dela v bolnišnici.",
+      "category": "Health"
+    },
+    {
+      "word": "hrana",
+      "phonetic": "[ˈhraːna]",
+      "example_sentence": "Slovenska hrana je zelo okusna.",
+      "category": "Food"
+    },
+    {
+      "word": "čas",
+      "phonetic": "[t͡ʃaːs]",
+      "example_sentence": "Čas zelo hitro mine.",
+      "category": "Time"
+    },
+    {
+      "word": "denar",
+      "phonetic": "[ˈdeːnar]",
+      "example_sentence": "Potrebujem denar za nakup avtomobila.",
+      "category": "Finance"
+    },
+    {
+      "word": "mesto",
+      "phonetic": "[ˈmeːsto]",
+      "example_sentence": "Ljubljana je zelo lepo mesto.",
+      "category": "Geography"
+    },
+    {
+      "word": "potovanje",
+      "phonetic": "[potoˈʋaːnje]",
+      "example_sentence": "Moje potovanje v Slovenijo je bilo neverjetno.",
+      "category": "Travel"
+    },
+    {
+      "word": "glasba",
+      "phonetic": "[ˈɡlaːsba]",
+      "example_sentence": "Rad poslušam klasično glasbo.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "knjiga",
+      "phonetic": "[ˈkɲiːɡa]",
+      "example_sentence": "Berem zelo zanimivo knjigo.",
+      "category": "Education"
+    },
+    {
+      "word": "prijateljstvo",
+      "phonetic": "[prijˈateljstʋo]",
+      "example_sentence": "Prijateljstvo je zelo dragocen zaklad.",
+      "category": "Personal data"
+    },
+    {
+      "word": "narava",
+      "phonetic": "[naˈraːʋa]",
+      "example_sentence": "Rad se sprehajam v naravi.",
+      "category": "Nature"
+    },
+    {
+      "word": "sreča",
+      "phonetic": "[ˈsreːt͡ʃa]",
+      "example_sentence": "Sreča se nahaja v majhnih stvareh.",
+      "category": "Emotions"
+    },
+    {
+      "word": "komunikacija",
+      "phonetic": "[komunikaˈt͡siːja]",
+      "example_sentence": "Komunikacija je ključ v odnosih.",
+      "category": "Communication"
+    },
+    {
+      "word": "tehnologija",
+      "phonetic": "[texnoloˈɡiːja]",
+      "example_sentence": "Tehnologija se razvija zelo hitro.",
+      "category": "Technology"
+    },
+    {
+      "word": "kultura",
+      "phonetic": "[kulˈtuːra]",
+      "example_sentence": "Slovenska kultura je zelo bogata.",
+      "category": "Culture"
+    },
+    {
+      "word": "svoboda",
+      "phonetic": "[sʋoˈboːda]",
+      "example_sentence": "Svoboda je temeljna pravica.",
+      "category": "Society"
+    },
+    {
+      "word": "upanje",
+      "phonetic": "[uˈpaːnje]",
+      "example_sentence": "Nikoli ne izgubi upanja v prihodnost.",
+      "category": "Emotions"
+    }
+  ]
+}

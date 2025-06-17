@@ -1,0 +1,126 @@
+{
+  "language": "finnish",
+  "display_name": "Finn",
+  "words": [
+    {
+      "word": "poissaolo",
+      "phonetic": "[ˈpoisːɑːolo]",
+      "example_sentence": "Hänen poissaolonsa aikana hoidin taloa.",
+      "category": "Personal data"
+    },
+    {
+      "word": "perhe",
+      "phonetic": "[ˈperhe]",
+      "example_sentence": "Perheeni on minulle erittäin tärkeä.",
+      "category": "Personal data"
+    },
+    {
+      "word": "työ",
+      "phonetic": "[ˈtyø]",
+      "example_sentence": "Menen töihin joka aamu.",
+      "category": "Work"
+    },
+    {
+      "word": "koulu",
+      "phonetic": "[ˈkoulu]",
+      "example_sentence": "Lapset menevät kouluun aamulla.",
+      "category": "Education"
+    },
+    {
+      "word": "sairaala",
+      "phonetic": "[ˈsɑirɑːlɑ]",
+      "example_sentence": "Lääkäri työskentelee sairaalassa.",
+      "category": "Health"
+    },
+    {
+      "word": "ruoka",
+      "phonetic": "[ˈruokɑ]",
+      "example_sentence": "Suomalainen ruoka on erittäin hyvää.",
+      "category": "Food"
+    },
+    {
+      "word": "aika",
+      "phonetic": "[ˈɑikɑ]",
+      "example_sentence": "Aika kuluu erittäin nopeasti.",
+      "category": "Time"
+    },
+    {
+      "word": "raha",
+      "phonetic": "[ˈrɑhɑ]",
+      "example_sentence": "Tarvitsen rahaa auton ostamiseen.",
+      "category": "Finance"
+    },
+    {
+      "word": "kaupunki",
+      "phonetic": "[ˈkɑupuŋki]",
+      "example_sentence": "Helsinki on erittäin kaunis kaupunki.",
+      "category": "Geography"
+    },
+    {
+      "word": "matka",
+      "phonetic": "[ˈmɑtkɑ]",
+      "example_sentence": "Matkani Suomeen oli uskomaton.",
+      "category": "Travel"
+    },
+    {
+      "word": "musiikki",
+      "phonetic": "[ˈmusiːkːi]",
+      "example_sentence": "Rakastan kuunnella klassista musiikkia.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "kirja",
+      "phonetic": "[ˈkirjɑ]",
+      "example_sentence": "Luen erittäin mielenkiintoista kirjaa.",
+      "category": "Education"
+    },
+    {
+      "word": "ystävyys",
+      "phonetic": "[ˈystæʋyːs]",
+      "example_sentence": "Ystävyys on erittäin arvokas aarre.",
+      "category": "Personal data"
+    },
+    {
+      "word": "luonto",
+      "phonetic": "[ˈluonto]",
+      "example_sentence": "Pidän kävelystä luonnossa.",
+      "category": "Nature"
+    },
+    {
+      "word": "onnellisuus",
+      "phonetic": "[ˈonːeˌlːisuːs]",
+      "example_sentence": "Onnellisuus löytyy pienistä asioista.",
+      "category": "Emotions"
+    },
+    {
+      "word": "viestintä",
+      "phonetic": "[ˈʋiestintæ]",
+      "example_sentence": "Viestintä on avain suhteissa.",
+      "category": "Communication"
+    },
+    {
+      "word": "teknologia",
+      "phonetic": "[ˈteknoloɡiɑ]",
+      "example_sentence": "Teknologia kehittyy erittäin nopeasti.",
+      "category": "Technology"
+    },
+    {
+      "word": "kulttuuri",
+      "phonetic": "[ˈkultːuːri]",
+      "example_sentence": "Suomalainen kulttuuri on erittäin rikas.",
+      "category": "Culture"
+    },
+    {
+      "word": "vapaus",
+      "phonetic": "[ˈʋɑpɑus]",
+      "example_sentence": "Vapaus on perusoikeus.",
+      "category": "Society"
+    },
+    {
+      "word": "toivo",
+      "phonetic": "[ˈtoiʋo]",
+      "example_sentence": "Älä koskaan menetä toivoa tulevaisuudesta.",
+      "category": "Emotions"
+    }
+  ]
+}

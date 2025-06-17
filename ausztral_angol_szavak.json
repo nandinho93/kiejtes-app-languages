@@ -1,0 +1,126 @@
+{
+  "language": "english_au",
+  "display_name": "Ausztrál angol",
+  "words": [
+    {
+      "word": "absence",
+      "phonetic": "[ˈæbsəns]",
+      "example_sentence": "A new teacher was appointed during his absence, mate.",
+      "category": "Personal data"
+    },
+    {
+      "word": "family",
+      "phonetic": "[ˈfæməli]",
+      "example_sentence": "My family is really important to me.",
+      "category": "Personal data"
+    },
+    {
+      "word": "work",
+      "phonetic": "[wɜːk]",
+      "example_sentence": "I go to work every morning without fail.",
+      "category": "Work"
+    },
+    {
+      "word": "school",
+      "phonetic": "[skuːl]",
+      "example_sentence": "The kids go to school in the morning.",
+      "category": "Education"
+    },
+    {
+      "word": "hospital",
+      "phonetic": "[ˈhɒspɪtəl]",
+      "example_sentence": "The doctor works at the local hospital.",
+      "category": "Health"
+    },
+    {
+      "word": "food",
+      "phonetic": "[fuːd]",
+      "example_sentence": "Australian food is quite diverse and tasty.",
+      "category": "Food"
+    },
+    {
+      "word": "time",
+      "phonetic": "[taɪm]",
+      "example_sentence": "Time flies by really quickly here.",
+      "category": "Time"
+    },
+    {
+      "word": "money",
+      "phonetic": "[ˈmʌni]",
+      "example_sentence": "I need some money to buy that car.",
+      "category": "Finance"
+    },
+    {
+      "word": "city",
+      "phonetic": "[ˈsɪti]",
+      "example_sentence": "Sydney is a bloody beautiful city.",
+      "category": "Geography"
+    },
+    {
+      "word": "travel",
+      "phonetic": "[ˈtrævəl]",
+      "example_sentence": "My travel around Australia was brilliant.",
+      "category": "Travel"
+    },
+    {
+      "word": "music",
+      "phonetic": "[ˈmjuːzɪk]",
+      "example_sentence": "I really enjoy listening to classical music.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "book",
+      "phonetic": "[bʊk]",
+      "example_sentence": "I'm reading a really interesting book.",
+      "category": "Education"
+    },
+    {
+      "word": "friendship",
+      "phonetic": "[ˈfrendʃɪp]",
+      "example_sentence": "Friendship is a really valuable treasure, mate.",
+      "category": "Personal data"
+    },
+    {
+      "word": "nature",
+      "phonetic": "[ˈneɪtʃə]",
+      "example_sentence": "I love walking in the Australian nature.",
+      "category": "Nature"
+    },
+    {
+      "word": "happiness",
+      "phonetic": "[ˈhæpɪnəs]",
+      "example_sentence": "Happiness is found in the little things.",
+      "category": "Emotions"
+    },
+    {
+      "word": "communication",
+      "phonetic": "[kəˌmjuːnɪˈkeɪʃən]",
+      "example_sentence": "Good communication is the key in relationships.",
+      "category": "Communication"
+    },
+    {
+      "word": "technology",
+      "phonetic": "[tekˈnɒləˌdʒi]",
+      "example_sentence": "Technology develops really quickly these days.",
+      "category": "Technology"
+    },
+    {
+      "word": "culture",
+      "phonetic": "[ˈkʌltʃə]",
+      "example_sentence": "Australian culture is quite unique and diverse.",
+      "category": "Culture"
+    },
+    {
+      "word": "freedom",
+      "phonetic": "[ˈfriːdəm]",
+      "example_sentence": "Freedom is a fundamental right for everyone.",
+      "category": "Society"
+    },
+    {
+      "word": "hope",
+      "phonetic": "[həʊp]",
+      "example_sentence": "Never lose hope in the future, mate.",
+      "category": "Emotions"
+    }
+  ]
+}

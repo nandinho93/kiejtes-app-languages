@@ -1,0 +1,126 @@
+{
+  "language": "danish",
+  "display_name": "Dán",
+  "words": [
+    {
+      "word": "fravær",
+      "phonetic": "[ˈfʁɑːvæːˀ]",
+      "example_sentence": "Under hans fravær passede jeg huset.",
+      "category": "Personal data"
+    },
+    {
+      "word": "familie",
+      "phonetic": "[faˈmiːljə]",
+      "example_sentence": "Min familie er meget vigtig for mig.",
+      "category": "Personal data"
+    },
+    {
+      "word": "arbejde",
+      "phonetic": "[ˈɑːˌb̥ajðə]",
+      "example_sentence": "Jeg går på arbejde hver morgen.",
+      "category": "Work"
+    },
+    {
+      "word": "skole",
+      "phonetic": "[ˈsɡ̊oːlə]",
+      "example_sentence": "Børnene går i skole om morgenen.",
+      "category": "Education"
+    },
+    {
+      "word": "hospital",
+      "phonetic": "[hosb̥iˈtaːˀl]",
+      "example_sentence": "Lægen arbejder på hospitalet.",
+      "category": "Health"
+    },
+    {
+      "word": "mad",
+      "phonetic": "[mað]",
+      "example_sentence": "Dansk mad er meget lækker.",
+      "category": "Food"
+    },
+    {
+      "word": "tid",
+      "phonetic": "[tiðˀ]",
+      "example_sentence": "Tiden går meget hurtigt.",
+      "category": "Time"
+    },
+    {
+      "word": "penge",
+      "phonetic": "[ˈpʰeŋə]",
+      "example_sentence": "Jeg har brug for penge til at købe bilen.",
+      "category": "Finance"
+    },
+    {
+      "word": "by",
+      "phonetic": "[byːˀ]",
+      "example_sentence": "København er en meget smuk by.",
+      "category": "Geography"
+    },
+    {
+      "word": "rejse",
+      "phonetic": "[ˈʁajsə]",
+      "example_sentence": "Min rejse til Danmark var utrolig.",
+      "category": "Travel"
+    },
+    {
+      "word": "musik",
+      "phonetic": "[muˈsiɡ̊]",
+      "example_sentence": "Jeg elsker at høre klassisk musik.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "bog",
+      "phonetic": "[b̥oːʊ̯ˀ]",
+      "example_sentence": "Jeg læser en meget interessant bog.",
+      "category": "Education"
+    },
+    {
+      "word": "venskab",
+      "phonetic": "[ˈvensgɑb̥]",
+      "example_sentence": "Venskab er en meget værdifuld skat.",
+      "category": "Personal data"
+    },
+    {
+      "word": "natur",
+      "phonetic": "[naˈtuɐ̯ˀ]",
+      "example_sentence": "Jeg kan lide at gå ture i naturen.",
+      "category": "Nature"
+    },
+    {
+      "word": "lykke",
+      "phonetic": "[ˈlygə]",
+      "example_sentence": "Lykke findes i de små ting.",
+      "category": "Emotions"
+    },
+    {
+      "word": "kommunikation",
+      "phonetic": "[kʰɔmunikaˈt͡ʃoːˀn]",
+      "example_sentence": "Kommunikation er nøglen i forhold.",
+      "category": "Communication"
+    },
+    {
+      "word": "teknologi",
+      "phonetic": "[tʰɛɡ̊noloˈɡiːˀ]",
+      "example_sentence": "Teknologi udvikler sig meget hurtigt.",
+      "category": "Technology"
+    },
+    {
+      "word": "kultur",
+      "phonetic": "[kʰulˈtuɐ̯ˀ]",
+      "example_sentence": "Dansk kultur er meget rig.",
+      "category": "Culture"
+    },
+    {
+      "word": "frihed",
+      "phonetic": "[ˈfʁiːhəð]",
+      "example_sentence": "Frihed er en grundlæggende rettighed.",
+      "category": "Society"
+    },
+    {
+      "word": "håb",
+      "phonetic": "[hɔːˀb̥]",
+      "example_sentence": "Mist aldrig håbet om fremtiden.",
+      "category": "Emotions"
+    }
+  ]
+}

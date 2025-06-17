@@ -1,0 +1,122 @@
+[
+  {
+    "word": "bonjour",
+    "phonetic": "/bon.ˈʒuʁ/",
+    "example_sentence": "Bonjour, comment allez-vous?",
+    "category": "greeting"
+  },
+  {
+    "word": "char",
+    "phonetic": "/ʃaʁ/",
+    "example_sentence": "Mon char est dans le stationnement.",
+    "category": "transport"
+  },
+  {
+    "word": "dîner",
+    "phonetic": "/di.ˈne/",
+    "example_sentence": "Le dîner était délicieux hier soir.",
+    "category": "food"
+  },
+  {
+    "word": "magasiner",
+    "phonetic": "/ma.ɡa.zi.ˈne/",
+    "example_sentence": "J'aime magasiner le weekend.",
+    "category": "activity"
+  },
+  {
+    "word": "bleuet",
+    "phonetic": "/blø.ˈɛ/",
+    "example_sentence": "Les bleuets sont délicieux en été.",
+    "category": "food"
+  },
+  {
+    "word": "achaler",
+    "phonetic": "/a.ʃa.ˈle/",
+    "example_sentence": "Arrête de m'achaler!",
+    "category": "emotion"
+  },
+  {
+    "word": "dépanneur",
+    "phonetic": "/de.pa.ˈnœʁ/",
+    "example_sentence": "Je vais au dépanneur acheter du lait.",
+    "category": "place"
+  },
+  {
+    "word": "tuque",
+    "phonetic": "/tyk/",
+    "example_sentence": "Mets ta tuque, il fait froid.",
+    "category": "clothing"
+  },
+  {
+    "word": "chum",
+    "phonetic": "/ʃœm/",
+    "example_sentence": "Mon chum arrive ce soir.",
+    "category": "people"
+  },
+  {
+    "word": "cabane",
+    "phonetic": "/ka.ˈban/",
+    "example_sentence": "Nous avons une cabane à sucre.",
+    "category": "building"
+  },
+  {
+    "word": "courriel",
+    "phonetic": "/ku.ˈʁjɛl/",
+    "example_sentence": "Envoie-moi un courriel demain.",
+    "category": "technology"
+  },
+  {
+    "word": "fin de semaine",
+    "phonetic": "/fɛ̃ də sə.ˈmɛn/",
+    "example_sentence": "Bon fin de semaine à tous!",
+    "category": "time"
+  },
+  {
+    "word": "pantoute",
+    "phonetic": "/pan.ˈtut/",
+    "example_sentence": "Je ne comprends pantoute.",
+    "category": "expression"
+  },
+  {
+    "word": "pogner",
+    "phonetic": "/pɔ.ˈɲe/",
+    "example_sentence": "Il a pogné un rhume.",
+    "category": "action"
+  },
+  {
+    "word": "sloche",
+    "phonetic": "/slɔʃ/",
+    "example_sentence": "Attention à la sloche sur la route.",
+    "category": "weather"
+  },
+  {
+    "word": "tabarnak",
+    "phonetic": "/ta.baʁ.ˈnak/",
+    "example_sentence": "Tabarnak, j'ai oublié mes clés!",
+    "category": "expression"
+  },
+  {
+    "word": "gosses",
+    "phonetic": "/ɡɔs/",
+    "example_sentence": "Les gosses jouent dehors.",
+    "category": "people"
+  },
+  {
+    "word": "bébelle",
+    "phonetic": "/be.ˈbɛl/",
+    "example_sentence": "Range tes bébelles!",
+    "category": "object"
+  },
+  {
+    "word": "niaiser",
+    "phonetic": "/nja.ˈze/",
+    "example_sentence": "Arrête de niaiser et travaille.",
+    "category": "behavior"
+  },
+  {
+    "word": "blonde",
+    "phonetic": "/blɔ̃d/",
+    "example_sentence": "C'est ma blonde depuis deux ans.",
+    "category": "people"
+  }
+]

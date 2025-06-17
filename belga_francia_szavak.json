@@ -1,0 +1,122 @@
+[
+  {
+    "word": "bonjour",
+    "phonetic": "/bon.ˈʒuʁ/",
+    "example_sentence": "Bonjour, comment allez-vous?",
+    "category": "greeting"
+  },
+  {
+    "word": "septante",
+    "phonetic": "/sɛp.ˈtɑ̃t/",
+    "example_sentence": "J'ai septante ans aujourd'hui.",
+    "category": "number"
+  },
+  {
+    "word": "nonante",
+    "phonetic": "/no.ˈnɑ̃t/",
+    "example_sentence": "Il y a nonante élèves dans l'école.",
+    "category": "number"
+  },
+  {
+    "word": "déjeuner",
+    "phonetic": "/de.ʒø.ˈne/",
+    "example_sentence": "Le déjeuner est à midi.",
+    "category": "food"
+  },
+  {
+    "word": "souper",
+    "phonetic": "/su.ˈpe/",
+    "example_sentence": "Nous prenons le souper ensemble.",
+    "category": "food"
+  },
+  {
+    "word": "drache",
+    "phonetic": "/dʁaʃ/",
+    "example_sentence": "Il tombe une drache dehors.",
+    "category": "weather"
+  },
+  {
+    "word": "brol",
+    "phonetic": "/bʁɔl/",
+    "example_sentence": "Range ton brol avant de partir.",
+    "category": "object"
+  },
+  {
+    "word": "chicon",
+    "phonetic": "/ʃi.ˈkɔ̃/",
+    "example_sentence": "J'adore les chicons au jambon.",
+    "category": "food"
+  },
+  {
+    "word": "pistolet",
+    "phonetic": "/pis.to.ˈlɛ/",
+    "example_sentence": "Deux pistolets au fromage, s'il vous plaît.",
+    "category": "food"
+  },
+  {
+    "word": "carabistouille",
+    "phonetic": "/ka.ʁa.bis.ˈtuj/",
+    "example_sentence": "Tout ça, c'est de la carabistouille!",
+    "category": "expression"
+  },
+  {
+    "word": "savoir",
+    "phonetic": "/sa.ˈvwaʁ/",
+    "example_sentence": "Savoir si il va venir ce soir.",
+    "category": "thinking"
+  },
+  {
+    "word": "blinquer",
+    "phonetic": "/blin.ˈke/",
+    "example_sentence": "Ma voiture blinque au soleil.",
+    "category": "appearance"
+  },
+  {
+    "word": "kicker",
+    "phonetic": "/ki.ˈke/",
+    "example_sentence": "Il faut kicker le ballon plus fort.",
+    "category": "sport"
+  },
+  {
+    "word": "boiler",
+    "phonetic": "/bɔj.ˈle/",
+    "example_sentence": "Le boiler est en panne.",
+    "category": "appliance"
+  },
+  {
+    "word": "GSM",
+    "phonetic": "/ʒe.ɛs.ˈɛm/",
+    "example_sentence": "J'ai oublié mon GSM à la maison.",
+    "category": "technology"
+  },
+  {
+    "word": "tchatcher",
+    "phonetic": "/tʃa.ˈtʃe/",
+    "example_sentence": "On a tché toute la soirée.",
+    "category": "communication"
+  },
+  {
+    "word": "clignotant",
+    "phonetic": "/kli.ɲo.ˈtɑ̃/",
+    "example_sentence": "Mets ton clignotant avant de tourner.",
+    "category": "transport"
+  },
+  {
+    "word": "sacoche",
+    "phonetic": "/sa.ˈkɔʃ/",
+    "example_sentence": "Elle porte une belle sacoche.",
+    "category": "accessory"
+  },
+  {
+    "word": "aubette",
+    "phonetic": "/o.ˈbɛt/",
+    "example_sentence": "J'attends le bus à l'aubette.",
+    "category": "transport"
+  },
+  {
+    "word": "spulleke",
+    "phonetic": "/spyl.ləˈkə/",
+    "example_sentence": "Prenons un spulleke ensemble.",
+    "category": "activity"
+  }
+]

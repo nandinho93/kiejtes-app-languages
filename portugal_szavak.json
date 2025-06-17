@@ -1,0 +1,126 @@
+{
+  "language": "portuguese",
+  "display_name": "Portugál",
+  "words": [
+    {
+      "word": "ausência",
+      "phonetic": "[auˈzẽsjɐ]",
+      "example_sentence": "Durante a sua ausência, cuidei da casa.",
+      "category": "Personal data"
+    },
+    {
+      "word": "família",
+      "phonetic": "[fɐˈmiʎɐ]",
+      "example_sentence": "A minha família é muito importante.",
+      "category": "Personal data"
+    },
+    {
+      "word": "trabalho",
+      "phonetic": "[tɾɐˈbaʎu]",
+      "example_sentence": "Vou para o trabalho de manhã.",
+      "category": "Work"
+    },
+    {
+      "word": "escola",
+      "phonetic": "[ɨʃˈkɔlɐ]",
+      "example_sentence": "As crianças vão à escola.",
+      "category": "Education"
+    },
+    {
+      "word": "hospital",
+      "phonetic": "[ɔʃpiˈtaɫ]",
+      "example_sentence": "O médico trabalha no hospital.",
+      "category": "Health"
+    },
+    {
+      "word": "comida",
+      "phonetic": "[kuˈmidɐ]",
+      "example_sentence": "A comida portuguesa é deliciosa.",
+      "category": "Food"
+    },
+    {
+      "word": "tempo",
+      "phonetic": "[ˈtẽpu]",
+      "example_sentence": "O tempo passa muito depressa.",
+      "category": "Time"
+    },
+    {
+      "word": "dinheiro",
+      "phonetic": "[diˈɲejɾu]",
+      "example_sentence": "Preciso de dinheiro para comprar o carro.",
+      "category": "Finance"
+    },
+    {
+      "word": "cidade",
+      "phonetic": "[siˈdadɨ]",
+      "example_sentence": "Lisboa é uma cidade muito bonita.",
+      "category": "Geography"
+    },
+    {
+      "word": "viagem",
+      "phonetic": "[viˈaʒẽj]",
+      "example_sentence": "A minha viagem ao Brasil foi incrível.",
+      "category": "Travel"
+    },
+    {
+      "word": "música",
+      "phonetic": "[ˈmuzikɐ]",
+      "example_sentence": "Adoro ouvir música clássica.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "livro",
+      "phonetic": "[ˈlivɾu]",
+      "example_sentence": "Estou a ler um livro muito interessante.",
+      "category": "Education"
+    },
+    {
+      "word": "amizade",
+      "phonetic": "[ɐmiˈzadɨ]",
+      "example_sentence": "A amizade é um tesouro muito valioso.",
+      "category": "Personal data"
+    },
+    {
+      "word": "natureza",
+      "phonetic": "[nɐtuˈɾezɐ]",
+      "example_sentence": "Gosto de caminhar na natureza.",
+      "category": "Nature"
+    },
+    {
+      "word": "felicidade",
+      "phonetic": "[fɨlisiˈdadɨ]",
+      "example_sentence": "A felicidade encontra-se nas pequenas coisas.",
+      "category": "Emotions"
+    },
+    {
+      "word": "comunicação",
+      "phonetic": "[kumunikɐˈsɐ̃w]",
+      "example_sentence": "A comunicação é fundamental nas relações.",
+      "category": "Communication"
+    },
+    {
+      "word": "tecnologia",
+      "phonetic": "[tɛknuluˈʒiɐ]",
+      "example_sentence": "A tecnologia avança muito rapidamente.",
+      "category": "Technology"
+    },
+    {
+      "word": "cultura",
+      "phonetic": "[kuɫˈtuɾɐ]",
+      "example_sentence": "A cultura portuguesa é muito rica.",
+      "category": "Culture"
+    },
+    {
+      "word": "liberdade",
+      "phonetic": "[libɨɾˈdadɨ]",
+      "example_sentence": "A liberdade é um direito fundamental.",
+      "category": "Society"
+    },
+    {
+      "word": "esperança",
+      "phonetic": "[ɨʃpɨˈɾɐ̃sɐ]",
+      "example_sentence": "Nunca percas a esperança no futuro.",
+      "category": "Emotions"
+    }
+  ]
+}

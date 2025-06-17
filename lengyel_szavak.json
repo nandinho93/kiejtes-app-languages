@@ -1,0 +1,126 @@
+{
+  "language": "polish",
+  "display_name": "Lengyel",
+  "words": [
+    {
+      "word": "nieobecność",
+      "phonetic": "[ɲɛɔˈbɛt͡sɔɕt͡ɕ]",
+      "example_sentence": "Podczas jego nieobecności opiekowałem się domem.",
+      "category": "Personal data"
+    },
+    {
+      "word": "rodzina",
+      "phonetic": "[rɔˈd͡ʑina]",
+      "example_sentence": "Moja rodzina jest dla mnie bardzo ważna.",
+      "category": "Personal data"
+    },
+    {
+      "word": "praca",
+      "phonetic": "[ˈprat͡sa]",
+      "example_sentence": "Chodzę do pracy każdego ranka.",
+      "category": "Work"
+    },
+    {
+      "word": "szkoła",
+      "phonetic": "[ˈʂkɔwa]",
+      "example_sentence": "Dzieci idą do szkoły rano.",
+      "category": "Education"
+    },
+    {
+      "word": "szpital",
+      "phonetic": "[ˈʂpital]",
+      "example_sentence": "Lekarz pracuje w szpitalu.",
+      "category": "Health"
+    },
+    {
+      "word": "jedzenie",
+      "phonetic": "[jɛˈd͡zɛɲɛ]",
+      "example_sentence": "Polskie jedzenie jest bardzo smaczne.",
+      "category": "Food"
+    },
+    {
+      "word": "czas",
+      "phonetic": "[t͡ʂas]",
+      "example_sentence": "Czas mija bardzo szybko.",
+      "category": "Time"
+    },
+    {
+      "word": "pieniądze",
+      "phonetic": "[pʲɛˈɲɔnd͡zɛ]",
+      "example_sentence": "Potrzebuję pieniędzy, żeby kupić samochód.",
+      "category": "Finance"
+    },
+    {
+      "word": "miasto",
+      "phonetic": "[ˈmʲastɔ]",
+      "example_sentence": "Warszawa to bardzo piękne miasto.",
+      "category": "Geography"
+    },
+    {
+      "word": "podróż",
+      "phonetic": "[ˈpɔdrɔʂ]",
+      "example_sentence": "Moja podróż do Polski była niesamowita.",
+      "category": "Travel"
+    },
+    {
+      "word": "muzyka",
+      "phonetic": "[muˈzɨka]",
+      "example_sentence": "Uwielbiam słuchać muzyki klasycznej.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "książka",
+      "phonetic": "[ˈkɕɔ̃ʂka]",
+      "example_sentence": "Czytam bardzo interesującą książkę.",
+      "category": "Education"
+    },
+    {
+      "word": "przyjaźń",
+      "phonetic": "[ˈpʂɨjaʑɲ]",
+      "example_sentence": "Przyjaźń to bardzo cenny skarb.",
+      "category": "Personal data"
+    },
+    {
+      "word": "natura",
+      "phonetic": "[naˈtura]",
+      "example_sentence": "Lubię spacerować w naturze.",
+      "category": "Nature"
+    },
+    {
+      "word": "szczęście",
+      "phonetic": "[ˈʂt͡ʂɛɲɕt͡ɕɛ]",
+      "example_sentence": "Szczęście znajduje się w małych rzeczach.",
+      "category": "Emotions"
+    },
+    {
+      "word": "komunikacja",
+      "phonetic": "[kɔmuɲiˈkat͡sja]",
+      "example_sentence": "Komunikacja jest kluczem w związkach.",
+      "category": "Communication"
+    },
+    {
+      "word": "technologia",
+      "phonetic": "[tɛxnɔˈlɔɡja]",
+      "example_sentence": "Technologia rozwija się bardzo szybko.",
+      "category": "Technology"
+    },
+    {
+      "word": "kultura",
+      "phonetic": "[kulˈtura]",
+      "example_sentence": "Polska kultura jest bardzo bogata.",
+      "category": "Culture"
+    },
+    {
+      "word": "wolność",
+      "phonetic": "[ˈvɔlnɔɕt͡ɕ]",
+      "example_sentence": "Wolność to podstawowe prawo.",
+      "category": "Society"
+    },
+    {
+      "word": "nadzieja",
+      "phonetic": "[naˈd͡ʑɛja]",
+      "example_sentence": "Nigdy nie trać nadziei na przyszłość.",
+      "category": "Emotions"
+    }
+  ]
+}

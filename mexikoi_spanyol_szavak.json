@@ -1,125 +1,125 @@
 {
-  "language": "spanish",
-  "display_name": "Spanyol",
+  "language": "spanish_mx",
+  "display_name": "Mexikói spanyol",
   "words": [
     {
       "word": "ausencia",
-      "phonetic": "[auˈsenθja]",
-      "example_sentence": "Durante mi ausencia, mi hermano cuidó la casa.",
+      "phonetic": "[auˈsensja]",
+      "example_sentence": "Durante su ausencia, yo cuidé la casa, ¿verdad?",
       "category": "Personal data"
     },
     {
       "word": "familia",
       "phonetic": "[faˈmilja]",
-      "example_sentence": "Mi familia es muy importante para mí.",
+      "example_sentence": "Mi familia es bien importante para mí, compadre.",
       "category": "Personal data"
     },
     {
       "word": "trabajo",
       "phonetic": "[traˈβaxo]",
-      "example_sentence": "Voy al trabajo todos los días.",
+      "example_sentence": "Voy al trabajo todas las mañanas, órale.",
       "category": "Work"
     },
     {
       "word": "escuela",
       "phonetic": "[esˈkwela]",
-      "example_sentence": "Los niños van a la escuela por la mañana.",
+      "example_sentence": "Los chavos van a la escuela por la mañana.",
       "category": "Education"
     },
     {
       "word": "hospital",
       "phonetic": "[ospiˈtal]",
-      "example_sentence": "El médico trabaja en el hospital.",
+      "example_sentence": "El doctor trabaja en el hospital de la ciudad.",
       "category": "Health"
     },
     {
       "word": "comida",
       "phonetic": "[koˈmiða]",
-      "example_sentence": "La comida española es deliciosa.",
+      "example_sentence": "La comida mexicana está bien sabrosa, ¿no?",
       "category": "Food"
     },
     {
       "word": "tiempo",
       "phonetic": "[ˈtjempo]",
-      "example_sentence": "El tiempo pasa muy rápido.",
+      "example_sentence": "El tiempo se pasa bien rápido, ¿verdad?",
       "category": "Time"
     },
     {
       "word": "dinero",
       "phonetic": "[diˈnero]",
-      "example_sentence": "Necesito dinero para comprar el coche.",
+      "example_sentence": "Necesito dinero para comprar la troca.",
       "category": "Finance"
     },
     {
       "word": "ciudad",
-      "phonetic": "[θjuˈðað]",
-      "example_sentence": "Madrid es una ciudad muy grande.",
+      "phonetic": "[sjuˈðað]",
+      "example_sentence": "Ciudad de México es una ciudad bien grande.",
       "category": "Geography"
     },
     {
       "word": "viaje",
       "phonetic": "[ˈbjaxe]",
-      "example_sentence": "Mi viaje a España fue increíble.",
+      "example_sentence": "Mi viaje a México estuvo padrísimo.",
       "category": "Travel"
     },
     {
       "word": "música",
       "phonetic": "[ˈmusika]",
-      "example_sentence": "Me encanta escuchar música clásica.",
+      "example_sentence": "Me encanta escuchar música ranchera.",
       "category": "Entertainment"
     },
     {
       "word": "libro",
       "phonetic": "[ˈliβro]",
-      "example_sentence": "Estoy leyendo un libro muy interesante.",
+      "example_sentence": "Estoy leyendo un libro bien interesante.",
       "category": "Education"
     },
     {
       "word": "amistad",
       "phonetic": "[amisˈtað]",
-      "example_sentence": "La amistad es un tesoro muy valioso.",
+      "example_sentence": "La amistad es un tesoro bien valioso, compa.",
       "category": "Personal data"
     },
     {
       "word": "naturaleza",
-      "phonetic": "[natuɾaˈleθa]",
-      "example_sentence": "Me gusta caminar por la naturaleza.",
+      "phonetic": "[natuɾaˈlesa]",
+      "example_sentence": "Me gusta caminar por la naturaleza mexicana.",
       "category": "Nature"
     },
     {
       "word": "felicidad",
-      "phonetic": "[feliθiˈðað]",
-      "example_sentence": "La felicidad se encuentra en las pequeñas cosas.",
+      "phonetic": "[felisiˈðað]",
+      "example_sentence": "La felicidad se encuentra en las cositas chiquitas.",
       "category": "Emotions"
     },
     {
       "word": "comunicación",
-      "phonetic": "[komunikaˈθjon]",
-      "example_sentence": "La comunicación es clave en las relaciones.",
+      "phonetic": "[komunikaˈsjon]",
+      "example_sentence": "La comunicación es clave en las relaciones, ¿no?",
       "category": "Communication"
     },
     {
       "word": "tecnología",
       "phonetic": "[teknoloˈxia]",
-      "example_sentence": "La tecnología avanza muy rápido.",
+      "example_sentence": "La tecnología avanza bien rápido hoy en día.",
       "category": "Technology"
     },
     {
       "word": "cultura",
       "phonetic": "[kulˈtuɾa]",
-      "example_sentence": "La cultura española es muy rica.",
+      "example_sentence": "La cultura mexicana es bien rica y diversa.",
       "category": "Culture"
     },
     {
       "word": "libertad",
       "phonetic": "[liβeɾˈtað]",
-      "example_sentence": "La libertad es un derecho fundamental.",
+      "example_sentence": "La libertad es un derecho fundamental, órale.",
       "category": "Society"
     },
     {
       "word": "esperanza",
-      "phonetic": "[espeˈɾanθa]",
-      "example_sentence": "Nunca pierdas la esperanza en el futuro.",
+      "phonetic": "[espeˈɾansa]",
+      "example_sentence": "Nunca pierdas la esperanza en el futuro, compadre.",
       "category": "Emotions"
     }
   ]

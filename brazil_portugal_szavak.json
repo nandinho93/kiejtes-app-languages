@@ -1,0 +1,122 @@
+[
+  {
+    "word": "olá",
+    "phonetic": "/o.ˈla/",
+    "example_sentence": "Olá, como você está?",
+    "category": "greeting"
+  },
+  {
+    "word": "saudade",
+    "phonetic": "/saw.ˈda.dʒi/",
+    "example_sentence": "Estou com saudade de você.",
+    "category": "emotion"
+  },
+  {
+    "word": "brigadeiro",
+    "phonetic": "/bɾi.ɡa.ˈdej.ɾu/",
+    "example_sentence": "O brigadeiro está delicioso.",
+    "category": "food"
+  },
+  {
+    "word": "caipirinha",
+    "phonetic": "/kaj.pi.ˈɾĩ.ɲa/",
+    "example_sentence": "Vamos tomar uma caipirinha?",
+    "category": "drink"
+  },
+  {
+    "word": "açaí",
+    "phonetic": "/a.sa.ˈi/",
+    "example_sentence": "Eu adoro açaí com granola.",
+    "category": "food"
+  },
+  {
+    "word": "feijoada",
+    "phonetic": "/fej.ʒo.ˈa.da/",
+    "example_sentence": "A feijoada de sábado estava ótima.",
+    "category": "food"
+  },
+  {
+    "word": "tchau",
+    "phonetic": "/ˈtʃaw/",
+    "example_sentence": "Tchau, até logo!",
+    "category": "farewell"
+  },
+  {
+    "word": "geladeira",
+    "phonetic": "/ʒe.la.ˈdej.ɾa/",
+    "example_sentence": "A cerveja está na geladeira.",
+    "category": "appliance"
+  },
+  {
+    "word": "cafezinho",
+    "phonetic": "/ka.fe.ˈzĩ.ɲu/",
+    "example_sentence": "Quer um cafezinho?",
+    "category": "drink"
+  },
+  {
+    "word": "churrasco",
+    "phonetic": "/ʃu.ˈʁas.ku/",
+    "example_sentence": "Vamos fazer um churrasco no domingo.",
+    "category": "food"
+  },
+  {
+    "word": "pão de açúcar",
+    "phonetic": "/ˈpɐ̃w dʒi a.ˈsu.kaɾ/",
+    "example_sentence": "O Pão de Açúcar é lindo.",
+    "category": "place"
+  },
+  {
+    "word": "bossa nova",
+    "phonetic": "/ˈbɔ.sa ˈnɔ.va/",
+    "example_sentence": "Ela canta bossa nova muito bem.",
+    "category": "music"
+  },
+  {
+    "word": "carnaval",
+    "phonetic": "/kaɾ.na.ˈvaw/",
+    "example_sentence": "O carnaval do Rio é famoso.",
+    "category": "celebration"
+  },
+  {
+    "word": "guaraná",
+    "phonetic": "/ɡwa.ɾa.ˈna/",
+    "example_sentence": "Prefiro guaraná à coca-cola.",
+    "category": "drink"
+  },
+  {
+    "word": "moqueca",
+    "phonetic": "/mo.ˈke.ka/",
+    "example_sentence": "A moqueca baiana é maravilhosa.",
+    "category": "food"
+  },
+  {
+    "word": "berimbau",
+    "phonetic": "/be.ɾĩ.ˈbaw/",
+    "example_sentence": "O som do berimbau é único.",
+    "category": "instrument"
+  },
+  {
+    "word": "futebol",
+    "phonetic": "/fu.tʃi.ˈbɔw/",
+    "example_sentence": "O Brasil é famoso pelo futebol.",
+    "category": "sport"
+  },
+  {
+    "word": "favela",
+    "phonetic": "/fa.ˈve.la/",
+    "example_sentence": "Ele cresceu numa favela do Rio.",
+    "category": "place"
+  },
+  {
+    "word": "lambada",
+    "phonetic": "/lɐ̃.ˈba.da/",
+    "example_sentence": "A lambada foi muito popular nos anos 90.",
+    "category": "dance"
+  },
+  {
+    "word": "jeitinho",
+    "phonetic": "/ʒej.ˈtʃĩ.ɲu/",
+    "example_sentence": "Ele sempre dá um jeitinho.",
+    "category": "behavior"
+  }
+]

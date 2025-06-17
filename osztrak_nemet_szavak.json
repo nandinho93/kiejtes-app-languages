@@ -1,0 +1,122 @@
+[
+  {
+    "word": "Guten Tag",
+    "phonetic": "/ˈɡuːtən taːk/",
+    "example_sentence": "Guten Tag, wie geht es Ihnen?",
+    "category": "greeting"
+  },
+  {
+    "word": "Semmel",
+    "phonetic": "/ˈzɛməl/",
+    "example_sentence": "Ich hätte gerne eine Semmel mit Butter.",
+    "category": "food"
+  },
+  {
+    "word": "Jänner",
+    "phonetic": "/ˈjɛnɐ/",
+    "example_sentence": "Im Jänner ist es sehr kalt.",
+    "category": "time"
+  },
+  {
+    "word": "heuer",
+    "phonetic": "/ˈhɔɪ̯ɐ/",
+    "example_sentence": "Heuer fahren wir nach Italien.",
+    "category": "time"
+  },
+  {
+    "word": "Obers",
+    "phonetic": "/ˈoːbɐs/",
+    "example_sentence": "Möchten Sie Obers in den Kaffee?",
+    "category": "food"
+  },
+  {
+    "word": "Erdäpfel",
+    "phonetic": "/ˈeːɐ̯tɛpfəl/",
+    "example_sentence": "Die Erdäpfel sind sehr gut geworden.",
+    "category": "food"
+  },
+  {
+    "word": "Sackerl",
+    "phonetic": "/ˈzakɐl/",
+    "example_sentence": "Brauchen Sie ein Sackerl?",
+    "category": "object"
+  },
+  {
+    "word": "Fleischhauer",
+    "phonetic": "/ˈflaɪ̯ʃhaʊ̯ɐ/",
+    "example_sentence": "Beim Fleischhauer gibt es frisches Fleisch.",
+    "category": "profession"
+  },
+  {
+    "word": "Billa",
+    "phonetic": "/ˈbɪla/",
+    "example_sentence": "Ich gehe zum Billa einkaufen.",
+    "category": "place"
+  },
+  {
+    "word": "Paradeiser",
+    "phonetic": "/paʁaˈdaɪ̯zɐ/",
+    "example_sentence": "Die Paradeiser sind sehr reif.",
+    "category": "food"
+  },
+  {
+    "word": "Topfen",
+    "phonetic": "/ˈtɔpfən/",
+    "example_sentence": "Ich mache einen Kuchen mit Topfen.",
+    "category": "food"
+  },
+  {
+    "word": "Gelse",
+    "phonetic": "/ˈɡɛlzə/",
+    "example_sentence": "Die Gelse hat mich gestochen.",
+    "category": "animal"
+  },
+  {
+    "word": "Schlagobers",
+    "phonetic": "/ˈʃlaːkˌoːbɐs/",
+    "example_sentence": "Der Kuchen ist mit Schlagobers verziert.",
+    "category": "food"
+  },
+  {
+    "word": "Palatschinken",
+    "phonetic": "/paˈlatʃɪŋkən/",
+    "example_sentence": "Zum Dessert gibt es Palatschinken.",
+    "category": "food"
+  },
+  {
+    "word": "Vignette",
+    "phonetic": "/vɪnˈjɛtə/",
+    "example_sentence": "Für die Autobahn braucht man eine Vignette.",
+    "category": "transport"
+  },
+  {
+    "word": "Bim",
+    "phonetic": "/bɪm/",
+    "example_sentence": "Ich fahre mit der Bim zur Arbeit.",
+    "category": "transport"
+  },
+  {
+    "word": "Tschüss",
+    "phonetic": "/tʃyːs/",
+    "example_sentence": "Tschüss, bis morgen!",
+    "category": "farewell"
+  },
+  {
+    "word": "Grüß Gott",
+    "phonetic": "/ɡʁyːs ɡɔt/",
+    "example_sentence": "Grüß Gott, schönen guten Morgen!",
+    "category": "greeting"
+  },
+  {
+    "word": "Heuriger",
+    "phonetic": "/ˈhɔɪ̯ʁɪɡɐ/",
+    "example_sentence": "Wir gehen zum Heuriger Wein trinken.",
+    "category": "place"
+  },
+  {
+    "word": "Melange",
+    "phonetic": "/meˈlɑ̃ːʒə/",
+    "example_sentence": "Eine Melange, bitte!",
+    "category": "drink"
+  }
+]

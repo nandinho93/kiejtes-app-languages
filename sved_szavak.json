@@ -1,0 +1,126 @@
+{
+  "language": "swedish",
+  "display_name": "Svéd",
+  "words": [
+    {
+      "word": "frånvaro",
+      "phonetic": "[ˈfrɔːnvaːru]",
+      "example_sentence": "Under hans frånvaro tog jag hand om huset.",
+      "category": "Personal data"
+    },
+    {
+      "word": "familj",
+      "phonetic": "[faˈmilj]",
+      "example_sentence": "Min familj är mycket viktig för mig.",
+      "category": "Personal data"
+    },
+    {
+      "word": "arbete",
+      "phonetic": "[ˈɑːrbɛːtɛ]",
+      "example_sentence": "Jag går till arbetet varje morgon.",
+      "category": "Work"
+    },
+    {
+      "word": "skola",
+      "phonetic": "[ˈskuːla]",
+      "example_sentence": "Barnen går till skolan på morgonen.",
+      "category": "Education"
+    },
+    {
+      "word": "sjukhus",
+      "phonetic": "[ˈɧʉːkhʉːs]",
+      "example_sentence": "Läkaren arbetar på sjukhuset.",
+      "category": "Health"
+    },
+    {
+      "word": "mat",
+      "phonetic": "[mɑːt]",
+      "example_sentence": "Svensk mat är mycket god.",
+      "category": "Food"
+    },
+    {
+      "word": "tid",
+      "phonetic": "[tiːd]",
+      "example_sentence": "Tiden går mycket fort.",
+      "category": "Time"
+    },
+    {
+      "word": "pengar",
+      "phonetic": "[ˈpɛŋar]",
+      "example_sentence": "Jag behöver pengar för att köpa bilen.",
+      "category": "Finance"
+    },
+    {
+      "word": "stad",
+      "phonetic": "[stɑːd]",
+      "example_sentence": "Stockholm är en mycket vacker stad.",
+      "category": "Geography"
+    },
+    {
+      "word": "resa",
+      "phonetic": "[ˈreːsa]",
+      "example_sentence": "Min resa till Sverige var otrolig.",
+      "category": "Travel"
+    },
+    {
+      "word": "musik",
+      "phonetic": "[mʉˈsiːk]",
+      "example_sentence": "Jag älskar att lyssna på klassisk musik.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "bok",
+      "phonetic": "[buːk]",
+      "example_sentence": "Jag läser en mycket intressant bok.",
+      "category": "Education"
+    },
+    {
+      "word": "vänskap",
+      "phonetic": "[ˈvɛːnskap]",
+      "example_sentence": "Vänskap är en mycket värdefull skatt.",
+      "category": "Personal data"
+    },
+    {
+      "word": "natur",
+      "phonetic": "[naˈtʉːr]",
+      "example_sentence": "Jag tycker om att vandra i naturen.",
+      "category": "Nature"
+    },
+    {
+      "word": "lycka",
+      "phonetic": "[ˈlyka]",
+      "example_sentence": "Lycka finns i de små sakerna.",
+      "category": "Emotions"
+    },
+    {
+      "word": "kommunikation",
+      "phonetic": "[kɔmʉnikaˈʃuːn]",
+      "example_sentence": "Kommunikation är nyckeln i relationer.",
+      "category": "Communication"
+    },
+    {
+      "word": "teknik",
+      "phonetic": "[tɛkˈniːk]",
+      "example_sentence": "Teknik utvecklas mycket snabbt.",
+      "category": "Technology"
+    },
+    {
+      "word": "kultur",
+      "phonetic": "[kʉlˈtʉːr]",
+      "example_sentence": "Svensk kultur är mycket rik.",
+      "category": "Culture"
+    },
+    {
+      "word": "frihet",
+      "phonetic": "[ˈfriːheːt]",
+      "example_sentence": "Frihet är en grundläggande rättighet.",
+      "category": "Society"
+    },
+    {
+      "word": "hopp",
+      "phonetic": "[hɔp]",
+      "example_sentence": "Förlora aldrig hoppet om framtiden.",
+      "category": "Emotions"
+    }
+  ]
+}

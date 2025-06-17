@@ -1,0 +1,126 @@
+{
+  "language": "hindi",
+  "display_name": "Hindi",
+  "words": [
+    {
+      "word": "अनुपस्थिति",
+      "phonetic": "[ənʊpəsˈt̪ʰɪt̪ɪ]",
+      "example_sentence": "उसकी अनुपस्थिति में मैंने घर की देखभाल की।",
+      "category": "Personal data"
+    },
+    {
+      "word": "परिवार",
+      "phonetic": "[pəɾɪˈʋaːɾ]",
+      "example_sentence": "मेरा परिवार मेरे लिए बहुत महत्वपूर्ण है।",
+      "category": "Personal data"
+    },
+    {
+      "word": "काम",
+      "phonetic": "[kaːm]",
+      "example_sentence": "मैं हर सुबह काम पर जाता हूँ।",
+      "category": "Work"
+    },
+    {
+      "word": "स्कूल",
+      "phonetic": "[skuːl]",
+      "example_sentence": "बच्चे सुबह स्कूल जाते हैं।",
+      "category": "Education"
+    },
+    {
+      "word": "अस्पताल",
+      "phonetic": "[əspət̪aːl]",
+      "example_sentence": "डॉक्टर अस्पताल में काम करता है।",
+      "category": "Health"
+    },
+    {
+      "word": "खाना",
+      "phonetic": "[kʰaːnaː]",
+      "example_sentence": "भारतीय खाना बहुत स्वादिष्ट है।",
+      "category": "Food"
+    },
+    {
+      "word": "समय",
+      "phonetic": "[səməj]",
+      "example_sentence": "समय बहुत तेज़ी से गुज़रता है।",
+      "category": "Time"
+    },
+    {
+      "word": "पैसा",
+      "phonetic": "[pɛːsaː]",
+      "example_sentence": "मुझे कार खरीदने के लिए पैसे की ज़रूरत है।",
+      "category": "Finance"
+    },
+    {
+      "word": "शहर",
+      "phonetic": "[ʃəɦəɾ]",
+      "example_sentence": "दिल्ली एक बहुत सुंदर शहर है।",
+      "category": "Geography"
+    },
+    {
+      "word": "यात्रा",
+      "phonetic": "[jaːt̪ɾaː]",
+      "example_sentence": "मेरी भारत की यात्रा अविश्वसनीय थी।",
+      "category": "Travel"
+    },
+    {
+      "word": "संगीत",
+      "phonetic": "[səŋɡiːt̪]",
+      "example_sentence": "मुझे शास्त्रीय संगीत सुनना पसंद है।",
+      "category": "Entertainment"
+    },
+    {
+      "word": "किताब",
+      "phonetic": "[kɪt̪aːb]",
+      "example_sentence": "मैं एक बहुत दिलचस्प किताब पढ़ रहा हूँ।",
+      "category": "Education"
+    },
+    {
+      "word": "दोस्ती",
+      "phonetic": "[d̪ost̪iː]",
+      "example_sentence": "दोस्ती एक बहुत क़ीमती खज़ाना है।",
+      "category": "Personal data"
+    },
+    {
+      "word": "प्रकृति",
+      "phonetic": "[pɾəkɾɪt̪ɪ]",
+      "example_sentence": "मुझे प्रकृति में घूमना पसंद है।",
+      "category": "Nature"
+    },
+    {
+      "word": "खुशी",
+      "phonetic": "[kʰʊʃiː]",
+      "example_sentence": "खुशी छोटी चीज़ों में मिलती है।",
+      "category": "Emotions"
+    },
+    {
+      "word": "संवाद",
+      "phonetic": "[sənʋaːd̪]",
+      "example_sentence": "संवाद रिश्तों की चाबी है।",
+      "category": "Communication"
+    },
+    {
+      "word": "तकनीक",
+      "phonetic": "[t̪əkniːk]",
+      "example_sentence": "तकनीक बहुत तेज़ी से विकसित हो रही है।",
+      "category": "Technology"
+    },
+    {
+      "word": "संस्कृति",
+      "phonetic": "[sənskɾɪt̪ɪ]",
+      "example_sentence": "भारतीय संस्कृति बहुत समृद्ध है।",
+      "category": "Culture"
+    },
+    {
+      "word": "स्वतंत्रता",
+      "phonetic": "[sʋət̪ənt̪ɾət̪aː]",
+      "example_sentence": "स्वतंत्रता एक मौलिक अधिकार है।",
+      "category": "Society"
+    },
+    {
+      "word": "आशा",
+      "phonetic": "[aːʃaː]",
+      "example_sentence": "भविष्य में आशा कभी न खोएं।",
+      "category": "Emotions"
+    }
+  ]
+}

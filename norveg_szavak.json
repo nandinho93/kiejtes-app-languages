@@ -1,0 +1,126 @@
+{
+  "language": "norwegian",
+  "display_name": "Norvég",
+  "words": [
+    {
+      "word": "fravær",
+      "phonetic": "[ˈfrɑːvæːr]",
+      "example_sentence": "Under hans fravær tok jeg meg av huset.",
+      "category": "Personal data"
+    },
+    {
+      "word": "familie",
+      "phonetic": "[faˈmiːljə]",
+      "example_sentence": "Min familie er veldig viktig for meg.",
+      "category": "Personal data"
+    },
+    {
+      "word": "arbeid",
+      "phonetic": "[ˈɑrbəi]",
+      "example_sentence": "Jeg går til arbeid hver morgen.",
+      "category": "Work"
+    },
+    {
+      "word": "skole",
+      "phonetic": "[ˈskuːlə]",
+      "example_sentence": "Barna går til skole om morgenen.",
+      "category": "Education"
+    },
+    {
+      "word": "sykehus",
+      "phonetic": "[ˈsyːkəhʉːs]",
+      "example_sentence": "Legen arbeider på sykehuset.",
+      "category": "Health"
+    },
+    {
+      "word": "mat",
+      "phonetic": "[mɑːt]",
+      "example_sentence": "Norsk mat er veldig deilig.",
+      "category": "Food"
+    },
+    {
+      "word": "tid",
+      "phonetic": "[tiː]",
+      "example_sentence": "Tiden går veldig fort.",
+      "category": "Time"
+    },
+    {
+      "word": "penger",
+      "phonetic": "[ˈpɛŋər]",
+      "example_sentence": "Jeg trenger penger til å kjøpe bilen.",
+      "category": "Finance"
+    },
+    {
+      "word": "by",
+      "phonetic": "[byː]",
+      "example_sentence": "Oslo er en veldig vakker by.",
+      "category": "Geography"
+    },
+    {
+      "word": "reise",
+      "phonetic": "[ˈrɑisə]",
+      "example_sentence": "Min reise til Norge var utrolig.",
+      "category": "Travel"
+    },
+    {
+      "word": "musikk",
+      "phonetic": "[mʉˈsikː]",
+      "example_sentence": "Jeg elsker å høre på klassisk musikk.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "bok",
+      "phonetic": "[buːk]",
+      "example_sentence": "Jeg leser en veldig interessant bok.",
+      "category": "Education"
+    },
+    {
+      "word": "vennskap",
+      "phonetic": "[ˈvɛnːskɑːp]",
+      "example_sentence": "Vennskap er en veldig verdifull skatt.",
+      "category": "Personal data"
+    },
+    {
+      "word": "natur",
+      "phonetic": "[naˈtʉːr]",
+      "example_sentence": "Jeg liker å gå turer i naturen.",
+      "category": "Nature"
+    },
+    {
+      "word": "lykke",
+      "phonetic": "[ˈlykːə]",
+      "example_sentence": "Lykke finnes i de små tingene.",
+      "category": "Emotions"
+    },
+    {
+      "word": "kommunikasjon",
+      "phonetic": "[kɔmʉnikaˈʃuːn]",
+      "example_sentence": "Kommunikasjon er nøkkelen i forhold.",
+      "category": "Communication"
+    },
+    {
+      "word": "teknologi",
+      "phonetic": "[tɛknoloˈɡiː]",
+      "example_sentence": "Teknologi utvikler seg veldig raskt.",
+      "category": "Technology"
+    },
+    {
+      "word": "kultur",
+      "phonetic": "[kʉlˈtʉːr]",
+      "example_sentence": "Norsk kultur er veldig rik.",
+      "category": "Culture"
+    },
+    {
+      "word": "frihet",
+      "phonetic": "[ˈfriːhəːt]",
+      "example_sentence": "Frihet er en grunnleggende rettighet.",
+      "category": "Society"
+    },
+    {
+      "word": "håp",
+      "phonetic": "[hɔːp]",
+      "example_sentence": "Mist aldri håpet om fremtiden.",
+      "category": "Emotions"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "language": "english_ca",
+  "display_name": "Kanadai angol",
+  "words": [
+    {
+      "word": "absence",
+      "phonetic": "[ˈæbsəns]",
+      "example_sentence": "A new teacher was appointed during his absence, eh.",
+      "category": "Personal data"
+    },
+    {
+      "word": "family",
+      "phonetic": "[ˈfæməli]",
+      "example_sentence": "My family is really important to me, you know.",
+      "category": "Personal data"
+    },
+    {
+      "word": "work",
+      "phonetic": "[wɜːrk]",
+      "example_sentence": "I go to work every morning, no matter the weather.",
+      "category": "Work"
+    },
+    {
+      "word": "school",
+      "phonetic": "[skuːl]",
+      "example_sentence": "The children go to school in the morning.",
+      "category": "Education"
+    },
+    {
+      "word": "hospital",
+      "phonetic": "[ˈhɑːspɪtəl]",
+      "example_sentence": "The doctor works at the hospital downtown.",
+      "category": "Health"
+    },
+    {
+      "word": "food",
+      "phonetic": "[fuːd]",
+      "example_sentence": "Canadian food includes poutine and maple syrup.",
+      "category": "Food"
+    },
+    {
+      "word": "time",
+      "phonetic": "[taɪm]",
+      "example_sentence": "Time goes by pretty quickly up here.",
+      "category": "Time"
+    },
+    {
+      "word": "money",
+      "phonetic": "[ˈmʌni]",
+      "example_sentence": "I need some money to buy that car, eh.",
+      "category": "Finance"
+    },
+    {
+      "word": "city",
+      "phonetic": "[ˈsɪti]",
+      "example_sentence": "Toronto is a really beautiful city.",
+      "category": "Geography"
+    },
+    {
+      "word": "travel",
+      "phonetic": "[ˈtrævəl]",
+      "example_sentence": "My travel across Canada was absolutely amazing.",
+      "category": "Travel"
+    },
+    {
+      "word": "music",
+      "phonetic": "[ˈmjuːzɪk]",
+      "example_sentence": "I really enjoy listening to classical music.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "book",
+      "phonetic": "[bʊk]",
+      "example_sentence": "I'm reading a really interesting book about Canada.",
+      "category": "Education"
+    },
+    {
+      "word": "friendship",
+      "phonetic": "[ˈfrendʃɪp]",
+      "example_sentence": "Friendship is a really valuable treasure, buddy.",
+      "category": "Personal data"
+    },
+    {
+      "word": "nature",
+      "phonetic": "[ˈneɪtʃər]",
+      "example_sentence": "I love walking in the beautiful Canadian nature.",
+      "category": "Nature"
+    },
+    {
+      "word": "happiness",
+      "phonetic": "[ˈhæpɪnəs]",
+      "example_sentence": "Happiness is found in small things, you know.",
+      "category": "Emotions"
+    },
+    {
+      "word": "communication",
+      "phonetic": "[kəˌmjuːnɪˈkeɪʃən]",
+      "example_sentence": "Good communication is key in relationships.",
+      "category": "Communication"
+    },
+    {
+      "word": "technology",
+      "phonetic": "[tekˈnɑːləˌdʒi]",
+      "example_sentence": "Technology develops really quickly these days.",
+      "category": "Technology"
+    },
+    {
+      "word": "culture",
+      "phonetic": "[ˈkʌltʃər]",
+      "example_sentence": "Canadian culture is quite diverse and inclusive.",
+      "category": "Culture"
+    },
+    {
+      "word": "freedom",
+      "phonetic": "[ˈfriːdəm]",
+      "example_sentence": "Freedom is a fundamental right for all Canadians.",
+      "category": "Society"
+    },
+    {
+      "word": "hope",
+      "phonetic": "[hoʊp]",
+      "example_sentence": "Never lose hope in the future, eh.",
+      "category": "Emotions"
+    }
+  ]
+}

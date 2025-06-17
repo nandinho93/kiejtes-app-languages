@@ -1,0 +1,126 @@
+{
+  "language": "arabic",
+  "display_name": "Arab",
+  "words": [
+    {
+      "word": "غياب",
+      "phonetic": "[ɣiˈjaːb]",
+      "example_sentence": "خلال غيابه، اعتنيت بالمنزل.",
+      "category": "Personal data"
+    },
+    {
+      "word": "عائلة",
+      "phonetic": "[ˈʕaːʔila]",
+      "example_sentence": "عائلتي مهمة جداً بالنسبة لي.",
+      "category": "Personal data"
+    },
+    {
+      "word": "عمل",
+      "phonetic": "[ˈʕamal]",
+      "example_sentence": "أذهب إلى العمل كل صباح.",
+      "category": "Work"
+    },
+    {
+      "word": "مدرسة",
+      "phonetic": "[ˈmadrasa]",
+      "example_sentence": "يذهب الأطفال إلى المدرسة في الصباح.",
+      "category": "Education"
+    },
+    {
+      "word": "مستشفى",
+      "phonetic": "[ˈmustafaː]",
+      "example_sentence": "يعمل الطبيب في المستشفى.",
+      "category": "Health"
+    },
+    {
+      "word": "طعام",
+      "phonetic": "[taˈʕaːm]",
+      "example_sentence": "الطعام العربي لذيذ جداً.",
+      "category": "Food"
+    },
+    {
+      "word": "وقت",
+      "phonetic": "[waqt]",
+      "example_sentence": "الوقت يمر بسرعة كبيرة.",
+      "category": "Time"
+    },
+    {
+      "word": "مال",
+      "phonetic": "[maːl]",
+      "example_sentence": "أحتاج إلى المال لشراء السيارة.",
+      "category": "Finance"
+    },
+    {
+      "word": "مدينة",
+      "phonetic": "[maˈdiːna]",
+      "example_sentence": "القاهرة مدينة جميلة جداً.",
+      "category": "Geography"
+    },
+    {
+      "word": "رحلة",
+      "phonetic": "[ˈriħla]",
+      "example_sentence": "رحلتي إلى المغرب كانت رائعة.",
+      "category": "Travel"
+    },
+    {
+      "word": "موسيقى",
+      "phonetic": "[muːˈsiːqaː]",
+      "example_sentence": "أحب الاستماع إلى الموسيقى الكلاسيكية.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "كتاب",
+      "phonetic": "[kiˈtaːb]",
+      "example_sentence": "أقرأ كتاباً مثيراً للاهتمام.",
+      "category": "Education"
+    },
+    {
+      "word": "صداقة",
+      "phonetic": "[saˈdaːqa]",
+      "example_sentence": "الصداقة كنز ثمين جداً.",
+      "category": "Personal data"
+    },
+    {
+      "word": "طبيعة",
+      "phonetic": "[taˈbiːʕa]",
+      "example_sentence": "أحب المشي في الطبيعة.",
+      "category": "Nature"
+    },
+    {
+      "word": "سعادة",
+      "phonetic": "[saˈʕaːda]",
+      "example_sentence": "السعادة تكمن في الأشياء الصغيرة.",
+      "category": "Emotions"
+    },
+    {
+      "word": "تواصل",
+      "phonetic": "[taˈwaːsul]",
+      "example_sentence": "التواصل أساس العلاقات الناجحة.",
+      "category": "Communication"
+    },
+    {
+      "word": "تكنولوجيا",
+      "phonetic": "[taknoːˈloːʒjaː]",
+      "example_sentence": "التكنولوجيا تتطور بسرعة كبيرة.",
+      "category": "Technology"
+    },
+    {
+      "word": "ثقافة",
+      "phonetic": "[θaˈqaːfa]",
+      "example_sentence": "الثقافة العربية غنية جداً.",
+      "category": "Culture"
+    },
+    {
+      "word": "حرية",
+      "phonetic": "[ˈħurriyya]",
+      "example_sentence": "الحرية حق أساسي للإنسان.",
+      "category": "Society"
+    },
+    {
+      "word": "أمل",
+      "phonetic": "[ˈʔamal]",
+      "example_sentence": "لا تفقد الأمل في المستقبل أبداً.",
+      "category": "Emotions"
+    }
+  ]
+}

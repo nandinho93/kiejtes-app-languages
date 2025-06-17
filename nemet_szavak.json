@@ -1,1 +1,126 @@
-{"language":"german","display_name":"Német","words":[{"word":"Hallo","phonetic":"/ˈhalo/","example_sentence":"Hallo, wie geht es Ihnen?","category":"Alapszókincs","difficulty":"beginner","hungarian_translation":"Helló"},{"word":"Danke","phonetic":"/ˈdaŋkə/","example_sentence":"Danke für Ihre Hilfe.","category":"Alapszókincs","difficulty":"beginner","hungarian_translation":"Köszönöm"},{"word":"Auf Wiedersehen","phonetic":"/aʊf ˈviːdɐzeːən/","example_sentence":"Auf Wiedersehen, schönen Tag!","category":"Alapszókincs","difficulty":"beginner","hungarian_translation":"Viszlát"},{"word":"Bitte","phonetic":"/ˈbɪtə/","example_sentence":"Können Sie mir bitte helfen?","category":"Alapszókincs","difficulty":"beginner","hungarian_translation":"Kérem"},{"word":"Ja","phonetic":"/jaː/","example_sentence":"Ja, das ist richtig.","category":"Alapszókincs","difficulty":"beginner","hungarian_translation":"Igen"},{"word":"Nein","phonetic":"/naɪn/","example_sentence":"Nein, das ist falsch.","category":"Alapszókincs","difficulty":"beginner","hungarian_translation":"Nem"},{"word":"Wasser","phonetic":"/ˈvasɐ/","example_sentence":"Ich möchte ein Glas Wasser.","category":"Ételek és italok","difficulty":"beginner","hungarian_translation":"Víz"},{"word":"Essen","phonetic":"/ˈɛsən/","example_sentence":"Das Essen ist lecker.","category":"Ételek és italok","difficulty":"beginner","hungarian_translation":"Étel"},{"word":"Haus","phonetic":"/haʊs/","example_sentence":"Ich wohne in einem großen Haus.","category":"Otthon","difficulty":"beginner","hungarian_translation":"Ház"},{"word":"Familie","phonetic":"/faˈmiːliə/","example_sentence":"Meine Familie ist sehr wichtig.","category":"Család","difficulty":"beginner","hungarian_translation":"Család"}],"version":"1.0.0","created_at":"2025-06-14T09:52:42.752722"}
+{
+  "language": "german",
+  "display_name": "Német",
+  "words": [
+    {
+      "word": "Abwesenheit",
+      "phonetic": "[ˈapveːzənhaɪt]",
+      "example_sentence": "Während seiner Abwesenheit kümmerte ich mich um das Haus.",
+      "category": "Personal data"
+    },
+    {
+      "word": "Familie",
+      "phonetic": "[faˈmiːljə]",
+      "example_sentence": "Meine Familie ist sehr wichtig für mich.",
+      "category": "Personal data"
+    },
+    {
+      "word": "Arbeit",
+      "phonetic": "[ˈaʁbaɪt]",
+      "example_sentence": "Ich gehe jeden Morgen zur Arbeit.",
+      "category": "Work"
+    },
+    {
+      "word": "Schule",
+      "phonetic": "[ˈʃuːlə]",
+      "example_sentence": "Die Kinder gehen morgens zur Schule.",
+      "category": "Education"
+    },
+    {
+      "word": "Krankenhaus",
+      "phonetic": "[ˈkʁaŋkənhaʊs]",
+      "example_sentence": "Der Arzt arbeitet im Krankenhaus.",
+      "category": "Health"
+    },
+    {
+      "word": "Essen",
+      "phonetic": "[ˈɛsən]",
+      "example_sentence": "Das deutsche Essen ist sehr lecker.",
+      "category": "Food"
+    },
+    {
+      "word": "Zeit",
+      "phonetic": "[tsaɪt]",
+      "example_sentence": "Die Zeit vergeht sehr schnell.",
+      "category": "Time"
+    },
+    {
+      "word": "Geld",
+      "phonetic": "[ɡɛlt]",
+      "example_sentence": "Ich brauche Geld, um das Auto zu kaufen.",
+      "category": "Finance"
+    },
+    {
+      "word": "Stadt",
+      "phonetic": "[ʃtat]",
+      "example_sentence": "Berlin ist eine wunderschöne Stadt.",
+      "category": "Geography"
+    },
+    {
+      "word": "Reise",
+      "phonetic": "[ˈʁaɪzə]",
+      "example_sentence": "Meine Reise nach Deutschland war unglaublich.",
+      "category": "Travel"
+    },
+    {
+      "word": "Musik",
+      "phonetic": "[muˈziːk]",
+      "example_sentence": "Ich höre gerne klassische Musik.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "Buch",
+      "phonetic": "[buːx]",
+      "example_sentence": "Ich lese ein sehr interessantes Buch.",
+      "category": "Education"
+    },
+    {
+      "word": "Freundschaft",
+      "phonetic": "[ˈfʁɔɪntʃaft]",
+      "example_sentence": "Freundschaft ist ein sehr wertvoller Schatz.",
+      "category": "Personal data"
+    },
+    {
+      "word": "Natur",
+      "phonetic": "[naˈtuːʁ]",
+      "example_sentence": "Ich gehe gerne in der Natur spazieren.",
+      "category": "Nature"
+    },
+    {
+      "word": "Glück",
+      "phonetic": "[ɡlʏk]",
+      "example_sentence": "Das Glück liegt in den kleinen Dingen.",
+      "category": "Emotions"
+    },
+    {
+      "word": "Kommunikation",
+      "phonetic": "[kɔmunikaˈtsi̯oːn]",
+      "example_sentence": "Kommunikation ist der Schlüssel in Beziehungen.",
+      "category": "Communication"
+    },
+    {
+      "word": "Technologie",
+      "phonetic": "[tɛçnoloˈɡiː]",
+      "example_sentence": "Die Technologie entwickelt sich sehr schnell.",
+      "category": "Technology"
+    },
+    {
+      "word": "Kultur",
+      "phonetic": "[kʊlˈtuːʁ]",
+      "example_sentence": "Die deutsche Kultur ist sehr reich.",
+      "category": "Culture"
+    },
+    {
+      "word": "Freiheit",
+      "phonetic": "[ˈfʁaɪhaɪt]",
+      "example_sentence": "Freiheit ist ein grundlegendes Recht.",
+      "category": "Society"
+    },
+    {
+      "word": "Hoffnung",
+      "phonetic": "[ˈhɔfnʊŋ]",
+      "example_sentence": "Verliere niemals die Hoffnung auf die Zukunft.",
+      "category": "Emotions"
+    }
+  ]
+}

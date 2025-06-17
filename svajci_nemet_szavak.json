@@ -1,0 +1,122 @@
+[
+  {
+    "word": "Grüezi",
+    "phonetic": "/ˈɡʁyət͡si/",
+    "example_sentence": "Grüezi, wie gaht's?",
+    "category": "greeting"
+  },
+  {
+    "word": "Chuchichäschtli",
+    "phonetic": "/ˈχʊχːiˌχæʃtli/",
+    "example_sentence": "Das Chuchichäschtli isch voll.",
+    "category": "furniture"
+  },
+  {
+    "word": "Rösti",
+    "phonetic": "/ˈrøʃti/",
+    "example_sentence": "Mir händ hüt Rösti gmacht.",
+    "category": "food"
+  },
+  {
+    "word": "Müesli",
+    "phonetic": "/ˈmyəsli/",
+    "example_sentence": "Zum Morge gits Müesli.",
+    "category": "food"
+  },
+  {
+    "word": "Znüni",
+    "phonetic": "/ˈt͡snyni/",
+    "example_sentence": "Häsch scho Znüni gha?",
+    "category": "food"
+  },
+  {
+    "word": "Zvieri",
+    "phonetic": "/ˈt͡sfiri/",
+    "example_sentence": "Zum Zvieri git's Chuchli.",
+    "category": "food"
+  },
+  {
+    "word": "Natel",
+    "phonetic": "/ˈnaːtɛl/",
+    "example_sentence": "Hesch dis Natel debii?",
+    "category": "technology"
+  },
+  {
+    "word": "Velo",
+    "phonetic": "/ˈveːlo/",
+    "example_sentence": "Ich fare mit em Velo is Büro.",
+    "category": "transport"
+  },
+  {
+    "word": "Parkplatz",
+    "phonetic": "/ˈparkhplat͡s/",
+    "example_sentence": "Bisch es frei Parkplatz do?",
+    "category": "place"
+  },
+  {
+    "word": "Gipfeli",
+    "phonetic": "/ˈɡipfəli/",
+    "example_sentence": "Es Buttergipfeli, bitte!",
+    "category": "food"
+  },
+  {
+    "word": "Trottoir",
+    "phonetic": "/troˈtwaːr/",
+    "example_sentence": "Gang uf em Trottoir!",
+    "category": "street"
+  },
+  {
+    "word": "Anke",
+    "phonetic": "/ˈaŋkə/",
+    "example_sentence": "Chasch mer d'Anke gäh?",
+    "category": "food"
+  },
+  {
+    "word": "Gschpürsch",
+    "phonetic": "/ˈɡʃpyːrʃ/",
+    "example_sentence": "Gschpürsch mi nid?",
+    "category": "emotion"
+  },
+  {
+    "word": "Chömed",
+    "phonetic": "/ˈχømət/",
+    "example_sentence": "Chömed Sie mit mir!",
+    "category": "invitation"
+  },
+  {
+    "word": "Bünzli",
+    "phonetic": "/ˈbʏnt͡sli/",
+    "example_sentence": "Er isch en richtege Bünzli.",
+    "category": "person"
+  },
+  {
+    "word": "Beizli",
+    "phonetic": "/ˈbaɪt͡sli/",
+    "example_sentence": "Mir göhnd i nes gmüetlechs Beizli.",
+    "category": "place"
+  },
+  {
+    "word": "Töggeli",
+    "phonetic": "/ˈtøɡəli/",
+    "example_sentence": "Spielemer e Rundi Töggeli?",
+    "category": "game"
+  },
+  {
+    "word": "Härdöpfel",
+    "phonetic": "/ˈhærdøpfəl/",
+    "example_sentence": "D'Härdöpfel sind scho bereit.",
+    "category": "food"
+  },
+  {
+    "word": "Tschau",
+    "phonetic": "/t͡ʃaʊ/",
+    "example_sentence": "Tschau zäme, bis spöter!",
+    "category": "farewell"
+  },
+  {
+    "word": "Merci vilmal",
+    "phonetic": "/ˈmɛrsi ˈfilmaːl/",
+    "example_sentence": "Merci vilmal für dini Hilf!",
+    "category": "gratitude"
+  }
+]

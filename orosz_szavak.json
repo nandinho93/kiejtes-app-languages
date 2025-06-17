@@ -1,0 +1,126 @@
+{
+  "language": "russian",
+  "display_name": "Orosz",
+  "words": [
+    {
+      "word": "отсутствие",
+      "phonetic": "[ɐtˈsutstv⁽ʲ⁾ɪje]",
+      "example_sentence": "Во время его отсутствия я ухаживал за домом.",
+      "category": "Personal data"
+    },
+    {
+      "word": "семья",
+      "phonetic": "[s⁽ʲ⁾ɪˈmʲja]",
+      "example_sentence": "Моя семья очень важна для меня.",
+      "category": "Personal data"
+    },
+    {
+      "word": "работа",
+      "phonetic": "[rɐˈbotə]",
+      "example_sentence": "Я хожу на работу каждое утро.",
+      "category": "Work"
+    },
+    {
+      "word": "школа",
+      "phonetic": "[ˈʂkolə]",
+      "example_sentence": "Дети идут в школу утром.",
+      "category": "Education"
+    },
+    {
+      "word": "больница",
+      "phonetic": "[bɐlʲˈn⁽ʲ⁾itsə]",
+      "example_sentence": "Врач работает в больнице.",
+      "category": "Health"
+    },
+    {
+      "word": "еда",
+      "phonetic": "[jɪˈda]",
+      "example_sentence": "Русская еда очень вкусная.",
+      "category": "Food"
+    },
+    {
+      "word": "время",
+      "phonetic": "[ˈvr⁽ʲ⁾emʲə]",
+      "example_sentence": "Время проходит очень быстро.",
+      "category": "Time"
+    },
+    {
+      "word": "деньги",
+      "phonetic": "[ˈd⁽ʲ⁾enʲgʲɪ]",
+      "example_sentence": "Мне нужны деньги, чтобы купить машину.",
+      "category": "Finance"
+    },
+    {
+      "word": "город",
+      "phonetic": "[ˈgorət]",
+      "example_sentence": "Москва - очень красивый город.",
+      "category": "Geography"
+    },
+    {
+      "word": "путешествие",
+      "phonetic": "[putʲɪˈʂestvʲɪje]",
+      "example_sentence": "Моё путешествие в Россию было невероятным.",
+      "category": "Travel"
+    },
+    {
+      "word": "музыка",
+      "phonetic": "[ˈmuzɨkə]",
+      "example_sentence": "Я люблю слушать классическую музыку.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "книга",
+      "phonetic": "[ˈkn⁽ʲ⁾igə]",
+      "example_sentence": "Я читаю очень интересную книгу.",
+      "category": "Education"
+    },
+    {
+      "word": "дружба",
+      "phonetic": "[ˈdruʂbə]",
+      "example_sentence": "Дружба - это очень ценное сокровище.",
+      "category": "Personal data"
+    },
+    {
+      "word": "природа",
+      "phonetic": "[prʲɪˈrodə]",
+      "example_sentence": "Я люблю гулять на природе.",
+      "category": "Nature"
+    },
+    {
+      "word": "счастье",
+      "phonetic": "[ˈɕːastʲje]",
+      "example_sentence": "Счастье находится в маленьких вещах.",
+      "category": "Emotions"
+    },
+    {
+      "word": "общение",
+      "phonetic": "[ɐpˈɕːenʲɪje]",
+      "example_sentence": "Общение - ключ к успешным отношениям.",
+      "category": "Communication"
+    },
+    {
+      "word": "технология",
+      "phonetic": "[tʲɪxnɐˈlogʲɪjə]",
+      "example_sentence": "Технология развивается очень быстро.",
+      "category": "Technology"
+    },
+    {
+      "word": "культура",
+      "phonetic": "[kulʲˈturə]",
+      "example_sentence": "Русская культура очень богатая.",
+      "category": "Culture"
+    },
+    {
+      "word": "свобода",
+      "phonetic": "[svɐˈbodə]",
+      "example_sentence": "Свобода - это основное право человека.",
+      "category": "Society"
+    },
+    {
+      "word": "надежда",
+      "phonetic": "[nɐˈd⁽ʲ⁾eʐdə]",
+      "example_sentence": "Никогда не теряй надежду на будущее.",
+      "category": "Emotions"
+    }
+  ]
+}

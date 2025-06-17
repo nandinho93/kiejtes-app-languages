@@ -1,0 +1,126 @@
+{
+  "language": "japanese",
+  "display_name": "Japán",
+  "words": [
+    {
+      "word": "不在",
+      "phonetic": "[ɸɯzai]",
+      "example_sentence": "彼の不在の間、私が家の世話をしました。",
+      "category": "Personal data"
+    },
+    {
+      "word": "家族",
+      "phonetic": "[kazokɯ]",
+      "example_sentence": "私の家族は私にとってとても大切です。",
+      "category": "Personal data"
+    },
+    {
+      "word": "仕事",
+      "phonetic": "[ɕigoto]",
+      "example_sentence": "私は毎朝仕事に行きます。",
+      "category": "Work"
+    },
+    {
+      "word": "学校",
+      "phonetic": "[gakkoː]",
+      "example_sentence": "子供たちは朝学校に行きます。",
+      "category": "Education"
+    },
+    {
+      "word": "病院",
+      "phonetic": "[bjoːiɴ]",
+      "example_sentence": "医者は病院で働いています。",
+      "category": "Health"
+    },
+    {
+      "word": "食べ物",
+      "phonetic": "[tabemono]",
+      "example_sentence": "日本の食べ物はとても美味しいです。",
+      "category": "Food"
+    },
+    {
+      "word": "時間",
+      "phonetic": "[d͡ʑikaɴ]",
+      "example_sentence": "時間はとても早く過ぎます。",
+      "category": "Time"
+    },
+    {
+      "word": "お金",
+      "phonetic": "[okane]",
+      "example_sentence": "車を買うためにお金が必要です。",
+      "category": "Finance"
+    },
+    {
+      "word": "都市",
+      "phonetic": "[toɕi]",
+      "example_sentence": "東京はとても美しい都市です。",
+      "category": "Geography"
+    },
+    {
+      "word": "旅行",
+      "phonetic": "[ɾjokoː]",
+      "example_sentence": "日本への旅行は素晴らしかったです。",
+      "category": "Travel"
+    },
+    {
+      "word": "音楽",
+      "phonetic": "[oɴgakɯ]",
+      "example_sentence": "クラシック音楽を聞くのが好きです。",
+      "category": "Entertainment"
+    },
+    {
+      "word": "本",
+      "phonetic": "[hoɴ]",
+      "example_sentence": "とても面白い本を読んでいます。",
+      "category": "Education"
+    },
+    {
+      "word": "友情",
+      "phonetic": "[jɯːd͡ʑoː]",
+      "example_sentence": "友情はとても貴重な宝物です。",
+      "category": "Personal data"
+    },
+    {
+      "word": "自然",
+      "phonetic": "[ɕizeɴ]",
+      "example_sentence": "自然の中を歩くのが好きです。",
+      "category": "Nature"
+    },
+    {
+      "word": "幸せ",
+      "phonetic": "[ɕiawase]",
+      "example_sentence": "幸せは小さなことの中にあります。",
+      "category": "Emotions"
+    },
+    {
+      "word": "コミュニケーション",
+      "phonetic": "[komjɯnikeːɕoɴ]",
+      "example_sentence": "コミュニケーションは関係の鍵です。",
+      "category": "Communication"
+    },
+    {
+      "word": "技術",
+      "phonetic": "[gid͡ʑɯt͡sɯ]",
+      "example_sentence": "技術はとても速く発展しています。",
+      "category": "Technology"
+    },
+    {
+      "word": "文化",
+      "phonetic": "[bɯɴka]",
+      "example_sentence": "日本の文化はとても豊かです。",
+      "category": "Culture"
+    },
+    {
+      "word": "自由",
+      "phonetic": "[d͡ʑijɯː]",
+      "example_sentence": "自由は基本的な権利です。",
+      "category": "Society"
+    },
+    {
+      "word": "希望",
+      "phonetic": "[kiboː]",
+      "example_sentence": "未来への希望を決して失わないでください。",
+      "category": "Emotions"
+    }
+  ]
+}

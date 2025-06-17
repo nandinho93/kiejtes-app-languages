@@ -1,0 +1,126 @@
+{
+  "language": "english_us",
+  "display_name": "Amerikai angol",
+  "words": [
+    {
+      "word": "absence",
+      "phonetic": "[ˈæbsəns]",
+      "example_sentence": "A new teacher was appointed during his absence.",
+      "category": "Personal data"
+    },
+    {
+      "word": "family",
+      "phonetic": "[ˈfæməli]",
+      "example_sentence": "My family is very important to me.",
+      "category": "Personal data"
+    },
+    {
+      "word": "work",
+      "phonetic": "[wɜːrk]",
+      "example_sentence": "I go to work every morning.",
+      "category": "Work"
+    },
+    {
+      "word": "school",
+      "phonetic": "[skuːl]",
+      "example_sentence": "Children go to school in the morning.",
+      "category": "Education"
+    },
+    {
+      "word": "hospital",
+      "phonetic": "[ˈhɑːspɪtəl]",
+      "example_sentence": "The doctor works at the hospital.",
+      "category": "Health"
+    },
+    {
+      "word": "food",
+      "phonetic": "[fuːd]",
+      "example_sentence": "American food is very diverse.",
+      "category": "Food"
+    },
+    {
+      "word": "time",
+      "phonetic": "[taɪm]",
+      "example_sentence": "Time goes by very quickly.",
+      "category": "Time"
+    },
+    {
+      "word": "money",
+      "phonetic": "[ˈmʌni]",
+      "example_sentence": "I need money to buy the car.",
+      "category": "Finance"
+    },
+    {
+      "word": "city",
+      "phonetic": "[ˈsɪti]",
+      "example_sentence": "New York is a beautiful city.",
+      "category": "Geography"
+    },
+    {
+      "word": "travel",
+      "phonetic": "[ˈtrævəl]",
+      "example_sentence": "My travel to America was incredible.",
+      "category": "Travel"
+    },
+    {
+      "word": "music",
+      "phonetic": "[ˈmjuːzɪk]",
+      "example_sentence": "I love listening to classical music.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "book",
+      "phonetic": "[bʊk]",
+      "example_sentence": "I'm reading a very interesting book.",
+      "category": "Education"
+    },
+    {
+      "word": "friendship",
+      "phonetic": "[ˈfrendʃɪp]",
+      "example_sentence": "Friendship is a very valuable treasure.",
+      "category": "Personal data"
+    },
+    {
+      "word": "nature",
+      "phonetic": "[ˈneɪtʃər]",
+      "example_sentence": "I like walking in nature.",
+      "category": "Nature"
+    },
+    {
+      "word": "happiness",
+      "phonetic": "[ˈhæpɪnəs]",
+      "example_sentence": "Happiness is found in small things.",
+      "category": "Emotions"
+    },
+    {
+      "word": "communication",
+      "phonetic": "[kəˌmjuːnɪˈkeɪʃən]",
+      "example_sentence": "Communication is the key in relationships.",
+      "category": "Communication"
+    },
+    {
+      "word": "technology",
+      "phonetic": "[tekˈnɑːləˌdʒi]",
+      "example_sentence": "Technology develops very quickly.",
+      "category": "Technology"
+    },
+    {
+      "word": "culture",
+      "phonetic": "[ˈkʌltʃər]",
+      "example_sentence": "American culture is very diverse.",
+      "category": "Culture"
+    },
+    {
+      "word": "freedom",
+      "phonetic": "[ˈfriːdəm]",
+      "example_sentence": "Freedom is a fundamental right.",
+      "category": "Society"
+    },
+    {
+      "word": "hope",
+      "phonetic": "[hoʊp]",
+      "example_sentence": "Never lose hope in the future.",
+      "category": "Emotions"
+    }
+  ]
+}

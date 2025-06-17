@@ -1,0 +1,126 @@
+{
+  "language": "ukrainian",
+  "display_name": "Ukrán",
+  "words": [
+    {
+      "word": "відсутність",
+      "phonetic": "[vidˈsutnist']",
+      "example_sentence": "Під час його відсутності я доглядав за будинком.",
+      "category": "Personal data"
+    },
+    {
+      "word": "сім'я",
+      "phonetic": "[sim'ˈja]",
+      "example_sentence": "Моя сім'я дуже важлива для мене.",
+      "category": "Personal data"
+    },
+    {
+      "word": "робота",
+      "phonetic": "[roˈbota]",
+      "example_sentence": "Я йду на роботу щоранку.",
+      "category": "Work"
+    },
+    {
+      "word": "школа",
+      "phonetic": "[ˈʃkola]",
+      "example_sentence": "Діти йдуть до школи вранці.",
+      "category": "Education"
+    },
+    {
+      "word": "лікарня",
+      "phonetic": "[liˈkarnja]",
+      "example_sentence": "Лікар працює в лікарні.",
+      "category": "Health"
+    },
+    {
+      "word": "їжа",
+      "phonetic": "[jiˈʒa]",
+      "example_sentence": "Українська їжа дуже смачна.",
+      "category": "Food"
+    },
+    {
+      "word": "час",
+      "phonetic": "[t͡ʃas]",
+      "example_sentence": "Час проходить дуже швидко.",
+      "category": "Time"
+    },
+    {
+      "word": "гроші",
+      "phonetic": "[ˈɦroʃi]",
+      "example_sentence": "Мені потрібні гроші, щоб купити автомобіль.",
+      "category": "Finance"
+    },
+    {
+      "word": "місто",
+      "phonetic": "[ˈmisto]",
+      "example_sentence": "Київ - дуже красиве місто.",
+      "category": "Geography"
+    },
+    {
+      "word": "подорож",
+      "phonetic": "[podoˈroʒ]",
+      "example_sentence": "Моя подорож в Україну була неймовірною.",
+      "category": "Travel"
+    },
+    {
+      "word": "музика",
+      "phonetic": "[ˈmuzɨka]",
+      "example_sentence": "Я люблю слухати класичну музику.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "книга",
+      "phonetic": "[ˈknɨɦa]",
+      "example_sentence": "Я читаю дуже цікаву книгу.",
+      "category": "Education"
+    },
+    {
+      "word": "дружба",
+      "phonetic": "[ˈdruʒba]",
+      "example_sentence": "Дружба - це дуже цінний скарб.",
+      "category": "Personal data"
+    },
+    {
+      "word": "природа",
+      "phonetic": "[prɨˈroda]",
+      "example_sentence": "Я люблю гуляти на природі.",
+      "category": "Nature"
+    },
+    {
+      "word": "щастя",
+      "phonetic": "[ˈʃt͡ʃastja]",
+      "example_sentence": "Щастя знаходиться в маленьких речах.",
+      "category": "Emotions"
+    },
+    {
+      "word": "спілкування",
+      "phonetic": "[spilkuˈvannʲa]",
+      "example_sentence": "Спілкування - ключ до успішних стосунків.",
+      "category": "Communication"
+    },
+    {
+      "word": "технологія",
+      "phonetic": "[texnoloˈɦija]",
+      "example_sentence": "Технологія розвивається дуже швидко.",
+      "category": "Technology"
+    },
+    {
+      "word": "культура",
+      "phonetic": "[kulʲˈtura]",
+      "example_sentence": "Українська культура дуже багата.",
+      "category": "Culture"
+    },
+    {
+      "word": "свобода",
+      "phonetic": "[svoˈboda]",
+      "example_sentence": "Свобода - це основне право людини.",
+      "category": "Society"
+    },
+    {
+      "word": "надія",
+      "phonetic": "[naˈdija]",
+      "example_sentence": "Ніколи не втрачай надію на майбутнє.",
+      "category": "Emotions"
+    }
+  ]
+}

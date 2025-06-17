@@ -1,0 +1,126 @@
+{
+  "language": "italian",
+  "display_name": "Olasz",
+  "words": [
+    {
+      "word": "assenza",
+      "phonetic": "[asˈsɛntsa]",
+      "example_sentence": "Durante la sua assenza, ho curato la casa.",
+      "category": "Personal data"
+    },
+    {
+      "word": "famiglia",
+      "phonetic": "[faˈmiʎʎa]",
+      "example_sentence": "La mia famiglia è molto importante per me.",
+      "category": "Personal data"
+    },
+    {
+      "word": "lavoro",
+      "phonetic": "[laˈvoro]",
+      "example_sentence": "Vado al lavoro ogni mattina.",
+      "category": "Work"
+    },
+    {
+      "word": "scuola",
+      "phonetic": "[ˈskwola]",
+      "example_sentence": "I bambini vanno a scuola la mattina.",
+      "category": "Education"
+    },
+    {
+      "word": "ospedale",
+      "phonetic": "[ospeˈdale]",
+      "example_sentence": "Il dottore lavora in ospedale.",
+      "category": "Health"
+    },
+    {
+      "word": "cibo",
+      "phonetic": "[ˈtʃibo]",
+      "example_sentence": "Il cibo italiano è delizioso.",
+      "category": "Food"
+    },
+    {
+      "word": "tempo",
+      "phonetic": "[ˈtempo]",
+      "example_sentence": "Il tempo passa molto velocemente.",
+      "category": "Time"
+    },
+    {
+      "word": "denaro",
+      "phonetic": "[deˈnaro]",
+      "example_sentence": "Ho bisogno di denaro per comprare la macchina.",
+      "category": "Finance"
+    },
+    {
+      "word": "città",
+      "phonetic": "[t͡ʃitˈta]",
+      "example_sentence": "Roma è una città molto bella.",
+      "category": "Geography"
+    },
+    {
+      "word": "viaggio",
+      "phonetic": "[viˈaddʒo]",
+      "example_sentence": "Il mio viaggio in Italia è stato incredibile.",
+      "category": "Travel"
+    },
+    {
+      "word": "musica",
+      "phonetic": "[ˈmuzika]",
+      "example_sentence": "Amo ascoltare la musica classica.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "libro",
+      "phonetic": "[ˈlibro]",
+      "example_sentence": "Sto leggendo un libro molto interessante.",
+      "category": "Education"
+    },
+    {
+      "word": "amicizia",
+      "phonetic": "[amit͡ʃiˈtsia]",
+      "example_sentence": "L'amicizia è un tesoro molto prezioso.",
+      "category": "Personal data"
+    },
+    {
+      "word": "natura",
+      "phonetic": "[naˈtura]",
+      "example_sentence": "Mi piace camminare nella natura.",
+      "category": "Nature"
+    },
+    {
+      "word": "felicità",
+      "phonetic": "[felit͡ʃiˈta]",
+      "example_sentence": "La felicità si trova nelle piccole cose.",
+      "category": "Emotions"
+    },
+    {
+      "word": "comunicazione",
+      "phonetic": "[komunikatˈsione]",
+      "example_sentence": "La comunicazione è la chiave nelle relazioni.",
+      "category": "Communication"
+    },
+    {
+      "word": "tecnologia",
+      "phonetic": "[teknoloˈdʒia]",
+      "example_sentence": "La tecnologia si sviluppa molto rapidamente.",
+      "category": "Technology"
+    },
+    {
+      "word": "cultura",
+      "phonetic": "[kulˈtura]",
+      "example_sentence": "La cultura italiana è molto ricca.",
+      "category": "Culture"
+    },
+    {
+      "word": "libertà",
+      "phonetic": "[liberˈta]",
+      "example_sentence": "La libertà è un diritto fondamentale.",
+      "category": "Society"
+    },
+    {
+      "word": "speranza",
+      "phonetic": "[speˈrantsa]",
+      "example_sentence": "Non perdere mai la speranza nel futuro.",
+      "category": "Emotions"
+    }
+  ]
+}

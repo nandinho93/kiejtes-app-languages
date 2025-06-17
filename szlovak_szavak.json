@@ -1,0 +1,126 @@
+{
+  "language": "slovak",
+  "display_name": "Szlovák",
+  "words": [
+    {
+      "word": "neprítomnosť",
+      "phonetic": "[ˈnepriːtomnosc]",
+      "example_sentence": "Počas jeho neprítomnosti som sa staral o dom.",
+      "category": "Personal data"
+    },
+    {
+      "word": "rodina",
+      "phonetic": "[ˈrodina]",
+      "example_sentence": "Moja rodina je pre mňa veľmi dôležitá.",
+      "category": "Personal data"
+    },
+    {
+      "word": "práca",
+      "phonetic": "[ˈpraːt͡sa]",
+      "example_sentence": "Chodím do práce každé ráno.",
+      "category": "Work"
+    },
+    {
+      "word": "škola",
+      "phonetic": "[ˈʃkola]",
+      "example_sentence": "Deti chodia do školy ráno.",
+      "category": "Education"
+    },
+    {
+      "word": "nemocnica",
+      "phonetic": "[ˈnemot͡snit͡sa]",
+      "example_sentence": "Doktor pracuje v nemocnici.",
+      "category": "Health"
+    },
+    {
+      "word": "jedlo",
+      "phonetic": "[ˈjedlo]",
+      "example_sentence": "Slovenské jedlo je veľmi chutné.",
+      "category": "Food"
+    },
+    {
+      "word": "čas",
+      "phonetic": "[t͡ʃas]",
+      "example_sentence": "Čas ubieha veľmi rýchlo.",
+      "category": "Time"
+    },
+    {
+      "word": "peniaze",
+      "phonetic": "[ˈpenjaze]",
+      "example_sentence": "Potrebujem peniaze na kúpu auta.",
+      "category": "Finance"
+    },
+    {
+      "word": "mesto",
+      "phonetic": "[ˈmesto]",
+      "example_sentence": "Bratislava je veľmi krásne mesto.",
+      "category": "Geography"
+    },
+    {
+      "word": "cesta",
+      "phonetic": "[ˈt͡sesta]",
+      "example_sentence": "Moja cesta na Slovensko bola neuveriteľná.",
+      "category": "Travel"
+    },
+    {
+      "word": "hudba",
+      "phonetic": "[ˈɦudba]",
+      "example_sentence": "Rád počúvam klasickú hudbu.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "kniha",
+      "phonetic": "[ˈkɲiɦa]",
+      "example_sentence": "Čítam veľmi zaujímavú knihu.",
+      "category": "Education"
+    },
+    {
+      "word": "priateľstvo",
+      "phonetic": "[ˈprjatelʲstvo]",
+      "example_sentence": "Priateľstvo je veľmi cenný poklad.",
+      "category": "Personal data"
+    },
+    {
+      "word": "príroda",
+      "phonetic": "[ˈpriːroda]",
+      "example_sentence": "Rád sa prechádzam v prírode.",
+      "category": "Nature"
+    },
+    {
+      "word": "šťastie",
+      "phonetic": "[ˈʃcascje]",
+      "example_sentence": "Šťastie sa nachádza v malých veciach.",
+      "category": "Emotions"
+    },
+    {
+      "word": "komunikácia",
+      "phonetic": "[komunikaːt͡sja]",
+      "example_sentence": "Komunikácia je kľúčom vo vzťahoch.",
+      "category": "Communication"
+    },
+    {
+      "word": "technológia",
+      "phonetic": "[texnoloːɡja]",
+      "example_sentence": "Technológia sa vyvíja veľmi rýchlo.",
+      "category": "Technology"
+    },
+    {
+      "word": "kultúra",
+      "phonetic": "[kultuːra]",
+      "example_sentence": "Slovenská kultúra je veľmi bohatá.",
+      "category": "Culture"
+    },
+    {
+      "word": "sloboda",
+      "phonetic": "[ˈsloboda]",
+      "example_sentence": "Sloboda je základné právo.",
+      "category": "Society"
+    },
+    {
+      "word": "nádej",
+      "phonetic": "[ˈnaːdej]",
+      "example_sentence": "Nikdy nestrácej nádej v budúcnosť.",
+      "category": "Emotions"
+    }
+  ]
+}

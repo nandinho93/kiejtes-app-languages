@@ -1,0 +1,126 @@
+{
+  "language": "chinese",
+  "display_name": "Kínai (Mandarin)",
+  "words": [
+    {
+      "word": "缺席",
+      "phonetic": "[t͡ɕʰyè.ɕí]",
+      "example_sentence": "在他缺席期间，我照顾了房子。",
+      "category": "Personal data"
+    },
+    {
+      "word": "家庭",
+      "phonetic": "[t͡ɕjā.tʰǐŋ]",
+      "example_sentence": "我的家庭对我来说非常重要。",
+      "category": "Personal data"
+    },
+    {
+      "word": "工作",
+      "phonetic": "[kōŋ.t͡suò]",
+      "example_sentence": "我每天早上去工作。",
+      "category": "Work"
+    },
+    {
+      "word": "学校",
+      "phonetic": "[ɕɥé.ɕjàu]",
+      "example_sentence": "孩子们早上去学校。",
+      "category": "Education"
+    },
+    {
+      "word": "医院",
+      "phonetic": "[jī.jɥàn]",
+      "example_sentence": "医生在医院工作。",
+      "category": "Health"
+    },
+    {
+      "word": "食物",
+      "phonetic": "[ʂí.wù]",
+      "example_sentence": "中国食物非常美味。",
+      "category": "Food"
+    },
+    {
+      "word": "时间",
+      "phonetic": "[ʂí.t͡ɕjēn]",
+      "example_sentence": "时间过得很快。",
+      "category": "Time"
+    },
+    {
+      "word": "金钱",
+      "phonetic": "[t͡ɕīn.t͡ɕʰjǎn]",
+      "example_sentence": "我需要金钱来买汽车。",
+      "category": "Finance"
+    },
+    {
+      "word": "城市",
+      "phonetic": "[t͡ɕʰɤ́ŋ.ʂì]",
+      "example_sentence": "北京是一个非常美丽的城市。",
+      "category": "Geography"
+    },
+    {
+      "word": "旅行",
+      "phonetic": "[lǚ.ɕíŋ]",
+      "example_sentence": "我的中国旅行太棒了。",
+      "category": "Travel"
+    },
+    {
+      "word": "音乐",
+      "phonetic": "[īn.ɥè]",
+      "example_sentence": "我喜欢听古典音乐。",
+      "category": "Entertainment"
+    },
+    {
+      "word": "书籍",
+      "phonetic": "[ʂū.t͡ɕí]",
+      "example_sentence": "我正在读一本很有趣的书。",
+      "category": "Education"
+    },
+    {
+      "word": "友谊",
+      "phonetic": "[jǒu.jì]",
+      "example_sentence": "友谊是非常珍贵的财富。",
+      "category": "Personal data"
+    },
+    {
+      "word": "自然",
+      "phonetic": "[t͡sì.ʐǎn]",
+      "example_sentence": "我喜欢在自然中散步。",
+      "category": "Nature"
+    },
+    {
+      "word": "幸福",
+      "phonetic": "[ɕìŋ.fú]",
+      "example_sentence": "幸福在于小事情。",
+      "category": "Emotions"
+    },
+    {
+      "word": "交流",
+      "phonetic": "[t͡ɕjāu.ljóu]",
+      "example_sentence": "交流是关系中的关键。",
+      "category": "Communication"
+    },
+    {
+      "word": "技术",
+      "phonetic": "[t͡ɕì.ʂù]",
+      "example_sentence": "技术发展得非常快。",
+      "category": "Technology"
+    },
+    {
+      "word": "文化",
+      "phonetic": "[wɤ́n.xwà]",
+      "example_sentence": "中国文化非常丰富。",
+      "category": "Culture"
+    },
+    {
+      "word": "自由",
+      "phonetic": "[t͡sì.jóu]",
+      "example_sentence": "自由是基本权利。",
+      "category": "Society"
+    },
+    {
+      "word": "希望",
+      "phonetic": "[ɕī.wàŋ]",
+      "example_sentence": "永远不要失去对未来的希望。",
+      "category": "Emotions"
+    }
+  ]
+}

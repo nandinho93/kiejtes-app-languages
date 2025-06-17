@@ -1,0 +1,126 @@
+{
+  "language": "turkish",
+  "display_name": "Török",
+  "words": [
+    {
+      "word": "yokluk",
+      "phonetic": "[ˈjokɫuk]",
+      "example_sentence": "Onun yokluğu sırasında eve baktım.",
+      "category": "Personal data"
+    },
+    {
+      "word": "aile",
+      "phonetic": "[aˈiɫe]",
+      "example_sentence": "Ailem benim için çok önemli.",
+      "category": "Personal data"
+    },
+    {
+      "word": "iş",
+      "phonetic": "[iʃ]",
+      "example_sentence": "Her sabah işe gidiyorum.",
+      "category": "Work"
+    },
+    {
+      "word": "okul",
+      "phonetic": "[oˈkuɫ]",
+      "example_sentence": "Çocuklar sabah okula gidiyor.",
+      "category": "Education"
+    },
+    {
+      "word": "hastane",
+      "phonetic": "[hasˈtane]",
+      "example_sentence": "Doktor hastanede çalışıyor.",
+      "category": "Health"
+    },
+    {
+      "word": "yemek",
+      "phonetic": "[jeˈmek]",
+      "example_sentence": "Türk yemeği çok lezzetli.",
+      "category": "Food"
+    },
+    {
+      "word": "zaman",
+      "phonetic": "[zaˈman]",
+      "example_sentence": "Zaman çok hızlı geçiyor.",
+      "category": "Time"
+    },
+    {
+      "word": "para",
+      "phonetic": "[paˈɾa]",
+      "example_sentence": "Araba almak için paraya ihtiyacım var.",
+      "category": "Finance"
+    },
+    {
+      "word": "şehir",
+      "phonetic": "[ʃeˈhiɾ]",
+      "example_sentence": "İstanbul çok güzel bir şehir.",
+      "category": "Geography"
+    },
+    {
+      "word": "seyahat",
+      "phonetic": "[sejaˈhat]",
+      "example_sentence": "Türkiye seyahatim inanılmazdı.",
+      "category": "Travel"
+    },
+    {
+      "word": "müzik",
+      "phonetic": "[myˈzik]",
+      "example_sentence": "Klasik müzik dinlemeyi seviyorum.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "kitap",
+      "phonetic": "[kiˈtap]",
+      "example_sentence": "Çok ilginç bir kitap okuyorum.",
+      "category": "Education"
+    },
+    {
+      "word": "dostluk",
+      "phonetic": "[dostˈɫuk]",
+      "example_sentence": "Dostluk çok değerli bir hazine.",
+      "category": "Personal data"
+    },
+    {
+      "word": "doğa",
+      "phonetic": "[doˈa]",
+      "example_sentence": "Doğada yürümeyi seviyorum.",
+      "category": "Nature"
+    },
+    {
+      "word": "mutluluk",
+      "phonetic": "[mutɫuˈɫuk]",
+      "example_sentence": "Mutluluk küçük şeylerde saklı.",
+      "category": "Emotions"
+    },
+    {
+      "word": "iletişim",
+      "phonetic": "[iletiˈʃim]",
+      "example_sentence": "İletişim ilişkilerin anahtarı.",
+      "category": "Communication"
+    },
+    {
+      "word": "teknoloji",
+      "phonetic": "[teknoloˈʒi]",
+      "example_sentence": "Teknoloji çok hızlı gelişiyor.",
+      "category": "Technology"
+    },
+    {
+      "word": "kültür",
+      "phonetic": "[kyɫˈtyɾ]",
+      "example_sentence": "Türk kültürü çok zengin.",
+      "category": "Culture"
+    },
+    {
+      "word": "özgürlük",
+      "phonetic": "[øzɡyɾˈɫyk]",
+      "example_sentence": "Özgürlük temel bir hak.",
+      "category": "Society"
+    },
+    {
+      "word": "umut",
+      "phonetic": "[uˈmut]",
+      "example_sentence": "Geleceğe dair umudunu asla kaybetme.",
+      "category": "Emotions"
+    }
+  ]
+}

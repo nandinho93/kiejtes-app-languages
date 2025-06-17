@@ -1,0 +1,126 @@
+{
+  "language": "greek",
+  "display_name": "Görög",
+  "words": [
+    {
+      "word": "απουσία",
+      "phonetic": "[apuˈsia]",
+      "example_sentence": "Κατά τη διάρκεια της απουσίας του, φρόντισα το σπίτι.",
+      "category": "Personal data"
+    },
+    {
+      "word": "οικογένεια",
+      "phonetic": "[ikiˈʝenia]",
+      "example_sentence": "Η οικογένειά μου είναι πολύ σημαντική για μένα.",
+      "category": "Personal data"
+    },
+    {
+      "word": "δουλειά",
+      "phonetic": "[ðuˈʎa]",
+      "example_sentence": "Πάω στη δουλειά κάθε πρωί.",
+      "category": "Work"
+    },
+    {
+      "word": "σχολείο",
+      "phonetic": "[sxoˈlio]",
+      "example_sentence": "Τα παιδιά πάνε στο σχολείο το πρωί.",
+      "category": "Education"
+    },
+    {
+      "word": "νοσοκομείο",
+      "phonetic": "[nosokoˈmio]",
+      "example_sentence": "Ο γιατρός δουλεύει στο νοσοκομείο.",
+      "category": "Health"
+    },
+    {
+      "word": "φαγητό",
+      "phonetic": "[faˈʝito]",
+      "example_sentence": "Το ελληνικό φαγητό είναι πολύ νόστιμο.",
+      "category": "Food"
+    },
+    {
+      "word": "χρόνος",
+      "phonetic": "[ˈxronos]",
+      "example_sentence": "Ο χρόνος περνάει πολύ γρήγορα.",
+      "category": "Time"
+    },
+    {
+      "word": "χρήματα",
+      "phonetic": "[ˈxrimata]",
+      "example_sentence": "Χρειάζομαι χρήματα για να αγοράσω το αυτοκίνητο.",
+      "category": "Finance"
+    },
+    {
+      "word": "πόλη",
+      "phonetic": "[ˈpoli]",
+      "example_sentence": "Η Αθήνα είναι μια πολύ όμορφη πόλη.",
+      "category": "Geography"
+    },
+    {
+      "word": "ταξίδι",
+      "phonetic": "[takˈsiði]",
+      "example_sentence": "Το ταξίδι μου στην Ελλάδα ήταν απίστευτο.",
+      "category": "Travel"
+    },
+    {
+      "word": "μουσική",
+      "phonetic": "[muˈsici]",
+      "example_sentence": "Μου αρέσει να ακούω κλασική μουσική.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "βιβλίο",
+      "phonetic": "[viˈvlio]",
+      "example_sentence": "Διαβάζω ένα πολύ ενδιαφέρον βιβλίο.",
+      "category": "Education"
+    },
+    {
+      "word": "φιλία",
+      "phonetic": "[fiˈlia]",
+      "example_sentence": "Η φιλία είναι ένας πολύ πολύτιμος θησαυρός.",
+      "category": "Personal data"
+    },
+    {
+      "word": "φύση",
+      "phonetic": "[ˈfisi]",
+      "example_sentence": "Μου αρέσει να περπατάω στη φύση.",
+      "category": "Nature"
+    },
+    {
+      "word": "ευτυχία",
+      "phonetic": "[eftiˈxia]",
+      "example_sentence": "Η ευτυχία βρίσκεται στα μικρά πράγματα.",
+      "category": "Emotions"
+    },
+    {
+      "word": "επικοινωνία",
+      "phonetic": "[epikoniˈnia]",
+      "example_sentence": "Η επικοινωνία είναι το κλειδί στις σχέσεις.",
+      "category": "Communication"
+    },
+    {
+      "word": "τεχνολογία",
+      "phonetic": "[texnoloˈʝia]",
+      "example_sentence": "Η τεχνολογία εξελίσσεται πολύ γρήγορα.",
+      "category": "Technology"
+    },
+    {
+      "word": "πολιτισμός",
+      "phonetic": "[politiˈzmos]",
+      "example_sentence": "Ο ελληνικός πολιτισμός είναι πολύ πλούσιος.",
+      "category": "Culture"
+    },
+    {
+      "word": "ελευθερία",
+      "phonetic": "[elefθeˈria]",
+      "example_sentence": "Η ελευθερία είναι ένα θεμελιώδες δικαίωμα.",
+      "category": "Society"
+    },
+    {
+      "word": "ελπίδα",
+      "phonetic": "[elˈpiða]",
+      "example_sentence": "Μην χάσεις ποτέ την ελπίδα για το μέλλον.",
+      "category": "Emotions"
+    }
+  ]
+}

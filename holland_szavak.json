@@ -1,0 +1,126 @@
+{
+  "language": "dutch",
+  "display_name": "Holland",
+  "words": [
+    {
+      "word": "afwezigheid",
+      "phonetic": "[ˈɑfweːzəɣɦɛit]",
+      "example_sentence": "Tijdens zijn afwezigheid zorgde ik voor het huis.",
+      "category": "Personal data"
+    },
+    {
+      "word": "familie",
+      "phonetic": "[faːˈmili]",
+      "example_sentence": "Mijn familie is heel belangrijk voor mij.",
+      "category": "Personal data"
+    },
+    {
+      "word": "werk",
+      "phonetic": "[ʋɛrk]",
+      "example_sentence": "Ik ga elke ochtend naar mijn werk.",
+      "category": "Work"
+    },
+    {
+      "word": "school",
+      "phonetic": "[sxoːl]",
+      "example_sentence": "De kinderen gaan 's ochtends naar school.",
+      "category": "Education"
+    },
+    {
+      "word": "ziekenhuis",
+      "phonetic": "[ˈzikənɦœys]",
+      "example_sentence": "De dokter werkt in het ziekenhuis.",
+      "category": "Health"
+    },
+    {
+      "word": "eten",
+      "phonetic": "[ˈeːtən]",
+      "example_sentence": "Het Nederlandse eten is heel lekker.",
+      "category": "Food"
+    },
+    {
+      "word": "tijd",
+      "phonetic": "[tɛit]",
+      "example_sentence": "De tijd gaat heel snel voorbij.",
+      "category": "Time"
+    },
+    {
+      "word": "geld",
+      "phonetic": "[ɣɛlt]",
+      "example_sentence": "Ik heb geld nodig om de auto te kopen.",
+      "category": "Finance"
+    },
+    {
+      "word": "stad",
+      "phonetic": "[stɑt]",
+      "example_sentence": "Amsterdam is een prachtige stad.",
+      "category": "Geography"
+    },
+    {
+      "word": "reis",
+      "phonetic": "[rɛis]",
+      "example_sentence": "Mijn reis naar Nederland was ongelooflijk.",
+      "category": "Travel"
+    },
+    {
+      "word": "muziek",
+      "phonetic": "[myˈzik]",
+      "example_sentence": "Ik luister graag naar klassieke muziek.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "boek",
+      "phonetic": "[buk]",
+      "example_sentence": "Ik lees een heel interessant boek.",
+      "category": "Education"
+    },
+    {
+      "word": "vriendschap",
+      "phonetic": "[ˈvrintsxɑp]",
+      "example_sentence": "Vriendschap is een heel waardevolle schat.",
+      "category": "Personal data"
+    },
+    {
+      "word": "natuur",
+      "phonetic": "[naːˈtyːr]",
+      "example_sentence": "Ik wandel graag in de natuur.",
+      "category": "Nature"
+    },
+    {
+      "word": "geluk",
+      "phonetic": "[ɣəˈlʏk]",
+      "example_sentence": "Geluk zit in de kleine dingen.",
+      "category": "Emotions"
+    },
+    {
+      "word": "communicatie",
+      "phonetic": "[koːmyniˈkaːtsi]",
+      "example_sentence": "Communicatie is de sleutel in relaties.",
+      "category": "Communication"
+    },
+    {
+      "word": "technologie",
+      "phonetic": "[tɛɣnoloːˈɣi]",
+      "example_sentence": "Technologie ontwikkelt zich heel snel.",
+      "category": "Technology"
+    },
+    {
+      "word": "cultuur",
+      "phonetic": "[kʏlˈtyːr]",
+      "example_sentence": "De Nederlandse cultuur is heel rijk.",
+      "category": "Culture"
+    },
+    {
+      "word": "vrijheid",
+      "phonetic": "[ˈvrɛiɦɛit]",
+      "example_sentence": "Vrijheid is een fundamenteel recht.",
+      "category": "Society"
+    },
+    {
+      "word": "hoop",
+      "phonetic": "[ɦoːp]",
+      "example_sentence": "Verlies nooit de hoop in de toekomst.",
+      "category": "Emotions"
+    }
+  ]
+}

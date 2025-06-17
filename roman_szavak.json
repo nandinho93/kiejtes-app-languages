@@ -1,0 +1,126 @@
+{
+  "language": "romanian",
+  "display_name": "Román",
+  "words": [
+    {
+      "word": "absență",
+      "phonetic": "[apˈsent͡sə]",
+      "example_sentence": "În timpul absenței lui, am avut grijă de casă.",
+      "category": "Personal data"
+    },
+    {
+      "word": "familie",
+      "phonetic": "[faˈmilie]",
+      "example_sentence": "Familia mea este foarte importantă pentru mine.",
+      "category": "Personal data"
+    },
+    {
+      "word": "muncă",
+      "phonetic": "[ˈmunkə]",
+      "example_sentence": "Merg la muncă în fiecare dimineață.",
+      "category": "Work"
+    },
+    {
+      "word": "școală",
+      "phonetic": "[ˈʃko̯alə]",
+      "example_sentence": "Copiii merg la școală dimineața.",
+      "category": "Education"
+    },
+    {
+      "word": "spital",
+      "phonetic": "[spiˈtal]",
+      "example_sentence": "Doctorul lucrează la spital.",
+      "category": "Health"
+    },
+    {
+      "word": "mâncare",
+      "phonetic": "[mɨnˈkare]",
+      "example_sentence": "Mâncarea românească este foarte gustoasă.",
+      "category": "Food"
+    },
+    {
+      "word": "timp",
+      "phonetic": "[timp]",
+      "example_sentence": "Timpul trece foarte repede.",
+      "category": "Time"
+    },
+    {
+      "word": "bani",
+      "phonetic": "[banj]",
+      "example_sentence": "Am nevoie de bani să cumpăr mașina.",
+      "category": "Finance"
+    },
+    {
+      "word": "oraș",
+      "phonetic": "[oˈraʃ]",
+      "example_sentence": "București este un oraș foarte frumos.",
+      "category": "Geography"
+    },
+    {
+      "word": "călătorie",
+      "phonetic": "[kələˈtorie]",
+      "example_sentence": "Călătoria mea în România a fost incredibilă.",
+      "category": "Travel"
+    },
+    {
+      "word": "muzică",
+      "phonetic": "[ˈmuzikə]",
+      "example_sentence": "Îmi place să ascult muzică clasică.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "carte",
+      "phonetic": "[ˈkarte]",
+      "example_sentence": "Citesc o carte foarte interesantă.",
+      "category": "Education"
+    },
+    {
+      "word": "prietenie",
+      "phonetic": "[prieˈtenie]",
+      "example_sentence": "Prietenia este o comoară foarte prețioasă.",
+      "category": "Personal data"
+    },
+    {
+      "word": "natură",
+      "phonetic": "[naˈturə]",
+      "example_sentence": "Îmi place să mă plimb în natură.",
+      "category": "Nature"
+    },
+    {
+      "word": "fericire",
+      "phonetic": "[feˈrɨt͡ʃire]",
+      "example_sentence": "Fericirea se găsește în lucrurile mici.",
+      "category": "Emotions"
+    },
+    {
+      "word": "comunicare",
+      "phonetic": "[komunikˈare]",
+      "example_sentence": "Comunicarea este cheia în relații.",
+      "category": "Communication"
+    },
+    {
+      "word": "tehnologie",
+      "phonetic": "[tehnoloˈd͡ʒie]",
+      "example_sentence": "Tehnologia se dezvoltă foarte repede.",
+      "category": "Technology"
+    },
+    {
+      "word": "cultură",
+      "phonetic": "[kulˈturə]",
+      "example_sentence": "Cultura românească este foarte bogată.",
+      "category": "Culture"
+    },
+    {
+      "word": "libertate",
+      "phonetic": "[liberˈtate]",
+      "example_sentence": "Libertatea este un drept fundamental.",
+      "category": "Society"
+    },
+    {
+      "word": "speranță",
+      "phonetic": "[speˈrant͡sə]",
+      "example_sentence": "Nu pierde niciodată speranța în viitor.",
+      "category": "Emotions"
+    }
+  ]
+}

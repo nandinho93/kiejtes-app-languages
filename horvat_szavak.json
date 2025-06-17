@@ -1,0 +1,126 @@
+{
+  "language": "croatian",
+  "display_name": "Horvát",
+  "words": [
+    {
+      "word": "odsutnost",
+      "phonetic": "[ˈodsutnost]",
+      "example_sentence": "Tijekom njegove odsutnosti čuvao sam kuću.",
+      "category": "Personal data"
+    },
+    {
+      "word": "obitelj",
+      "phonetic": "[ˈobitelj]",
+      "example_sentence": "Moja obitelj je vrlo važna za mene.",
+      "category": "Personal data"
+    },
+    {
+      "word": "posao",
+      "phonetic": "[ˈposao]",
+      "example_sentence": "Idem na posao svako jutro.",
+      "category": "Work"
+    },
+    {
+      "word": "škola",
+      "phonetic": "[ˈʃkola]",
+      "example_sentence": "Djeca idu u školu ujutro.",
+      "category": "Education"
+    },
+    {
+      "word": "bolnica",
+      "phonetic": "[ˈbolnit͡sa]",
+      "example_sentence": "Doktor radi u bolnici.",
+      "category": "Health"
+    },
+    {
+      "word": "hrana",
+      "phonetic": "[ˈhrana]",
+      "example_sentence": "Hrvatska hrana je vrlo ukusna.",
+      "category": "Food"
+    },
+    {
+      "word": "vrijeme",
+      "phonetic": "[ˈvrijeme]",
+      "example_sentence": "Vrijeme prolazi vrlo brzo.",
+      "category": "Time"
+    },
+    {
+      "word": "novac",
+      "phonetic": "[ˈnovat͡s]",
+      "example_sentence": "Trebam novac da kupim auto.",
+      "category": "Finance"
+    },
+    {
+      "word": "grad",
+      "phonetic": "[ɡrad]",
+      "example_sentence": "Zagreb je vrlo lijep grad.",
+      "category": "Geography"
+    },
+    {
+      "word": "putovanje",
+      "phonetic": "[ˈputovanj̩e]",
+      "example_sentence": "Moje putovanje u Hrvatsku bilo je nevjerojatno.",
+      "category": "Travel"
+    },
+    {
+      "word": "glazba",
+      "phonetic": "[ˈɡlazba]",
+      "example_sentence": "Volim slušati klasičnu glazbu.",
+      "category": "Entertainment"
+    },
+    {
+      "word": "knjiga",
+      "phonetic": "[ˈkɲiɡa]",
+      "example_sentence": "Čitam vrlo zanimljivu knjigu.",
+      "category": "Education"
+    },
+    {
+      "word": "prijateljstvo",
+      "phonetic": "[ˈprijateljstvo]",
+      "example_sentence": "Prijateljstvo je vrlo dragocjeno blago.",
+      "category": "Personal data"
+    },
+    {
+      "word": "priroda",
+      "phonetic": "[ˈpriroda]",
+      "example_sentence": "Volim hodati u prirodi.",
+      "category": "Nature"
+    },
+    {
+      "word": "sreća",
+      "phonetic": "[ˈsreća]",
+      "example_sentence": "Sreća se nalazi u malim stvarima.",
+      "category": "Emotions"
+    },
+    {
+      "word": "komunikacija",
+      "phonetic": "[komunikˈat͡sija]",
+      "example_sentence": "Komunikacija je ključ u odnosima.",
+      "category": "Communication"
+    },
+    {
+      "word": "tehnologija",
+      "phonetic": "[tehnoˈloɡija]",
+      "example_sentence": "Tehnologija se razvija vrlo brzo.",
+      "category": "Technology"
+    },
+    {
+      "word": "kultura",
+      "phonetic": "[kulˈtura]",
+      "example_sentence": "Hrvatska kultura je vrlo bogata.",
+      "category": "Culture"
+    },
+    {
+      "word": "sloboda",
+      "phonetic": "[ˈsloboda]",
+      "example_sentence": "Sloboda je temeljno pravo.",
+      "category": "Society"
+    },
+    {
+      "word": "nada",
+      "phonetic": "[ˈnada]",
+      "example_sentence": "Nikad ne izgubi nadu u budućnost.",
+      "category": "Emotions"
+    }
+  ]
+}
