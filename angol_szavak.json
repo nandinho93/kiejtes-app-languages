@@ -1,0 +1,3286 @@
+{
+  "words": [
+    {
+      "word": "absence",
+      "phonetic": "[ˈæbsəns]",
+      "example_sentence": "A new teacher was appointed during his absence.",
+      "category": "Personal data"
+    },
+    {
+      "word": "adult",
+      "phonetic": "[ˈædʌlt]",
+      "example_sentence": "Children may come with an adult.",
+      "category": "Personal data"
+    },
+    {
+      "word": "age",
+      "phonetic": "[eɪdʒ]",
+      "example_sentence": "The age of the girl is unknown.",
+      "category": "Personal data"
+    },
+    {
+      "word": "born",
+      "phonetic": "[bɔːn]",
+      "example_sentence": "He was born in Germany.",
+      "category": "Personal data"
+    },
+    {
+      "word": "boy",
+      "phonetic": "[bɔɪ]",
+      "example_sentence": "The boys' restroom is opposite the girls'.",
+      "category": "Personal data"
+    },
+    {
+      "word": "female",
+      "phonetic": "[ˈfiːmeɪl]",
+      "example_sentence": "The female babies receive pink blankets.",
+      "category": "Personal data"
+    },
+    {
+      "word": "gentleman",
+      "phonetic": "[ˈdʒɛntlmən]",
+      "example_sentence": "The gentleman took off his coat and handed it to the lady.",
+      "category": "Personal data"
+    },
+    {
+      "word": "girl",
+      "phonetic": "[ɡɜːl]",
+      "example_sentence": "My youngest child is a girl.",
+      "category": "Personal data"
+    },
+    {
+      "word": "to identify",
+      "phonetic": "[aɪˈdɛntɪfaɪ]",
+      "example_sentence": "The girl identified the coat as hers.",
+      "category": "Personal data"
+    },
+    {
+      "word": "individual",
+      "phonetic": "[ˌɪndɪˈvɪdʒuəl]",
+      "example_sentence": "A good teacher treats students as individuals.",
+      "category": "Personal data"
+    },
+    {
+      "word": "kid",
+      "phonetic": "[kɪd]",
+      "example_sentence": "Kids enjoy visiting the zoo.",
+      "category": "Personal data"
+    },
+    {
+      "word": "lady",
+      "phonetic": "[ˈleɪdi]",
+      "example_sentence": "The lady at the bank said hello to the girl.",
+      "category": "Personal data"
+    },
+    {
+      "word": "male",
+      "phonetic": "[meɪl]",
+      "example_sentence": "There are more male students than female ones in the class.",
+      "category": "Personal data"
+    },
+    {
+      "word": "man",
+      "phonetic": "[mæn]",
+      "example_sentence": "Man is the opposite of woman.",
+      "category": "Personal data"
+    },
+    {
+      "word": "name",
+      "phonetic": "[neɪm]",
+      "example_sentence": "Do you have the same name as one of your parents?",
+      "category": "Personal data"
+    },
+    {
+      "word": "person",
+      "phonetic": "[ˈpɜːsn]",
+      "example_sentence": "Only one person at a time may enter the room.",
+      "category": "Personal data"
+    },
+    {
+      "word": "sex",
+      "phonetic": "[seks]",
+      "example_sentence": "You can now find out the sex of your baby before it is born.",
+      "category": "Personal data"
+    },
+    {
+      "word": "sir",
+      "phonetic": "[sɜː]",
+      "example_sentence": "It's polite to call strangers 'Sir' or 'Madam.'",
+      "category": "Personal data"
+    },
+    {
+      "word": "status",
+      "phonetic": "[ˈsteɪtəs]",
+      "example_sentence": "Her status in society changed after she had written a book.",
+      "category": "Personal data"
+    },
+    {
+      "word": "title",
+      "phonetic": "[ˈtaɪtl]",
+      "example_sentence": "He uses the title 'Sir' before his name.",
+      "category": "Personal data"
+    },
+    {
+      "word": "woman",
+      "phonetic": "[ˈwʊmən]",
+      "example_sentence": "The old man married a young woman.",
+      "category": "Personal data"
+    },
+    {
+      "word": "youth",
+      "phonetic": "[juːθ]",
+      "example_sentence": "He learned wisdom in his youth so he could make better decisions as an adult.",
+      "category": "Personal data"
+    },
+    {
+      "word": "absent",
+      "phonetic": "[ˈæbsənt]",
+      "example_sentence": "Two pupils were absent yesterday.",
+      "category": "Personal data"
+    },
+    {
+      "word": "birthday",
+      "phonetic": "[ˈbɜːθdeɪ]",
+      "example_sentence": "My birthday is on the 22nd of June.",
+      "category": "Personal data"
+    },
+    {
+      "word": "chap",
+      "phonetic": "[tʃæp]",
+      "example_sentence": "John is a very friendly chap.",
+      "category": "Personal data"
+    },
+    {
+      "word": "deaf",
+      "phonetic": "[def]",
+      "example_sentence": "If you cannot hear, you are deaf.",
+      "category": "Personal data"
+    },
+    {
+      "word": "duke",
+      "phonetic": "[djuːk]",
+      "example_sentence": "A duke is a man of very high rank, just below that of king or queen.",
+      "category": "Personal data"
+    },
+    {
+      "word": "earl",
+      "phonetic": "[ɜːl]",
+      "example_sentence": "An earl is a man of high social rank who rules territory for the king.",
+      "category": "Personal data"
+    },
+    {
+      "word": "ethnic",
+      "phonetic": "[ˈeθnɪk]",
+      "example_sentence": "The cultural festival celebrated a variety of ethnic origins.",
+      "category": "Personal data"
+    },
+    {
+      "word": "fellow",
+      "phonetic": "[ˈfeləʊ]",
+      "example_sentence": "That fellow is a great football player.",
+      "category": "Personal data"
+    },
+    {
+      "word": "female",
+      "phonetic": "[ˈfiːmeɪl]",
+      "example_sentence": "Most of the cooks are females in this hotel.",
+      "category": "Personal data"
+    },
+    {
+      "word": "gender",
+      "phonetic": "[ˈdʒendə]",
+      "example_sentence": "Do you know what gender the baby is?",
+      "category": "Personal data"
+    },
+    {
+      "word": "guy",
+      "phonetic": "[ɡaɪ]",
+      "example_sentence": "That guy is friends with my brother.",
+      "category": "Personal data"
+    },
+    {
+      "word": "identification",
+      "phonetic": "[aɪˌdentɪfɪˈkeɪʃən]",
+      "example_sentence": "Can I see some identification, please?",
+      "category": "Personal data"
+    },
+    {
+      "word": "identity",
+      "phonetic": "[aɪˈdentəti]",
+      "example_sentence": "During his teenage years, he questioned his identity.",
+      "category": "Personal data"
+    },
+    {
+      "word": "infant",
+      "phonetic": "[ˈɪnfənt]",
+      "example_sentence": "This product is not suitable for infants.",
+      "category": "Personal data"
+    },
+    {
+      "word": "junior",
+      "phonetic": "[ˈdʒuːniə]",
+      "example_sentence": "The firm is taking on a new junior employee.",
+      "category": "Personal data"
+    },
+    {
+      "word": "lad",
+      "phonetic": "[læd]",
+      "example_sentence": "A group of lads were playing football on the street.",
+      "category": "Personal data"
+    },
+    {
+      "word": "male",
+      "phonetic": "[meɪl]",
+      "example_sentence": "According to the survey, males earn more than females.",
+      "category": "Personal data"
+    },
+    {
+      "word": "self",
+      "phonetic": "[self]",
+      "example_sentence": "I think a job gives a person a sense of self.",
+      "category": "Personal data"
+    },
+    {
+      "word": "senior",
+      "phonetic": "[ˈsiːniə]",
+      "example_sentence": "Only senior pupils are permitted to go out at lunchtime.",
+      "category": "Personal data"
+    },
+    {
+      "word": "signature",
+      "phonetic": "[ˈsɪɡnətʃə]",
+      "example_sentence": "Everyone has a unique signature.",
+      "category": "Personal data"
+    },
+    {
+      "word": "surname",
+      "phonetic": "[ˈsɜːneɪm]",
+      "example_sentence": "Smith is a very common surname.",
+      "category": "Personal data"
+    },
+    {
+      "word": "teenager",
+      "phonetic": "[ˈtiːneɪdʒə]",
+      "example_sentence": "Talking to teenagers can be very difficult sometimes.",
+      "category": "Personal data"
+    },
+    {
+      "word": "youngster",
+      "phonetic": "[ˈjʌŋstə]",
+      "example_sentence": "His youngster is going to the local primary school.",
+      "category": "Personal data"
+    },
+    {
+      "word": "American",
+      "phonetic": "[əˈmerɪkən]",
+      "example_sentence": "He has only lived in the US for five years, but his American accent is very strong.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "British",
+      "phonetic": "[ˈbrɪtɪʃ]",
+      "example_sentence": "I find British humour very funny.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "English",
+      "phonetic": "[ˈɪŋɡlɪʃ]",
+      "example_sentence": "English humour can be very dry.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "European",
+      "phonetic": "[ˌjʊərəˈpiːən]",
+      "example_sentence": "European food varies greatly.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "foreign",
+      "phonetic": "[ˈfɒrən]",
+      "example_sentence": "She enjoys learning foreign languages.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "French",
+      "phonetic": "[frentʃ]",
+      "example_sentence": "I really like French fashion.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "German",
+      "phonetic": "[ˈdʒɜːrmən]",
+      "example_sentence": "German classical composers are famous throughout the world.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "Irish",
+      "phonetic": "[ˈaɪrɪʃ]",
+      "example_sentence": "The Irish language is different from English.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "Japanese",
+      "phonetic": "[ˌdʒæpəˈniːz]",
+      "example_sentence": "We ate sushi in a Japanese restaurant.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "Russian",
+      "phonetic": "[ˈrʌʃən]",
+      "example_sentence": "Russian films are often sad comedies.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "Scottish",
+      "phonetic": "[ˈskɒtɪʃ]",
+      "example_sentence": "English people sometimes have difficulties in understanding Scottish accents.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "Soviet",
+      "phonetic": "[ˈsəʊviət]",
+      "example_sentence": "I lived in the Soviet zone of Berlin as a kid.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "African",
+      "phonetic": "[ˈæfrɪkən]",
+      "example_sentence": "I have never been to the African continent.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "Arab",
+      "phonetic": "[ˈærəb]",
+      "example_sentence": "Tea is often served with Arab food.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "Asian",
+      "phonetic": "[ˈeɪʃən]",
+      "example_sentence": "The Asian continent is the largest in the world.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "Australian",
+      "phonetic": "[ɒˈstreɪliən]",
+      "example_sentence": "Australian beaches are popular holiday places.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "Chinese",
+      "phonetic": "[tʃaɪˈniːz]",
+      "example_sentence": "Many people find it hard to learn Chinese.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "Dutch",
+      "phonetic": "[dʌtʃ]",
+      "example_sentence": "Dutch cheese has a good reputation.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "Greek",
+      "phonetic": "[ɡriːk]",
+      "example_sentence": "Moussaka is a Greek dish.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "Indian",
+      "phonetic": "[ˈɪndiən]",
+      "example_sentence": "There are a lot of Indian restaurants in London.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "Italian",
+      "phonetic": "[ɪˈtæljən]",
+      "example_sentence": "Italian wines have a very good reputation.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "native",
+      "phonetic": "[ˈneɪtɪv]",
+      "example_sentence": "He returned to live in his native country.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "Roman",
+      "phonetic": "[ˈrəʊmən]",
+      "example_sentence": "The Roman Empire grew quickly.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "Spanish",
+      "phonetic": "[ˈspænɪʃ]",
+      "example_sentence": "Madrid is the Spanish capital.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "Welsh",
+      "phonetic": "[welʃ]",
+      "example_sentence": "Welsh cities sometimes have very complicated names.",
+      "category": "Citizenship and nationality"
+    },
+    {
+      "word": "to adopt",
+      "phonetic": "[əˈdɒpt]",
+      "example_sentence": "Both children are adopted.",
+      "category": "Family"
+    },
+    {
+      "word": "baby",
+      "phonetic": "[ˈbeɪbi]",
+      "example_sentence": "John's new baby is just eight weeks old.",
+      "category": "Family"
+    },
+    {
+      "word": "birth",
+      "phonetic": "[bɜːθ]",
+      "example_sentence": "David was present at the birth of all his children.",
+      "category": "Family"
+    },
+    {
+      "word": "brother",
+      "phonetic": "[ˈbrʌðər]",
+      "example_sentence": "Do you have any brothers or sisters?",
+      "category": "Family"
+    },
+    {
+      "word": "child",
+      "phonetic": "[tʃaɪld]",
+      "example_sentence": "Both of her children are now living abroad.",
+      "category": "Family"
+    },
+    {
+      "word": "dad",
+      "phonetic": "[dæd]",
+      "example_sentence": "I call my father Dad.",
+      "category": "Family"
+    },
+    {
+      "word": "daughter",
+      "phonetic": "[ˈdɔːtər]",
+      "example_sentence": "My daughter is now living in Germany.",
+      "category": "Family"
+    },
+    {
+      "word": "family",
+      "phonetic": "[ˈfæməli]",
+      "example_sentence": "A new family has moved into the neighbourhood.",
+      "category": "Family"
+    },
+    {
+      "word": "father",
+      "phonetic": "[ˈfɑːðər]",
+      "example_sentence": "He is the father of two young children.",
+      "category": "Family"
+    },
+    {
+      "word": "generation",
+      "phonetic": "[ˌdʒenəˈreɪʃən]",
+      "example_sentence": "The younger generation have travelled abroad more than their parents.",
+      "category": "Family"
+    },
+    {
+      "word": "grandfather",
+      "phonetic": "[ˈɡrænfɑːðər]",
+      "example_sentence": "My grandfather is almost 90 years old.",
+      "category": "Family"
+    },
+    {
+      "word": "grandmother",
+      "phonetic": "[ˈɡrænmʌðər]",
+      "example_sentence": "The children often see their grandmother.",
+      "category": "Family"
+    },
+    {
+      "word": "husband",
+      "phonetic": "[ˈhʌzbənd]",
+      "example_sentence": "Susan's husband is an engineer.",
+      "category": "Family"
+    },
+    {
+      "word": "mother",
+      "phonetic": "[ˈmʌðər]",
+      "example_sentence": "My mother has just turned 50 years old.",
+      "category": "Family"
+    },
+    {
+      "word": "mum",
+      "phonetic": "[mʌm]",
+      "example_sentence": "Mum is the oldest in her family.",
+      "category": "Family"
+    },
+    {
+      "word": "parent",
+      "phonetic": "[ˈpɛərənt]",
+      "example_sentence": "I met Paul's parents for the first time last week.",
+      "category": "Family"
+    },
+    {
+      "word": "sister",
+      "phonetic": "[ˈsɪstər]",
+      "example_sentence": "Natalie is Jane's elder sister.",
+      "category": "Family"
+    },
+    {
+      "word": "son",
+      "phonetic": "[sʌn]",
+      "example_sentence": "I have two sons and one daughter.",
+      "category": "Family"
+    },
+    {
+      "word": "wife",
+      "phonetic": "[waɪf]",
+      "example_sentence": "My wife is a teacher.",
+      "category": "Family"
+    },
+    {
+      "word": "aunt",
+      "phonetic": "[ɑːnt]",
+      "example_sentence": "I have an aunt in America.",
+      "category": "Family"
+    },
+    {
+      "word": "childhood",
+      "phonetic": "[ˈtʃaɪldhʊd]",
+      "example_sentence": "I had a very happy childhood.",
+      "category": "Family"
+    },
+    {
+      "word": "to conceive",
+      "phonetic": "[kənˈsiːv]",
+      "example_sentence": "The baby was conceived when they were on holiday.",
+      "category": "Family"
+    },
+    {
+      "word": "cousin",
+      "phonetic": "[ˈkʌzn]",
+      "example_sentence": "My oldest cousin is 30 years old.",
+      "category": "Family"
+    },
+    {
+      "word": "daddy",
+      "phonetic": "[ˈdædi]",
+      "example_sentence": "Daddy is another word for father, used by children.",
+      "category": "Family"
+    },
+    {
+      "word": "divorce",
+      "phonetic": "[dɪˈvɔːs]",
+      "example_sentence": "My brother is getting a divorce from his wife.",
+      "category": "Family"
+    },
+    {
+      "word": "grandchild",
+      "phonetic": "[ˈɡræntʃaɪld]",
+      "example_sentence": "My youngest grandchild is coming to visit soon.",
+      "category": "Family"
+    },
+    {
+      "word": "granddaughter",
+      "phonetic": "[ˈɡrændɔːtər]",
+      "example_sentence": "Her granddaughter has just finished school.",
+      "category": "Family"
+    },
+    {
+      "word": "grandparent",
+      "phonetic": "[ˈɡrænpɛərənt]",
+      "example_sentence": "Grandparents are important members of most families.",
+      "category": "Family"
+    },
+    {
+      "word": "grandson",
+      "phonetic": "[ˈɡrænsʌn]",
+      "example_sentence": "Our grandson is about to start university.",
+      "category": "Family"
+    },
+    {
+      "word": "heritage",
+      "phonetic": "[ˈhɛrɪtɪdʒ]",
+      "example_sentence": "Customs are very important to our cultural heritage.",
+      "category": "Family"
+    },
+    {
+      "word": "to inherit",
+      "phonetic": "[ɪnˈhɛrɪt]",
+      "example_sentence": "Anna has inherited her mother's blue eyes.",
+      "category": "Family"
+    },
+    {
+      "word": "mummy",
+      "phonetic": "[ˈmʌmi]",
+      "example_sentence": "Susan calls her mother Mummy.",
+      "category": "Family"
+    },
+    {
+      "word": "nephew",
+      "phonetic": "[ˈnɛvjuː]",
+      "example_sentence": "Two of my nephews live in Australia.",
+      "category": "Family"
+    },
+    {
+      "word": "niece",
+      "phonetic": "[niːs]",
+      "example_sentence": "I'm looking forward to seeing my new niece on Sunday.",
+      "category": "Family"
+    },
+    {
+      "word": "pregnancy",
+      "phonetic": "[ˈprɛɡnənsi]",
+      "example_sentence": "My sister gave up drinking and smoking during her pregnancy.",
+      "category": "Family"
+    },
+    {
+      "word": "pregnant",
+      "phonetic": "[ˈprɛɡnənt]",
+      "example_sentence": "My sister gave up smoking when she became pregnant.",
+      "category": "Family"
+    },
+    {
+      "word": "related",
+      "phonetic": "[rɪˈleɪtɪd]",
+      "example_sentence": "Susan and I are related through marriage.",
+      "category": "Family"
+    },
+    {
+      "word": "relation",
+      "phonetic": "[rɪˈleɪʃən]",
+      "example_sentence": "My relations are coming to visit on Saturday.",
+      "category": "Family"
+    },
+    {
+      "word": "relative",
+      "phonetic": "[ˈrelətɪv]",
+      "example_sentence": "Almost all of Jane's relatives came to her birthday party.",
+      "category": "Family"
+    },
+    {
+      "word": "twin",
+      "phonetic": "[twɪn]",
+      "example_sentence": "John and Marie are twins.",
+      "category": "Family"
+    },
+    {
+      "word": "uncle",
+      "phonetic": "[ˈʌŋkl]",
+      "example_sentence": "Uncle John is my favourite uncle.",
+      "category": "Family"
+    },
+    {
+      "word": "wedding",
+      "phonetic": "[ˈwedɪŋ]",
+      "example_sentence": "The wedding will be on a Saturday.",
+      "category": "Family"
+    },
+    {
+      "word": "widow",
+      "phonetic": "[ˈwɪdəʊ]",
+      "example_sentence": "She has been a widow for five years now.",
+      "category": "Family"
+    },
+    {
+      "word": "to appear",
+      "phonetic": "[əˈpɪər]",
+      "example_sentence": "He appears to be very nice.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "appearance",
+      "phonetic": "[əˈpɪərəns]",
+      "example_sentence": "Appearance is very important in this job.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "to attract",
+      "phonetic": "[əˈtrækt]",
+      "example_sentence": "I am not physically attracted to him.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "attractive",
+      "phonetic": "[əˈtræktɪv]",
+      "example_sentence": "I find him very attractive.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "beautiful",
+      "phonetic": "[ˈbjuːtɪfl]",
+      "example_sentence": "My boyfriend has given me a beautiful diamond necklace.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "bright",
+      "phonetic": "[braɪt]",
+      "example_sentence": "His eyes are bright blue.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "fat",
+      "phonetic": "[fæt]",
+      "example_sentence": "She is on a diet because she thinks she is too fat.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "fair",
+      "phonetic": "[feər]",
+      "example_sentence": "She has very fair hair and blue eyes.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "firm",
+      "phonetic": "[fɜːm]",
+      "example_sentence": "The seat was too firm for me.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "huge",
+      "phonetic": "[hjuːdʒ]",
+      "example_sentence": "She looked at me with her huge green eyes.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "image",
+      "phonetic": "[ˈɪmɪdʒ]",
+      "example_sentence": "The image in the mirror is reversed.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "little",
+      "phonetic": "[ˈlɪtl]",
+      "example_sentence": "When my son was little, he broke his leg.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "mark",
+      "phonetic": "[mɑːk]",
+      "example_sentence": "She was born with a small mark on her head.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "nice",
+      "phonetic": "[naɪs]",
+      "example_sentence": "That boy has a nice smile.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "old",
+      "phonetic": "[əʊld]",
+      "example_sentence": "My grandfather is very old.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "pretty",
+      "phonetic": "[ˈprɪti]",
+      "example_sentence": "All the girls in the Smith family are very pretty.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "short",
+      "phonetic": "[ʃɔːt]",
+      "example_sentence": "He is shorter than the other players in his team.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "small",
+      "phonetic": "[smɔːl]",
+      "example_sentence": "The girl is quite small for her age.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "style",
+      "phonetic": "[staɪl]",
+      "example_sentence": "She wears clothes that are now in style.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "tall",
+      "phonetic": "[tɔːl]",
+      "example_sentence": "In general, men are taller than women.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "thin",
+      "phonetic": "[θɪn]",
+      "example_sentence": "Have you noticed how thin her arms are?",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "tiny",
+      "phonetic": "[ˈtaɪni]",
+      "example_sentence": "Babies have tiny fingers.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "ugly",
+      "phonetic": "[ˈʌɡli]",
+      "example_sentence": "That hat is really ugly.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "young",
+      "phonetic": "[jʌŋ]",
+      "example_sentence": "Her mother was very young when she had her first child.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "attraction",
+      "phonetic": "[əˈtrækʃən]",
+      "example_sentence": "He felt an instant attraction towards her.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "beauty",
+      "phonetic": "[ˈbjuːti]",
+      "example_sentence": "Her beauty is striking.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "blond",
+      "phonetic": "[blɒnd]",
+      "example_sentence": "Most of my relatives have blond hair.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "to curl",
+      "phonetic": "[kɜːl]",
+      "example_sentence": "I wish my hair didn't curl so much.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "curly",
+      "phonetic": "[ˈkɜːli]",
+      "example_sentence": "I've always wanted curly hair.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "elegant",
+      "phonetic": "[ˈelɪɡənt]",
+      "example_sentence": "Her choice of clothing is very elegant.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "to frown",
+      "phonetic": "[fraʊn]",
+      "example_sentence": "I knew my father was annoyed because he frowned at me.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "make-up",
+      "phonetic": "[ˈmeɪkʌp]",
+      "example_sentence": "My wife doesn't wear much make-up.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "naked",
+      "phonetic": "[ˈneɪkɪd]",
+      "example_sentence": "They ran into the sea half naked.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "neat",
+      "phonetic": "[niːt]",
+      "example_sentence": "A neat appearance is very important.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "plain",
+      "phonetic": "[pleɪn]",
+      "example_sentence": "As a child, she was quite plain.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "powder",
+      "phonetic": "[ˈpaʊdər]",
+      "example_sentence": "I need to buy more face powder.",
+      "category": "Physical appearance"
+    },
+    {
+      "word": "ability",
+      "phonetic": "[əˈbɪləti]",
+      "example_sentence": "His academic ability is rather impressive.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "able",
+      "phonetic": "[ˈeɪbl]",
+      "example_sentence": "I am afraid that I am not able to help you with this problem.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "attitude",
+      "phonetic": "[ˈætɪtjuːd]",
+      "example_sentence": "A positive attitude in a test is important.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "behaviour",
+      "phonetic": "[bɪˈheɪvjər]",
+      "example_sentence": "Such behaviour is simply not acceptable!",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "capable",
+      "phonetic": "[ˈkeɪpəbl]",
+      "example_sentence": "You are a very capable worker.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "character",
+      "phonetic": "[ˈkærəktər]",
+      "example_sentence": "Being shy is very out of character for him.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "clever",
+      "phonetic": "[ˈklevər]",
+      "example_sentence": "She is a clever student who always does her homework.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "confidence",
+      "phonetic": "[ˈkɒnfɪdəns]",
+      "example_sentence": "Luke lacks confidence when he speaks.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "famous",
+      "phonetic": "[ˈfeɪməs]",
+      "example_sentence": "One of the most famous sights in London is Buckingham Palace.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "funny",
+      "phonetic": "[ˈfʌni]",
+      "example_sentence": "The show was very funny.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "popular",
+      "phonetic": "[ˈpɒpjələr]",
+      "example_sentence": "Anita was very popular in school.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "shy",
+      "phonetic": "[ʃaɪ]",
+      "example_sentence": "I used to be quite shy when I was younger.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "skill",
+      "phonetic": "[skɪl]",
+      "example_sentence": "His football skills are great.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "unable",
+      "phonetic": "[ʌnˈeɪbl]",
+      "example_sentence": "She was in such shock she was unable to speak for five minutes.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "will",
+      "phonetic": "[wɪl]",
+      "example_sentence": "If you have enough will, you will succeed!",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "bad-tempered",
+      "phonetic": "[ˌbædˈtempəd]",
+      "example_sentence": "He is very bad-tempered in the mornings.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "to behave",
+      "phonetic": "[bɪˈheɪv]",
+      "example_sentence": "If he does not behave better, he will be sent to his room.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "brave",
+      "phonetic": "[breɪv]",
+      "example_sentence": "He was a very brave soldier.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "calm",
+      "phonetic": "[kɑːm]",
+      "example_sentence": "She was a very calm baby.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "capability",
+      "phonetic": "[ˌkeɪpəˈbɪləti]",
+      "example_sentence": "Both teams have the capability to win today.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "careless",
+      "phonetic": "[ˈkeələs]",
+      "example_sentence": "My son is never careless with his possessions.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "cheerful",
+      "phonetic": "[ˈtʃɪəfl]",
+      "example_sentence": "She's not normally so cheerful.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "conduct",
+      "phonetic": "[ˈkɒndʌkt]",
+      "example_sentence": "A code of conduct regulates the way our staff behave.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "confident",
+      "phonetic": "[ˈkɒnfɪdənt]",
+      "example_sentence": "He appears to be very confident, but he is really very shy.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "courage",
+      "phonetic": "[ˈkʌrɪdʒ]",
+      "example_sentence": "When suffering from cancer, it takes a lot of courage to stay positive.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "crazy",
+      "phonetic": "[ˈkreɪzi]",
+      "example_sentence": "My mother is driving me crazy!",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "curious",
+      "phonetic": "[ˈkjʊəriəs]",
+      "example_sentence": "I am very curious to know how long they have been together.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "to dare",
+      "phonetic": "[deər]",
+      "example_sentence": "I didn't dare to jump off the tree.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "determination",
+      "phonetic": "[dɪˌtɜːmɪˈneɪʃən]",
+      "example_sentence": "I finished it through sheer determination.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "discretion",
+      "phonetic": "[dɪˈskreʃən]",
+      "example_sentence": "I will not tell anybody – you can rely on my discretion.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "dishonest",
+      "phonetic": "[dɪsˈɒnɪst]",
+      "example_sentence": "I don't like people who are dishonest.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "enthusiasm",
+      "phonetic": "[ɪnˈθjuːziæzəm]",
+      "example_sentence": "You can see the enthusiasm in her eyes when she speaks about the project.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "enthusiastic",
+      "phonetic": "[ɪnˌθjuːziˈæstɪk]",
+      "example_sentence": "The class are very enthusiastic about their science project.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "fame",
+      "phonetic": "[feɪm]",
+      "example_sentence": "Fame was never important to him, though he did enjoy it.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "generous",
+      "phonetic": "[ˈdʒenərəs]",
+      "example_sentence": "My grandmother is always very generous to me on my birthday.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "gentle",
+      "phonetic": "[ˈdʒentl]",
+      "example_sentence": "Chris has a very gentle manner.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "gently",
+      "phonetic": "[ˈdʒentli]",
+      "example_sentence": "The mother gently placed the baby in the bed.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "habit",
+      "phonetic": "[ˈhæbɪt]",
+      "example_sentence": "She has a very bad habit of biting her nails.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "hero",
+      "phonetic": "[ˈhɪərəʊ]",
+      "example_sentence": "Hamlet is the hero in one of Shakespeare's plays.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "honest",
+      "phonetic": "[ˈɒnɪst]",
+      "example_sentence": "To be very honest, I am not interested in politics.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "humorous",
+      "phonetic": "[ˈhjuːmərəs]",
+      "example_sentence": "I like reading humorous stories.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "humour",
+      "phonetic": "[ˈhjuːmər]",
+      "example_sentence": "She has no sense of humour!",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "impatient",
+      "phonetic": "[ɪmˈpeɪʃənt]",
+      "example_sentence": "There is no need to be so impatient.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "inability",
+      "phonetic": "[ˌɪnəˈbɪləti]",
+      "example_sentence": "Their inability to get on is causing problems.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "kindness",
+      "phonetic": "[ˈkaɪndnəs]",
+      "example_sentence": "I value kindness above everything else.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "lucky",
+      "phonetic": "[ˈlʌki]",
+      "example_sentence": "I am usually quite lucky in competitions.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "mad",
+      "phonetic": "[mæd]",
+      "example_sentence": "Don't get mad – it was an accident.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "modest",
+      "phonetic": "[ˈmɒdɪst]",
+      "example_sentence": "Nicole is very modest about her results.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "patient",
+      "phonetic": "[ˈpeɪʃənt]",
+      "example_sentence": "Thank you for being so patient with me.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "personality",
+      "phonetic": "[ˌpɜːsəˈnæləti]",
+      "example_sentence": "In my opinion, personality is much more important than looks.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "pride",
+      "phonetic": "[praɪd]",
+      "example_sentence": "I felt a great sense of pride as my brother accepted his award.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "proud",
+      "phonetic": "[praʊd]",
+      "example_sentence": "I am very proud of the good work my father did for the community.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "reliable",
+      "phonetic": "[rɪˈlaɪəbl]",
+      "example_sentence": "He is not reliable because he is rarely on time.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "reluctant",
+      "phonetic": "[rɪˈlʌktənt]",
+      "example_sentence": "I'm very reluctant to leave my job.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "reputation",
+      "phonetic": "[ˌrepjuˈteɪʃən]",
+      "example_sentence": "That newspaper has a bad reputation.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "rude",
+      "phonetic": "[ruːd]",
+      "example_sentence": "When you complain, there is no need to be rude.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "sensitive",
+      "phonetic": "[ˈsensətɪv]",
+      "example_sentence": "He is sensitive to what other people say about him.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "sincere",
+      "phonetic": "[sɪnˈsɪər]",
+      "example_sentence": "Do you think his apology was sincere?",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "skilful",
+      "phonetic": "[ˈskɪlfl]",
+      "example_sentence": "She is a skilful driver.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "skilled",
+      "phonetic": "[skɪld]",
+      "example_sentence": "The business requires highly skilled employees.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "sophisticated",
+      "phonetic": "[səˈfɪstɪkeɪtɪd]",
+      "example_sentence": "It is a very sophisticated machine, but easy to use.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "strict",
+      "phonetic": "[strɪkt]",
+      "example_sentence": "I do not like that teacher because she is so strict.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "suspicious",
+      "phonetic": "[səˈspɪʃəs]",
+      "example_sentence": "Her husband is getting suspicious.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "sympathetic",
+      "phonetic": "[ˌsɪmpəˈθetɪk]",
+      "example_sentence": "You could be more sympathetic about the problem.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "talent",
+      "phonetic": "[ˈtælənt]",
+      "example_sentence": "I am a man of many talents.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "unfriendly",
+      "phonetic": "[ʌnˈfrendli]",
+      "example_sentence": "Our new neighbours are very unfriendly.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "unwilling",
+      "phonetic": "[ʌnˈwɪlɪŋ]",
+      "example_sentence": "He is unwilling to take the risk.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "willingness",
+      "phonetic": "[ˈwɪlɪŋnəs]",
+      "example_sentence": "My children's willingness to help was sweet.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "wise",
+      "phonetic": "[waɪz]",
+      "example_sentence": "That was a very wise decision.",
+      "category": "Character and temperament"
+    },
+    {
+      "word": "belief",
+      "phonetic": "[bɪˈliːf]",
+      "example_sentence": "She has a strong belief in God.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "to believe",
+      "phonetic": "[bɪˈliːv]",
+      "example_sentence": "I do not believe it!",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "Christian",
+      "phonetic": "[ˈkrɪstʃən]",
+      "example_sentence": "A Christian organisation raised money for the poor.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "Christmas",
+      "phonetic": "[ˈkrɪsməs]",
+      "example_sentence": "He looks forward to spending time with his family at Christmas.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "church",
+      "phonetic": "[tʃɜːtʃ]",
+      "example_sentence": "There is a meeting held in the church every Saturday and Sunday.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "duty",
+      "phonetic": "[ˈdjuːti]",
+      "example_sentence": "It is our duty to protect our children.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "to exist",
+      "phonetic": "[ɪɡˈzɪst]",
+      "example_sentence": "My dad says ghosts do not exist.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "existence",
+      "phonetic": "[ɪɡˈzɪstəns]",
+      "example_sentence": "Many people question the existence of God.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "existing",
+      "phonetic": "[ɪɡˈzɪstɪŋ]",
+      "example_sentence": "Any existing problems will be solved.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "faith",
+      "phonetic": "[feɪθ]",
+      "example_sentence": "The family is of the Christian faith.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "freedom",
+      "phonetic": "[ˈfriːdəm]",
+      "example_sentence": "Everyone should be allowed the freedom of choice and speech.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "god",
+      "phonetic": "[ɡɒd]",
+      "example_sentence": "I pray to God every night and ask him to protect my family.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "good",
+      "phonetic": "[ɡʊd]",
+      "example_sentence": "My grandfather has always tried to lead a good life.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "hell",
+      "phonetic": "[hel]",
+      "example_sentence": "Working with her the last couple of weeks has been hell.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "help",
+      "phonetic": "[help]",
+      "example_sentence": "I do not know what I would have done without your help.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "Jesus",
+      "phonetic": "[ˈdʒiːzəs]",
+      "example_sentence": "Jesus is believed to be the son of God.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "moral",
+      "phonetic": "[ˈmɒrəl]",
+      "example_sentence": "It is your moral obligation to give the police that information.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "religion",
+      "phonetic": "[rɪˈlɪdʒən]",
+      "example_sentence": "His religion has only one God.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "religious",
+      "phonetic": "[rɪˈlɪdʒəs]",
+      "example_sentence": "I am not very religious, but my parents attend church every Sunday.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "responsible",
+      "phonetic": "[rɪˈspɒnsəbl]",
+      "example_sentence": "She is very responsible for a girl her age.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "shall",
+      "phonetic": "[ʃæl]",
+      "example_sentence": "'And you shall know the truth and truth shall make you free.' John:32",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "spirit",
+      "phonetic": "[ˈspɪrɪt]",
+      "example_sentence": "The owners claimed that there was an evil spirit in the house.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "true",
+      "phonetic": "[truː]",
+      "example_sentence": "He remained true to the values of his religion.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "truth",
+      "phonetic": "[truːθ]",
+      "example_sentence": "There is some truth in what he says.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "abbey",
+      "phonetic": "[ˈæbi]",
+      "example_sentence": "An abbey is a place where the faithful live and work.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "being",
+      "phonetic": "[ˈbiːɪŋ]",
+      "example_sentence": "The Bible says that Adam and Eve were the first human beings on Earth.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "bible",
+      "phonetic": "[ˈbaɪbl]",
+      "example_sentence": "This handbook is a real bible for beginners in computer programming.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "bishop",
+      "phonetic": "[ˈbɪʃəp]",
+      "example_sentence": "The bishop helped the sick children.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "to bury",
+      "phonetic": "[ˈberi]",
+      "example_sentence": "Her great-aunt died on Friday and was buried on Sunday.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "cathedral",
+      "phonetic": "[kəˈθiːdrəl]",
+      "example_sentence": "The cathedral is the largest church in the area.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "Catholic",
+      "phonetic": "[ˈkæθəlɪk]",
+      "example_sentence": "Catholic families celebrate Christmas every year.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "chapel",
+      "phonetic": "[ˈtʃæpl]",
+      "example_sentence": "The university has its own chapel.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "charity",
+      "phonetic": "[ˈtʃærəti]",
+      "example_sentence": "Any profit made will be given to charity.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "Christ",
+      "phonetic": "[kraɪst]",
+      "example_sentence": "Christ is said to be the son of God.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "Christianity",
+      "phonetic": "[ˌkrɪstiˈænəti]",
+      "example_sentence": "Christianity had a difficult beginning.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "commitment",
+      "phonetic": "[kəˈmɪtmənt]",
+      "example_sentence": "His commitment to his family is touching.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "devil",
+      "phonetic": "[ˈdevl]",
+      "example_sentence": "The Bible teaches about hell and the devil.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "to devote",
+      "phonetic": "[dɪˈvəʊt]",
+      "example_sentence": "She decided to devote her life to God.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "Easter",
+      "phonetic": "[ˈiːstər]",
+      "example_sentence": "Many people eat chocolate eggs at Easter.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "fate",
+      "phonetic": "[feɪt]",
+      "example_sentence": "Fate is something that is beyond human control.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "fault",
+      "phonetic": "[fɔːlt]",
+      "example_sentence": "It is your own fault you have been punished – you should do what I tell you to do!",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "ghost",
+      "phonetic": "[ɡəʊst]",
+      "example_sentence": "It is said that a ghost walks around the school at night.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "have to",
+      "phonetic": "[ˈhæv tə]",
+      "example_sentence": "You have to be good if you want to go to heaven.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "heaven",
+      "phonetic": "[ˈhevn]",
+      "example_sentence": "Heaven is said to be a place of perfect happiness.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "holy",
+      "phonetic": "[ˈhəʊli]",
+      "example_sentence": "The priest held out the holy water.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "honour",
+      "phonetic": "[ˈɒnər]",
+      "example_sentence": "Defending his country was a matter of honour.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "immoral",
+      "phonetic": "[ɪˈmɒrəl]",
+      "example_sentence": "Stealing is immoral.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "Jew",
+      "phonetic": "[dʒuː]",
+      "example_sentence": "Ron is not a practising Jew although his family is Jewish.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "Jewish",
+      "phonetic": "[ˈdʒuːɪʃ]",
+      "example_sentence": "He has a Jewish background.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "Lord",
+      "phonetic": "[lɔːd]",
+      "example_sentence": "Lord, hear our prayer.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "loyalty",
+      "phonetic": "[ˈlɔɪəlti]",
+      "example_sentence": "Loyalty to his religious faith is important to him.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "maker",
+      "phonetic": "[ˈmeɪkər]",
+      "example_sentence": "I believe in God, maker of heaven and earth.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "mass",
+      "phonetic": "[mæs]",
+      "example_sentence": "Mass is held in the church at 9 a.m. and 7 p.m. daily.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "myth",
+      "phonetic": "[mɪθ]",
+      "example_sentence": "Greek myth explains the origin of the world through the deeds of gods and heroes.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "obligation",
+      "phonetic": "[ˌɒblɪˈɡeɪʃən]",
+      "example_sentence": "They are under no obligation to pay you as you never signed a contract.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "parish",
+      "phonetic": "[ˈpærɪʃ]",
+      "example_sentence": "Every year, there is a festival organised in my local parish.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "Pope",
+      "phonetic": "[pəʊp]",
+      "example_sentence": "The Pope is the head of the Catholic Church.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "to pray",
+      "phonetic": "[preɪ]",
+      "example_sentence": "She prayed for the happiness of her family and friends.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "prayer",
+      "phonetic": "[preər]",
+      "example_sentence": "I said a prayer, asking God to help me through my tests.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "to predict",
+      "phonetic": "[prɪˈdɪkt]",
+      "example_sentence": "The end of the world has been predicted many times.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "priest",
+      "phonetic": "[priːst]",
+      "example_sentence": "The priest holds a service every morning in the church.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "sin",
+      "phonetic": "[sɪn]",
+      "example_sentence": "The man went to church to learn about sin.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "soul",
+      "phonetic": "[səʊl]",
+      "example_sentence": "After being sick for a long time, his soul is now at peace.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "spell",
+      "phonetic": "[spel]",
+      "example_sentence": "The local people blamed their bad luck on spells.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "spiritual",
+      "phonetic": "[ˈspɪrɪtʃuəl]",
+      "example_sentence": "He went to church because he wanted to feel spiritual.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "temple",
+      "phonetic": "[ˈtempl]",
+      "example_sentence": "Beijing has many beautifully restored temples.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "universal",
+      "phonetic": "[ˌjuːnɪˈvɜːsəl]",
+      "example_sentence": "Love is a universal feeling.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "virtue",
+      "phonetic": "[ˈvɜːtʃuː]",
+      "example_sentence": "A person who has virtue is somebody that has good moral qualities.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "wonder",
+      "phonetic": "[ˈwʌndər]",
+      "example_sentence": "There are seven Wonders of the World.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "worship",
+      "phonetic": "[ˈwɜːʃɪp]",
+      "example_sentence": "A church is a place of worship.",
+      "category": "Religion, faith, ethics"
+    },
+    {
+      "word": "address",
+      "phonetic": "[əˈdres]",
+      "example_sentence": "What is your new address?",
+      "category": "Home, building"
+    },
+    {
+      "word": "block",
+      "phonetic": "[blɒk]",
+      "example_sentence": "Everyone had to leave the office block because of the fire.",
+      "category": "Home, building"
+    },
+    {
+      "word": "to build",
+      "phonetic": "[bɪld]",
+      "example_sentence": "They are planning to build a bigger house next year.",
+      "category": "Home, building"
+    },
+    {
+      "word": "building",
+      "phonetic": "[ˈbɪldɪŋ]",
+      "example_sentence": "The building is very run down and badly needs to be restored.",
+      "category": "Home, building"
+    },
+    {
+      "word": "castle",
+      "phonetic": "[ˈkɑːsl]",
+      "example_sentence": "The king and queen lived in a big castle.",
+      "category": "Home, building"
+    },
+    {
+      "word": "construction",
+      "phonetic": "[kənˈstrʌkʃən]",
+      "example_sentence": "The university is under construction and due to be finished by 2010.",
+      "category": "Home, building"
+    },
+    {
+      "word": "domestic",
+      "phonetic": "[dəˈmestɪk]",
+      "example_sentence": "Susan usually carried out her domestic duties, such as shopping and cleaning in the morning.",
+      "category": "Home, building"
+    },
+    {
+      "word": "estate",
+      "phonetic": "[ɪˈsteɪt]",
+      "example_sentence": "The large country estate used to belong to their family for decades.",
+      "category": "Home, building"
+    },
+    {
+      "word": "facility",
+      "phonetic": "[fəˈsɪləti]",
+      "example_sentence": "There are cooking facilities in most apartments.",
+      "category": "Home, building"
+    },
+    {
+      "word": "flat",
+      "phonetic": "[flæt]",
+      "example_sentence": "I recently moved out of my parents' home and into my own flat.",
+      "category": "Home, building"
+    },
+    {
+      "word": "garden",
+      "phonetic": "[ˈɡɑːdn]",
+      "example_sentence": "The garden was full of beautiful flowers and plants.",
+      "category": "Home, building"
+    },
+    {
+      "word": "gate",
+      "phonetic": "[ɡeɪt]",
+      "example_sentence": "There are two security cameras at the front gate of the building.",
+      "category": "Home, building"
+    },
+    {
+      "word": "home",
+      "phonetic": "[həʊm]",
+      "example_sentence": "Thank you for welcoming me into your home.",
+      "category": "Home, building"
+    },
+    {
+      "word": "house",
+      "phonetic": "[haʊs]",
+      "example_sentence": "Alan and Ann are building a new house in the country.",
+      "category": "Home, building"
+    },
+    {
+      "word": "kitchen",
+      "phonetic": "[ˈkɪtʃɪn]",
+      "example_sentence": "Rita was preparing the dinner in the kitchen while Nick was entertaining the guests.",
+      "category": "Home, building"
+    },
+    {
+      "word": "to let",
+      "phonetic": "[let]",
+      "example_sentence": "I am letting my house to three students for the summer.",
+      "category": "Home, building"
+    },
+    {
+      "word": "station",
+      "phonetic": "[ˈsteɪʃən]",
+      "example_sentence": "The train left the station on time.",
+      "category": "Home, building"
+    },
+    {
+      "word": "step",
+      "phonetic": "[step]",
+      "example_sentence": "Mind the step!",
+      "category": "Home, building"
+    },
+    {
+      "word": "to accommodate",
+      "phonetic": "[əˈkɒmədeɪt]",
+      "example_sentence": "Foreign students will be accommodated in student rooms.",
+      "category": "Home, building"
+    },
+    {
+      "word": "accommodation",
+      "phonetic": "[əˌkɒməˈdeɪʃən]",
+      "example_sentence": "Accommodation in the city centre is quite expensive.",
+      "category": "Home, building"
+    },
+    {
+      "word": "apartment",
+      "phonetic": "[əˈpɑːtmənt]",
+      "example_sentence": "I am looking to buy a bigger apartment because, as of January, I will be working at home.",
+      "category": "Home, building"
+    },
+    {
+      "word": "brick",
+      "phonetic": "[brɪk]",
+      "example_sentence": "A large red-brick house stood before them.",
+      "category": "Home, building"
+    },
+    {
+      "word": "cardboard",
+      "phonetic": "[ˈkɑːdbɔːd]",
+      "example_sentence": "I need about ten cardboard boxes to keep my books in.",
+      "category": "Home, building"
+    },
+    {
+      "word": "ceiling",
+      "phonetic": "[ˈsiːlɪŋ]",
+      "example_sentence": "The living-room ceiling is very high, which means the room is quite difficult to heat.",
+      "category": "Home, building"
+    },
+    {
+      "word": "cell",
+      "phonetic": "[sel]",
+      "example_sentence": "In the abbey, tourists are allowed to visit the cells.",
+      "category": "Home, building"
+    },
+    {
+      "word": "column",
+      "phonetic": "[ˈkɒləm]",
+      "example_sentence": "The roof of the temple was held up by white stone columns.",
+      "category": "Home, building"
+    },
+    {
+      "word": "complex",
+      "phonetic": "[ˈkɒmpleks]",
+      "example_sentence": "The complex consists mainly of offices.",
+      "category": "Home, building"
+    },
+    {
+      "word": "corridor",
+      "phonetic": "[ˈkɒrɪdɔː]",
+      "example_sentence": "My office is at the very end of the corridor on the left-hand side.",
+      "category": "Home, building"
+    },
+    {
+      "word": "cottage",
+      "phonetic": "[ˈkɒtɪdʒ]",
+      "example_sentence": "We have a small cottage in the countryside, which we visit in summer.",
+      "category": "Home, building"
+    },
+    {
+      "word": "disposal",
+      "phonetic": "[dɪˈspəʊzl]",
+      "example_sentence": "The disposal of some chemicals should be carried out in accordance with regulations.",
+      "category": "Home, building"
+    },
+    {
+      "word": "domain",
+      "phonetic": "[dəˈmeɪn]",
+      "example_sentence": "He acts as though the office was his private domain.",
+      "category": "Home, building"
+    },
+    {
+      "word": "downstairs",
+      "phonetic": "[ˌdaʊnˈsteəz]",
+      "example_sentence": "If you go downstairs, you'll find his office.",
+      "category": "Home, building"
+    },
+    {
+      "word": "elevator",
+      "phonetic": "[ˈelɪveɪtər]",
+      "example_sentence": "The elevator is not working at the moment, so we have to walk up all those stairs!",
+      "category": "Home, building"
+    },
+    {
+      "word": "entrance",
+      "phonetic": "[ˈentrəns]",
+      "example_sentence": "There are two main entrances – the front entrance and the side entrance.",
+      "category": "Home, building"
+    },
+    {
+      "word": "exit",
+      "phonetic": "[ˈeksɪt]",
+      "example_sentence": "There are four emergency exits in the building.",
+      "category": "Home, building"
+    },
+    {
+      "word": "fence",
+      "phonetic": "[fens]",
+      "example_sentence": "There was a large fence separating the neighbour's gardens.",
+      "category": "Home, building"
+    },
+    {
+      "word": "garage",
+      "phonetic": "[ˈɡærɑːʒ]",
+      "example_sentence": "In winter, the car is parked in the garage.",
+      "category": "Home, building"
+    },
+    {
+      "word": "indoors",
+      "phonetic": "[ˌɪnˈdɔːz]",
+      "example_sentence": "Let's go back indoors to drink our coffee.",
+      "category": "Home, building"
+    },
+    {
+      "word": "landlord",
+      "phonetic": "[ˈlændlɔːd]",
+      "example_sentence": "The landlord received complaints about noise from the neighbours.",
+      "category": "Home, building"
+    },
+    {
+      "word": "lease",
+      "phonetic": "[liːs]",
+      "example_sentence": "John signed a three-year lease when he moved into his flat.",
+      "category": "Home, building"
+    },
+    {
+      "word": "mall",
+      "phonetic": "[mɔːl]",
+      "example_sentence": "Liz does all her shopping at the mall.",
+      "category": "Home, building"
+    },
+    {
+      "word": "mortgage",
+      "phonetic": "[ˈmɔːɡɪdʒ]",
+      "example_sentence": "The couple applied for a mortgage to buy their first house.",
+      "category": "Home, building"
+    },
+    {
+      "word": "neighbour",
+      "phonetic": "[ˈneɪbə]",
+      "example_sentence": "I often cannot sleep at night because my neighbour makes so much noise.",
+      "category": "Home, building"
+    },
+    {
+      "word": "neighbourhood",
+      "phonetic": "[ˈneɪbəhʊd]",
+      "example_sentence": "There are lots of cafés and bars in the neighbourhood.",
+      "category": "Home, building"
+    },
+    {
+      "word": "palace",
+      "phonetic": "[ˈpæləs]",
+      "example_sentence": "At the palace, the king and queen sat down to eat dinner.",
+      "category": "Home, building"
+    },
+    {
+      "word": "pole",
+      "phonetic": "[pəʊl]",
+      "example_sentence": "There is a 10-foot high electricity pole in our garden.",
+      "category": "Home, building"
+    },
+    {
+      "word": "rent",
+      "phonetic": "[rent]",
+      "example_sentence": "The rent is more expensive in bigger houses than in smaller houses.",
+      "category": "Home, building"
+    },
+    {
+      "word": "residence",
+      "phonetic": "[ˈrezɪdəns]",
+      "example_sentence": "He took up permanent residence in the United States.",
+      "category": "Home, building"
+    },
+    {
+      "word": "resident",
+      "phonetic": "[ˈrezɪdənt]",
+      "example_sentence": "The local residents complained about the noise from the school.",
+      "category": "Home, building"
+    },
+    {
+      "word": "residential",
+      "phonetic": "[ˌrezɪˈdenʃəl]",
+      "example_sentence": "Emily and Bob live in a residential area where mostly families or elderly couples live.",
+      "category": "Home, building"
+    },
+    {
+      "word": "roof",
+      "phonetic": "[ruːf]",
+      "example_sentence": "The hole in the roof caused terrible problems when it rained.",
+      "category": "Home, building"
+    },
+    {
+      "word": "swimming pool",
+      "phonetic": "[ˈswɪmɪŋ puːl]",
+      "example_sentence": "Our neighbours have a lovely swimming pool in their garden.",
+      "category": "Home, building"
+    },
+    {
+      "word": "tenant",
+      "phonetic": "[ˈtenənt]",
+      "example_sentence": "I am looking for tenants for my new house.",
+      "category": "Home, building"
+    },
+    {
+      "word": "terrace",
+      "phonetic": "[ˈterəs]",
+      "example_sentence": "The houses on the terrace were all two-storey houses.",
+      "category": "Home, building"
+    },
+    {
+      "word": "tip",
+      "phonetic": "[tɪp]",
+      "example_sentence": "They took the broken washing machine to the tip.",
+      "category": "Home, building"
+    },
+    {
+      "word": "tower",
+      "phonetic": "[ˈtaʊər]",
+      "example_sentence": "The bells in the church tower rang in the afternoon.",
+      "category": "Home, building"
+    },
+    {
+      "word": "villa",
+      "phonetic": "[ˈvɪlə]",
+      "example_sentence": "David's parents have a large villa in France.",
+      "category": "Home, building"
+    },
+    {
+      "word": "bathroom",
+      "phonetic": "[ˈbɑːθruːm]",
+      "example_sentence": "Their house is huge; they have four bathrooms.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "bed",
+      "phonetic": "[bed]",
+      "example_sentence": "I heard someone at the door while I was still in bed.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "bedroom",
+      "phonetic": "[ˈbedruːm]",
+      "example_sentence": "The bedroom was painted a bright yellow to match the bed.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "cabinet",
+      "phonetic": "[ˈkæbɪnət]",
+      "example_sentence": "We keep all of our medicine in the bathroom cabinet.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "chair",
+      "phonetic": "[tʃeər]",
+      "example_sentence": "He sat on the chair next to me.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "desk",
+      "phonetic": "[desk]",
+      "example_sentence": "He sat at his desk to work on his computer.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "door",
+      "phonetic": "[dɔː]",
+      "example_sentence": "Suddenly, there was a knock at the door.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "entry",
+      "phonetic": "[ˈentri]",
+      "example_sentence": "You can leave your umbrella at the entry.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "floor",
+      "phonetic": "[flɔː]",
+      "example_sentence": "Most of the floors in the house were made of wood.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "hall",
+      "phonetic": "[hɔːl]",
+      "example_sentence": "He stood in the hall and waited for Andy.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "key",
+      "phonetic": "[kiː]",
+      "example_sentence": "Ray seemed to have lost his keys.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "room",
+      "phonetic": "[ruːm]",
+      "example_sentence": "The room was decorated with many paintings.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "seat",
+      "phonetic": "[siːt]",
+      "example_sentence": "He sat on the floor as there were no seats left in the lecture hall.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "sheet",
+      "phonetic": "[ʃiːt]",
+      "example_sentence": "Our new sheets are made of the finest cotton.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "table",
+      "phonetic": "[ˈteɪbl]",
+      "example_sentence": "The table came with four matching chairs.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "toilet",
+      "phonetic": "[ˈtɔɪlət]",
+      "example_sentence": "The toilet is upstairs, the first door on your left.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "wall",
+      "phonetic": "[wɔːl]",
+      "example_sentence": "The walls were quite bare, so they bought three new pictures to hang up.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "window",
+      "phonetic": "[ˈwɪndəʊ]",
+      "example_sentence": "She looked through the window, but there was nobody home.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "yard",
+      "phonetic": "[jɑːd]",
+      "example_sentence": "The cats walked freely around the yard.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "bath",
+      "phonetic": "[bɑːθ]",
+      "example_sentence": "I ran the water into the bath, and just as I got in, the telephone rang.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "bell",
+      "phonetic": "[bel]",
+      "example_sentence": "The bell rang as soon as I had started to cook.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "carpet",
+      "phonetic": "[ˈkɑːpɪt]",
+      "example_sentence": "The red wine fell onto the new carpet.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "closet",
+      "phonetic": "[ˈkləʊzɪt]",
+      "example_sentence": "You can hang your clothes in the closet.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "cooker",
+      "phonetic": "[ˈkʊkər]",
+      "example_sentence": "Turn the cooker off when you are finished.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "cupboard",
+      "phonetic": "[ˈkʌbəd]",
+      "example_sentence": "He placed the pasta, rice and other carbohydrates in the cupboard.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "curtain",
+      "phonetic": "[ˈkɜːtn]",
+      "example_sentence": "The curtains were too thin and did not keep out the light.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "to decorate",
+      "phonetic": "[ˈdekəreɪt]",
+      "example_sentence": "The children love decorating the tree at Christmas.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "decoration",
+      "phonetic": "[ˌdekəˈreɪʃən]",
+      "example_sentence": "They sell beautiful table decorations.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "doorway",
+      "phonetic": "[ˈdɔːweɪ]",
+      "example_sentence": "He stood in the doorway until I invited him to come in.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "drawer",
+      "phonetic": "[drɔː]",
+      "example_sentence": "Which drawer do you keep the napkins in?",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "fridge",
+      "phonetic": "[frɪdʒ]",
+      "example_sentence": "Is there any more milk in the fridge?",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "furniture",
+      "phonetic": "[ˈfɜːnɪtʃər]",
+      "example_sentence": "The furniture in the apartment was quite old, so they decided to replace some of it.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "heating",
+      "phonetic": "[ˈhiːtɪŋ]",
+      "example_sentence": "It was a little cold, so I turned on the heating.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "to house",
+      "phonetic": "[haʊz]",
+      "example_sentence": "The apartment was designed to house two adults and one child.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "interior",
+      "phonetic": "[ɪnˈtɪərɪər]",
+      "example_sentence": "The outside of the house was old but the interior was quite modern.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "lift",
+      "phonetic": "[lɪft]",
+      "example_sentence": "I usually take the lift as I am too lazy to take the stairs.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "lock",
+      "phonetic": "[lɒk]",
+      "example_sentence": "Although I had a lock on the door, he was still able to get in.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "mirror",
+      "phonetic": "[ˈmɪrər]",
+      "example_sentence": "It is said that if you break a mirror, you will have bad luck for seven years.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "oven",
+      "phonetic": "[ˈʌvn]",
+      "example_sentence": "The oven needs to be cleaned.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "refrigerator",
+      "phonetic": "[rɪˈfrɪdʒəreɪtər]",
+      "example_sentence": "We bought a new refrigerator in the sales.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "shelf",
+      "phonetic": "[ʃelf]",
+      "example_sentence": "The shelves were bare; it was time to go shopping.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "shower",
+      "phonetic": "[ˈʃaʊər]",
+      "example_sentence": "Is Jill still in the shower?",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "stairs",
+      "phonetic": "[steəz]",
+      "example_sentence": "She walked down the stairs and into the living room.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "stove",
+      "phonetic": "[stəʊv]",
+      "example_sentence": "My parents still have an old-fashioned stove in their kitchen.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "switch",
+      "phonetic": "[swɪtʃ]",
+      "example_sentence": "The light switch was childproof.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "upstairs",
+      "phonetic": "[ˌʌpˈsteəz]",
+      "example_sentence": "Upstairs, there was one bathroom and two bedrooms.",
+      "category": "Rooms and furnishings"
+    },
+    {
+      "word": "board",
+      "phonetic": "[bɔːd]",
+      "example_sentence": "The chopping board is kept in the kitchen.",
+      "category": "Household items"
+    },
+    {
+      "word": "box",
+      "phonetic": "[bɒks]",
+      "example_sentence": "The family packed all their possessions into cardboard boxes.",
+      "category": "Household items"
+    },
+    {
+      "word": "clock",
+      "phonetic": "[klɒk]",
+      "example_sentence": "Neil looked at the clock and realised he was going to be late for the meeting.",
+      "category": "Household items"
+    },
+    {
+      "word": "cover",
+      "phonetic": "[ˈkʌvər]",
+      "example_sentence": "The book had a hardback cover.",
+      "category": "Household items"
+    },
+    {
+      "word": "to fix",
+      "phonetic": "[fɪks]",
+      "example_sentence": "The lock on the door needed to be fixed.",
+      "category": "Household items"
+    },
+    {
+      "word": "household",
+      "phonetic": "[ˈhaʊshəʊld]",
+      "example_sentence": "In the Smith household, everyone helps clean up after dinner.",
+      "category": "Household items"
+    },
+    {
+      "word": "object",
+      "phonetic": "[ˈɒbdʒɪkt]",
+      "example_sentence": "She enjoyed collecting unusual objects, such as rare stones and old coins.",
+      "category": "Household items"
+    },
+    {
+      "word": "lamp",
+      "phonetic": "[læmp]",
+      "example_sentence": "The lamp was on for two hours.",
+      "category": "Household items"
+    },
+    {
+      "word": "package",
+      "phonetic": "[ˈpækɪdʒ]",
+      "example_sentence": "The package has been delivered today.",
+      "category": "Household items"
+    },
+    {
+      "word": "stuff",
+      "phonetic": "[stʌf]",
+      "example_sentence": "Can I leave my stuff at your house overnight?",
+      "category": "Household items"
+    },
+    {
+      "word": "to absorb",
+      "phonetic": "[əbˈsɔːb]",
+      "example_sentence": "Plants absorb water through their roots.",
+      "category": "Household items"
+    },
+    {
+      "word": "baggage",
+      "phonetic": "[ˈbæɡɪdʒ]",
+      "example_sentence": "We have a baggage storeroom, if you would like to leave your bag.",
+      "category": "Household items"
+    },
+    {
+      "word": "to be rid of",
+      "phonetic": "[biː ˈrɪd əv]",
+      "example_sentence": "Linda was glad to be rid of the children for a couple of hours.",
+      "category": "Household items"
+    },
+    {
+      "word": "bin",
+      "phonetic": "[bɪn]",
+      "example_sentence": "The bins need to be emptied.",
+      "category": "Household items"
+    },
+    {
+      "word": "blade",
+      "phonetic": "[bleɪd]",
+      "example_sentence": "Be careful – this blade is very sharp!",
+      "category": "Household items"
+    },
+    {
+      "word": "to brush",
+      "phonetic": "[brʌʃ]",
+      "example_sentence": "She brushed off the dust from the furniture.",
+      "category": "Household items"
+    },
+    {
+      "word": "bubble",
+      "phonetic": "[ˈbʌbl]",
+      "example_sentence": "My son loves blowing bubbles in the bath.",
+      "category": "Household items"
+    },
+    {
+      "word": "cloth",
+      "phonetic": "[klɒθ]",
+      "example_sentence": "He took a damp cloth and cleaned the table.",
+      "category": "Household items"
+    },
+    {
+      "word": "container",
+      "phonetic": "[kənˈteɪnər]",
+      "example_sentence": "You'll find an empty container for your lunch in the cupboard.",
+      "category": "Household items"
+    },
+    {
+      "word": "directory",
+      "phonetic": "[dəˈrektəri]",
+      "example_sentence": "He eventually found the doctor's number in the telephone directory.",
+      "category": "Household items"
+    },
+    {
+      "word": "dust",
+      "phonetic": "[dʌst]",
+      "example_sentence": "The furniture was covered in dust.",
+      "category": "Household items"
+    },
+    {
+      "word": "envelope",
+      "phonetic": "[ˈenvələʊp]",
+      "example_sentence": "The postman put the envelope into the letterbox.",
+      "category": "Household items"
+    },
+    {
+      "word": "fan",
+      "phonetic": "[fæn]",
+      "example_sentence": "The fan in the kitchen makes a lot of noise at night.",
+      "category": "Household items"
+    },
+    {
+      "word": "faucet",
+      "phonetic": "[ˈfɔːsɪt]",
+      "example_sentence": "The faucet drips at night.",
+      "category": "Household items"
+    },
+    {
+      "word": "garbage",
+      "phonetic": "[ˈɡɑːbɪdʒ]",
+      "example_sentence": "Could you take out the garbage?",
+      "category": "Household items"
+    },
+    {
+      "word": "knot",
+      "phonetic": "[nɒt]",
+      "example_sentence": "There is a knot in the chain of my favourite necklace.",
+      "category": "Household items"
+    },
+    {
+      "word": "lid",
+      "phonetic": "[lɪd]",
+      "example_sentence": "Have you seen the lid for the jam?",
+      "category": "Household items"
+    },
+    {
+      "word": "pack",
+      "phonetic": "[pæk]",
+      "example_sentence": "Amrit could not find her pack of cigarettes anywhere.",
+      "category": "Household items"
+    },
+    {
+      "word": "pan",
+      "phonetic": "[pæn]",
+      "example_sentence": "I hate washing pans after dinner.",
+      "category": "Household items"
+    },
+    {
+      "word": "photo",
+      "phonetic": "[ˈfəʊtəʊ]",
+      "example_sentence": "My mother keeps all the photos of us as babies in an album.",
+      "category": "Household items"
+    },
+    {
+      "word": "to polish",
+      "phonetic": "[ˈpɒlɪʃ]",
+      "example_sentence": "The table has been polished to a beautiful sheen.",
+      "category": "Household items"
+    },
+    {
+      "word": "pot",
+      "phonetic": "[pɒt]",
+      "example_sentence": "Kate cut the vegetables and put them into the pot of water.",
+      "category": "Household items"
+    },
+    {
+      "word": "rope",
+      "phonetic": "[rəʊp]",
+      "example_sentence": "The sailor tied the boat to the side of the pier with a rope and came ashore.",
+      "category": "Household items"
+    },
+    {
+      "word": "to rub",
+      "phonetic": "[rʌb]",
+      "example_sentence": "She rubbed the window dry with a cloth.",
+      "category": "Household items"
+    },
+    {
+      "word": "rubbish",
+      "phonetic": "[ˈrʌbɪʃ]",
+      "example_sentence": "Mum asked me to take out the rubbish.",
+      "category": "Household items"
+    },
+    {
+      "word": "sack",
+      "phonetic": "[sæk]",
+      "example_sentence": "Father Christmas is said to carry a sack of presents.",
+      "category": "Household items"
+    },
+    {
+      "word": "scissors",
+      "phonetic": "[ˈsɪzəz]",
+      "example_sentence": "I seem to have lost my blue-handled scissors.",
+      "category": "Household items"
+    },
+    {
+      "word": "screw",
+      "phonetic": "[skruː]",
+      "example_sentence": "It comes with eight screws for putting it together.",
+      "category": "Household items"
+    },
+    {
+      "word": "soap",
+      "phonetic": "[səʊp]",
+      "example_sentence": "My husband gave me some lovely soaps for my birthday.",
+      "category": "Household items"
+    },
+    {
+      "word": "spray",
+      "phonetic": "[spreɪ]",
+      "example_sentence": "Bathroom cleaner often comes in a spray.",
+      "category": "Household items"
+    },
+    {
+      "word": "strip",
+      "phonetic": "[strɪp]",
+      "example_sentence": "We took home a strip of wallpaper to see if it matched the carpet.",
+      "category": "Household items"
+    },
+    {
+      "word": "suitcase",
+      "phonetic": "[ˈsuːtkeɪs]",
+      "example_sentence": "Your suitcase must not weigh more than 20 kilos.",
+      "category": "Household items"
+    },
+    {
+      "word": "to sweep",
+      "phonetic": "[swiːp]",
+      "example_sentence": "He took the broom and swept up the broken glass.",
+      "category": "Household items"
+    },
+    {
+      "word": "thread",
+      "phonetic": "[θred]",
+      "example_sentence": "You have a piece of thread hanging from your coat.",
+      "category": "Household items"
+    },
+    {
+      "word": "to throw sth away",
+      "phonetic": "[θrəʊ əˈweɪ]",
+      "example_sentence": "My grandfather never threw anything away.",
+      "category": "Household items"
+    },
+    {
+      "word": "tidy",
+      "phonetic": "[ˈtaɪdi]",
+      "example_sentence": "My sister is much tidier than me.",
+      "category": "Household items"
+    },
+    {
+      "word": "tin",
+      "phonetic": "[tɪn]",
+      "example_sentence": "All that was left on the shelf were two tins of beans and a tin of fish.",
+      "category": "Household items"
+    },
+    {
+      "word": "tissue",
+      "phonetic": "[ˈtɪʃuː]",
+      "example_sentence": "He handed her a tissue and tried to cheer her up.",
+      "category": "Household items"
+    },
+    {
+      "word": "towel",
+      "phonetic": "[ˈtaʊəl]",
+      "example_sentence": "Is it possible to hire towels at the swimming pool?",
+      "category": "Household items"
+    },
+    {
+      "word": "tray",
+      "phonetic": "[treɪ]",
+      "example_sentence": "She came to the table with a tray of drinks.",
+      "category": "Household items"
+    },
+    {
+      "word": "untidy",
+      "phonetic": "[ʌnˈtaɪdi]",
+      "example_sentence": "Our boss doesn't like our desks to be untidy.",
+      "category": "Household items"
+    },
+    {
+      "word": "to wash",
+      "phonetic": "[wɒʃ]",
+      "example_sentence": "Don't forget to wash your hands before eating.",
+      "category": "Household items"
+    },
+    {
+      "word": "to wipe",
+      "phonetic": "[waɪp]",
+      "example_sentence": "I wiped the table and counter with a damp cloth.",
+      "category": "Household items"
+    },
+    {
+      "word": "wire",
+      "phonetic": "[ˈwaɪər]",
+      "example_sentence": "The wire stretched between the living room and the kitchen.",
+      "category": "Household items"
+    },
+    {
+      "word": "to wrap",
+      "phonetic": "[ræp]",
+      "example_sentence": "Sarah wrapped the Christmas presents in red and gold paper.",
+      "category": "Household items"
+    },{
+      "word": "Africa",
+      "phonetic": "[ˈæfrɪkə]",
+      "example_sentence": "Africa is the second largest continent in the world after Asia.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "America",
+      "phonetic": "[əˈmerɪkə]",
+      "example_sentence": "The United States of America consists of fifty states.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Australia",
+      "phonetic": "[ɒˈstreɪlɪə]",
+      "example_sentence": "Australia is the world's smallest continent.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "border",
+      "phonetic": "[ˈbɔːdər]",
+      "example_sentence": "France shares a border with Germany.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "bridge",
+      "phonetic": "[brɪdʒ]",
+      "example_sentence": "They built a new bridge to cross the river.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Britain",
+      "phonetic": "[ˈbrɪtn]",
+      "example_sentence": "Britain consists of England, Scotland and Wales.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "capital",
+      "phonetic": "[ˈkæpɪtl]",
+      "example_sentence": "The capital of France is Paris.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "city",
+      "phonetic": "[ˈsɪti]",
+      "example_sentence": "London is a very big city.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "country",
+      "phonetic": "[ˈkʌntri]",
+      "example_sentence": "He lives in a very big house in the country.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "county",
+      "phonetic": "[ˈkaʊnti]",
+      "example_sentence": "A county used to be under the rule of a count.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "district",
+      "phonetic": "[ˈdɪstrɪkt]",
+      "example_sentence": "A district of a country usually has its own local government.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "England",
+      "phonetic": "[ˈɪŋɡlənd]",
+      "example_sentence": "England is a part of the United Kingdom.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Europe",
+      "phonetic": "[ˈjʊərəp]",
+      "example_sentence": "Europe is one of the seven continents of the earth.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "France",
+      "phonetic": "[frɑːns]",
+      "example_sentence": "Paris is the capital city of France.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Germany",
+      "phonetic": "[ˈdʒɜːməni]",
+      "example_sentence": "The capital city of Germany is Berlin.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Ireland",
+      "phonetic": "[ˈaɪərlənd]",
+      "example_sentence": "The island of Ireland is divided into two parts, the Republic of Ireland and Northern Ireland.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "island",
+      "phonetic": "[ˈaɪlənd]",
+      "example_sentence": "An island is a piece of land completely surrounded by water.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Italy",
+      "phonetic": "[ˈɪtəli]",
+      "example_sentence": "Italy borders France, Slovenia, Austria, and Switzerland.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Japan",
+      "phonetic": "[dʒəˈpæn]",
+      "example_sentence": "Japan consists of many islands.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "land",
+      "phonetic": "[lænd]",
+      "example_sentence": "The government wants to introduce the new law throughout the land.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "park",
+      "phonetic": "[pɑːk]",
+      "example_sentence": "The kids enjoy playing football in the park.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "region",
+      "phonetic": "[ˈriːdʒən]",
+      "example_sentence": "A region can be a collection of smaller units of land, or one part of a larger area.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "regional",
+      "phonetic": "[ˈriːdʒənl]",
+      "example_sentence": "There can be strong regional differences within a country.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Scotland",
+      "phonetic": "[ˈskɒtlənd]",
+      "example_sentence": "Scotland is the northern third of Great Britain.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "town",
+      "phonetic": "[taʊn]",
+      "example_sentence": "The house was just five minutes outside of town.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "UK",
+      "phonetic": "[juː ˈkeɪ]",
+      "example_sentence": "The term UK refers to the United Kingdom of Great Britain and Northern Ireland.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "USA",
+      "phonetic": "[juː es ˈeɪ]",
+      "example_sentence": "USA stands for the United States of America.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "village",
+      "phonetic": "[ˈvɪlɪdʒ]",
+      "example_sentence": "A village is a community which is smaller than a town or city.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Wales",
+      "phonetic": "[weɪlz]",
+      "example_sentence": "Wales is in the western part of Britain.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "abroad",
+      "phonetic": "[əˈbrɔːd]",
+      "example_sentence": "James travels abroad regularly.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Asia",
+      "phonetic": "[ˈeɪʃə]",
+      "example_sentence": "Asia contains more than 60 per cent of the world's population.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "avenue",
+      "phonetic": "[ˈævənjuː]",
+      "example_sentence": "The avenue was lined with brightly painted houses.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "borough",
+      "phonetic": "[ˈbʌrə]",
+      "example_sentence": "They lived in a quiet borough in the north of the city.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "California",
+      "phonetic": "[ˌkælɪˈfɔːnɪə]",
+      "example_sentence": "California is a state in the USA that has many tourists.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Canada",
+      "phonetic": "[ˈkænədə]",
+      "example_sentence": "Canada has two official languages, English and French.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "China",
+      "phonetic": "[ˈtʃaɪnə]",
+      "example_sentence": "Beijing is the capital of China.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "continent",
+      "phonetic": "[ˈkɒntɪnənt]",
+      "example_sentence": "Europe is one of the seven continents of the world.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Egypt",
+      "phonetic": "[ˈiːdʒɪpt]",
+      "example_sentence": "Egypt is a country in North Africa.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "global",
+      "phonetic": "[ˈɡləʊbl]",
+      "example_sentence": "There are many signs of global climate change.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "India",
+      "phonetic": "[ˈɪndɪə]",
+      "example_sentence": "Hindi and English are the official languages of India.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Iran",
+      "phonetic": "[ɪˈrɑːn]",
+      "example_sentence": "The capital city of Iran is Tehran.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Iraq",
+      "phonetic": "[ɪˈræk]",
+      "example_sentence": "Iraq has the second highest oil reserve in the world, after Saudi Arabia.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Israel",
+      "phonetic": "[ˈɪzreɪl]",
+      "example_sentence": "Jerusalem is the capital of Israel.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Korea",
+      "phonetic": "[kəˈrɪə]",
+      "example_sentence": "Korea is currently divided into two countries, North Korea and South Korea.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "local",
+      "phonetic": "[ˈləʊkl]",
+      "example_sentence": "Her sons attend the local primary school.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "overseas",
+      "phonetic": "[ˌəʊvəˈsiːz]",
+      "example_sentence": "More and more people travel overseas to find work.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Pakistan",
+      "phonetic": "[ˌpækɪˈstɑːn]",
+      "example_sentence": "Islamabad is the capital city of Pakistan.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Poland",
+      "phonetic": "[ˈpəʊlənd]",
+      "example_sentence": "Poland entered the European Union in 2004.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "province",
+      "phonetic": "[ˈprɒvɪns]",
+      "example_sentence": "The Province of Northern Ireland is the only province under British rule today.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Russia",
+      "phonetic": "[ˈrʌʃə]",
+      "example_sentence": "Russia is the largest country in the world.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Spain",
+      "phonetic": "[speɪn]",
+      "example_sentence": "Spain shares borders with Portugal, France, Andorra, Gibraltar and Morocco.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "territory",
+      "phonetic": "[ˈterətri]",
+      "example_sentence": "The country was split into three territories.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "Vietnam",
+      "phonetic": "[ˌviːetˈnæm]",
+      "example_sentence": "Vietnam is said to have a population of more than 84 million.",
+      "category": "Cities, regions, countries"
+    },
+    {
+      "word": "air",
+      "phonetic": "[eə]",
+      "example_sentence": "I needed to get some fresh air, so I went outside.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "atmosphere",
+      "phonetic": "[ˈætməsfɪə]",
+      "example_sentence": "Air pollution changes the characteristics of the earth's atmosphere.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "bank",
+      "phonetic": "[bæŋk]",
+      "example_sentence": "We walked for miles across the sand banks.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "channel",
+      "phonetic": "[ˈtʃænl]",
+      "example_sentence": "The English Channel separates Great Britain from the North of France.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "cloud",
+      "phonetic": "[klaʊd]",
+      "example_sentence": "The sky was blue and there was not a cloud in sight.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "earth",
+      "phonetic": "[ɜːθ]",
+      "example_sentence": "More than 70 per cent of the earth's surface is covered by water.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "environment",
+      "phonetic": "[ɪnˈvaɪrənmənt]",
+      "example_sentence": "Use your bags more than once to help protect the environment.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "environmental",
+      "phonetic": "[ɪnˌvaɪrənˈmentl]",
+      "example_sentence": "The government decided to take action against pollution and environmental damage.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "field",
+      "phonetic": "[fiːld]",
+      "example_sentence": "The cows were grazing in the field.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "forest",
+      "phonetic": "[ˈfɒrɪst]",
+      "example_sentence": "There are wild animals to be found in the forest.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "ground",
+      "phonetic": "[ɡraʊnd]",
+      "example_sentence": "The ground was very hard after the winter.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "hill",
+      "phonetic": "[hɪl]",
+      "example_sentence": "The children took turns rolling down the hill.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "hole",
+      "phonetic": "[həʊl]",
+      "example_sentence": "The holes in the park were caused by animals.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "ice",
+      "phonetic": "[aɪs]",
+      "example_sentence": "It became much colder, turning water to ice.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "lake",
+      "phonetic": "[leɪk]",
+      "example_sentence": "A lake is smaller than an ocean.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "mountain",
+      "phonetic": "[ˈmaʊntən]",
+      "example_sentence": "Mount Everest is the world's highest mountain.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "natural",
+      "phonetic": "[ˈnætʃrəl]",
+      "example_sentence": "Coal is a natural resource.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "pool",
+      "phonetic": "[puːl]",
+      "example_sentence": "Walking in the forest, we found a small pool full of crabs.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "rain",
+      "phonetic": "[reɪn]",
+      "example_sentence": "They went out in the rain and got wet.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "river",
+      "phonetic": "[ˈrɪvər]",
+      "example_sentence": "The River Nile is the longest river in the world and about 6670 km in length.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "rock",
+      "phonetic": "[rɒk]",
+      "example_sentence": "Stones and rocks usually differ in size.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "sea",
+      "phonetic": "[siː]",
+      "example_sentence": "Ships travel on the sea.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "sky",
+      "phonetic": "[skaɪ]",
+      "example_sentence": "The sky was blue with white clouds.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "snow",
+      "phonetic": "[snəʊ]",
+      "example_sentence": "The children could not go to school until the snow was cleared.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "star",
+      "phonetic": "[stɑː]",
+      "example_sentence": "They were lying on their backs and looking up at the stars.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "stone",
+      "phonetic": "[stəʊn]",
+      "example_sentence": "The man threw a large stone through the window.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "sun",
+      "phonetic": "[sʌn]",
+      "example_sentence": "The sun is the earth's primary source of energy.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "temperature",
+      "phonetic": "[ˈtemprətʃə]",
+      "example_sentence": "Temperature is normally measured in degrees.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "urban",
+      "phonetic": "[ˈɜːbən]",
+      "example_sentence": "An urban area describes that of a city or town.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "valley",
+      "phonetic": "[ˈvæli]",
+      "example_sentence": "Wales is famous for its various valleys and hills.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "water",
+      "phonetic": "[ˈwɔːtə]",
+      "example_sentence": "Water is essential to human life.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "wave",
+      "phonetic": "[weɪv]",
+      "example_sentence": "The boat moved along on the waves of the sea.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "weather",
+      "phonetic": "[ˈweðə]",
+      "example_sentence": "While we were on holiday in Spain, the weather was very warm.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "wind",
+      "phonetic": "[wɪnd]",
+      "example_sentence": "Strong winds have blown down some trees.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "world",
+      "phonetic": "[wɜːld]",
+      "example_sentence": "There are seven continents in the world.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "bay",
+      "phonetic": "[beɪ]",
+      "example_sentence": "We saw the bright lights of the next town across the bay.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "beach",
+      "phonetic": "[biːtʃ]",
+      "example_sentence": "We had lunch at the beach so we could play in the ocean.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "canal",
+      "phonetic": "[kəˈnæl]",
+      "example_sentence": "He sat on a bench by the canal, watching the water flow by.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "cliff",
+      "phonetic": "[klɪf]",
+      "example_sentence": "Jenny's mother warned her to be careful near the edge of the cliffs.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "climate",
+      "phonetic": "[ˈklaɪmət]",
+      "example_sentence": "I could not live in Egypt – the climate is too hot.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "coast",
+      "phonetic": "[kəʊst]",
+      "example_sentence": "We flew to Ireland and travelled along the west coast by car.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "conservation",
+      "phonetic": "[ˌkɒnsəˈveɪʃn]",
+      "example_sentence": "Wildlife conservation is an important environmental task.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "countryside",
+      "phonetic": "[ˈkʌntrisaɪd]",
+      "example_sentence": "I have always wanted to build a large house in the countryside.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "desert",
+      "phonetic": "[ˈdezət]",
+      "example_sentence": "A desert is an area which receives very little water.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "farming",
+      "phonetic": "[ˈfɑːmɪŋ]",
+      "example_sentence": "Farming is an important economical factor.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "flood",
+      "phonetic": "[flʌd]",
+      "example_sentence": "Floods are predicted for the south of England.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "forecast",
+      "phonetic": "[ˈfɔːkɑːst]",
+      "example_sentence": "It is going to rain tomorrow, according to the forecast.",
+      "category": "Climate, weather, time"
+    },
+    {
+      "word": "to freeze",
+      "phonetic": "[friːz]",
+      "example_sentence": "The ground freezes when the weather becomes very cold in winter.",
+      "category": "Climate, weather, time"
+    }
+
+  ]
+}

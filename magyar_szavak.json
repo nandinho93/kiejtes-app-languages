@@ -1,0 +1,616 @@
+{
+  "words": [
+    {
+      "word": "hiányzás",
+      "phonetic": "[ˈhijaːnzaːʃ]",
+      "example_sentence": "Távollétében új tanárt neveztek ki.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "felnőtt",
+      "phonetic": "[ˈfɛlnøːtt]",
+      "example_sentence": "Gyerekek csak felnőttel jöhetnek.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "életkor",
+      "phonetic": "[ˈeːlɛtkor]",
+      "example_sentence": "A lány életkora ismeretlen.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "született",
+      "phonetic": "[ˈsylɛtɛtt]",
+      "example_sentence": "Németországban született.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "fiú",
+      "phonetic": "[ˈfijuː]",
+      "example_sentence": "A fiúmosdó a lánymosdóval szemben van.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "női",
+      "phonetic": "[ˈnøːi]",
+      "example_sentence": "A női csecsemők rózsaszín takarót kapnak.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "úriember",
+      "phonetic": "[ˈuːriɛmbɛr]",
+      "example_sentence": "Az úriember levette a kabátját, és átadta a hölgynek.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "lány",
+      "phonetic": "[ˈlaːɲ]",
+      "example_sentence": "A legkisebb gyermekem lány.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "azonosítani",
+      "phonetic": "[ˈɒzonoʃiːtɒni]",
+      "example_sentence": "A lány azonosította a kabátot, mint az övét.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "egyén",
+      "phonetic": "[ˈɛɟeːn]",
+      "example_sentence": "Egy jó tanár egyénenként kezeli a diákokat.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "gyerek",
+      "phonetic": "[ˈɟɛrɛk]",
+      "example_sentence": "A gyerekek szeretnek állatkertbe látogatni.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "hölgy",
+      "phonetic": "[ˈhølɟ]",
+      "example_sentence": "A banki hölgy köszöntötte a lányt.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "férfi",
+      "phonetic": "[ˈfeːrfi]",
+      "example_sentence": "Az osztályban több férfi diák van, mint lány diák.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "ember",
+      "phonetic": "[ˈɛmbɛr]",
+      "example_sentence": "Az ember a nő ellentéte.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "név",
+      "phonetic": "[ˈneːv]",
+      "example_sentence": "Ugyanaz a neved, mint az egyik szülődnek?",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "személy",
+      "phonetic": "[ˈsɛmeːj]",
+      "example_sentence": "Egyszerre csak egy személy léphet be a helyiségbe.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "nem",
+      "phonetic": "[ˈnɛm]",
+      "example_sentence": "Ma már a baba születése előtt megtudhatod a nemét.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "uram",
+      "phonetic": "[ˈurɒm]",
+      "example_sentence": "Udvarias dolog idegeneket 'Uram'-nak vagy 'Asszonyom'-nak szólítani.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "státusz",
+      "phonetic": "[ˈʃtaːtus]",
+      "example_sentence": "Társadalmi státusza megváltozott, miután könyvet írt.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "cím",
+      "phonetic": "[ˈt͡siːm]",
+      "example_sentence": "A neve előtt a 'Lovag' címet használja.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "nő",
+      "phonetic": "[ˈnøː]",
+      "example_sentence": "Az idős férfi egy fiatal nőt vett feleségül.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "ifjúság",
+      "phonetic": "[ˈijfuːʃaːɡ]",
+      "example_sentence": "Ifjúkorában bölcsességet szerzett, hogy felnőttként jobb döntéseket hozhasson.",
+      "category": "1.01 Személyi adatok"
+    },
+    {
+      "word": "herceg",
+      "phonetic": "[ˈhɛrt͡sɛɡ]",
+      "example_sentence": "A herceg nagyon magas rangú férfi, közvetlenül a király vagy királynő alatt áll.",
+      "category": "Személyi adatok, személyes információk"
+    },
+    {
+      "word": "gróf",
+      "phonetic": "[ˈɡroːf]",
+      "example_sentence": "A gróf magas társadalmi rangú férfi, aki területet uralkodik a király számára.",
+      "category": "Személyi adatok, személyes információk"
+    },
+    {
+      "word": "etnikai",
+      "phonetic": "[ˈɛtnikɒi]",
+      "example_sentence": "A kulturális fesztivál sokféle etnikai származást ünnepelt.",
+      "category": "Személyi adatok, személyes információk"
+    },
+    {
+      "word": "fickó",
+      "phonetic": "[ˈfit͡skoː]",
+      "example_sentence": "Az a fickó nagyszerű focista.",
+      "category": "Személyi adatok, személyes információk"
+    },
+    {
+      "word": "nő",
+      "phonetic": "[ˈnøː]",
+      "example_sentence": "Ebben a szállodában a szakácsok többsége nő.",
+      "category": "Személyi adatok, személyes információk"
+    },
+    {
+      "word": "nem",
+      "phonetic": "[ˈnɛm]",
+      "example_sentence": "Tudod, hogy a baba milyen nemű?",
+      "category": "Személyi adatok, személyes információk"
+    },
+    {
+      "word": "srác",
+      "phonetic": "[ˈʃraːt͡s]",
+      "example_sentence": "Az a srác a bátyám barátja.",
+      "category": "Személyi adatok, személyes információk"
+    },
+    {
+      "word": "személyazonosító igazolvány",
+      "phonetic": "[ˈsɛmeːjɒzonoʃiːtoː iɡɒzolvaːɲ]",
+      "example_sentence": "Felmutatna valamilyen személyazonosító igazolványt, kérem?",
+      "category": "Személyi adatok, személyes információk"
+    },
+    {
+      "word": "identitás",
+      "phonetic": "[idɛntitaːʃ]",
+      "example_sentence": "Tizenéves korában megkérdőjelezte az identitását.",
+      "category": "Személyi adatok, személyes információk"
+    },
+    {
+      "word": "csecsemő",
+      "phonetic": "[ˈt͡ʃɛt͡ʃɛmøː]",
+      "example_sentence": "Ez a termék csecsemőknek nem megfelelő.",
+      "category": "Személyi adatok, személyes információk"
+    },
+    {
+      "word": "gyakornok",
+      "phonetic": "[ˈɟɒkornok]",
+      "example_sentence": "A cég új gyakornokot vesz fel.",
+      "category": "Személyi adatok, személyes információk"
+    },
+    {
+      "word": "legény",
+      "phonetic": "[ˈlɛɡeːɲ]",
+      "example_sentence": "Egy csoport legény focizott az utcán.",
+      "category": "Személyi adatok, személyes információk"
+    },
+    {
+      "word": "férfi",
+      "phonetic": "[ˈfeːrfi]",
+      "example_sentence": "A felmérés szerint a férfiak többet keresnek, mint a nők.",
+      "category": "Személyi adatok, személyes információk"
+    },
+    {
+      "word": "én",
+      "phonetic": "[ˈeːn]",
+      "example_sentence": "Szerintem a munka önérzetet ad az embernek.",
+      "category": "Személyi adatok, személyes információk"
+    },
+    {
+      "word": "idősebb",
+      "phonetic": "[ˈidøːʃɛbb]",
+      "example_sentence": "Csak az idősebb diákok mehetnek ki ebédidőben.",
+      "category": "Személyi adatok, személyes információk"
+    },
+    {
+      "word": "aláírás",
+      "phonetic": "[ˈɒlaːiːraːʃ]",
+      "example_sentence": "Mindenkinek egyedi aláírása van.",
+      "category": "Személyi adatok, személyes információk"
+    },
+    {
+      "word": "vezetéknév",
+      "phonetic": "[ˈvɛzɛteːkneːv]",
+      "example_sentence": "A Smith nagyon gyakori vezetéknév.",
+      "category": "Személyi adatok, személyes információk"
+    },
+    {
+      "word": "tinédzser",
+      "phonetic": "[ˈtineːd͡ʒɛr]",
+      "example_sentence": "Tinédzserekkel beszélni néha nagyon nehéz.",
+      "category": "Személyi adatok, személyes információk"
+    },
+    {
+      "word": "fiatalember",
+      "phonetic": "[ˈfijɒtɒlɛmbɛr]",
+      "example_sentence": "Az ő fia a helyi általános iskolába jár.",
+      "category": "Személyi adatok, személyes információk"
+    },
+    {
+      "word": "amerikai",
+      "phonetic": "[ɒmɛrikɒi]",
+      "example_sentence": "Csak öt éve él az USA-ban, de nagyon erős amerikai akcentusa van.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "brit",
+      "phonetic": "[ˈbrit]",
+      "example_sentence": "Nagyon viccesnek találom a brit humort.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "angol",
+      "phonetic": "[ˈɒnɡol]",
+      "example_sentence": "Az angol humor nagyon száraz lehet.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "európai",
+      "phonetic": "[ˈɛuroːpɒi]",
+      "example_sentence": "Az európai ételek nagyon változatosak.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "külföldi",
+      "phonetic": "[ˈkylføːldi]",
+      "example_sentence": "Szeret idegen nyelveket tanulni.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "francia",
+      "phonetic": "[ˈfrɒnt͡sijɒ]",
+      "example_sentence": "Nagyon szeretem a francia divatot.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "német",
+      "phonetic": "[ˈneːmɛt]",
+      "example_sentence": "A német klasszikus zeneszerzők világszerte híresek.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "ír",
+      "phonetic": "[ˈiːr]",
+      "example_sentence": "Az ír nyelv különbözik az angoltól.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "japán",
+      "phonetic": "[ˈjɒpaːn]",
+      "example_sentence": "Sushit ettünk egy japán étteremben.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "orosz",
+      "phonetic": "[ˈoros]",
+      "example_sentence": "Az orosz filmek gyakran szomorú komédiák.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "skót",
+      "phonetic": "[ˈʃkoːt]",
+      "example_sentence": "Az angoloknak néha nehézséget okoz a skót akcentus megértése.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "szovjet",
+      "phonetic": "[ˈsovjɛt]",
+      "example_sentence": "Gyerekként Berlin szovjet zónájában éltem.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "afrikai",
+      "phonetic": "[ˈɒfrikɒi]",
+      "example_sentence": "Soha nem jártam az afrikai kontinensen.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "arab",
+      "phonetic": "[ˈɒrɒb]",
+      "example_sentence": "Teát gyakran szolgálnak fel arab ételekkel.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "ázsiai",
+      "phonetic": "[ˈaːʒijɒi]",
+      "example_sentence": "Az ázsiai kontinens a legnagyobb a világon.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "ausztrál",
+      "phonetic": "[ˈɒustɒl]",
+      "example_sentence": "Az ausztrál strandok népszerű nyaralóhelyek.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "kínai",
+      "phonetic": "[ˈkiːnɒi]",
+      "example_sentence": "Sok ember szerint nehéz megtanulni kínaiul.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "holland",
+      "phonetic": "[ˈhollɒnd]",
+      "example_sentence": "A holland sajt jó hírnévnek örvend.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "görög",
+      "phonetic": "[ˈɡørøk]",
+      "example_sentence": "A muszaka görög étel.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "indiai",
+      "phonetic": "[ˈindijɒi]",
+      "example_sentence": "Sok indiai étterem van Londonban.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "olasz",
+      "phonetic": "[ˈolɒs]",
+      "example_sentence": "Az olasz borok nagyon jó hírnévnek örvendenek.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "őshonos",
+      "phonetic": "[ˈøːʃonos]",
+      "example_sentence": "Visszatért szülőhazájába lakni.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "római",
+      "phonetic": "[ˈroːmɒi]",
+      "example_sentence": "A Római Birodalom gyorsan növekedett.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "spanyol",
+      "phonetic": "[ˈʃpɒɲol]",
+      "example_sentence": "Madrid a spanyol főváros.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "walesi",
+      "phonetic": "[ˈvɒlɛʃi]",
+      "example_sentence": "A walesi városok nevei néha nagyon bonyolultak.",
+      "category": "Állampolgárság és nemzetiség"
+    },
+    {
+      "word": "örökbe fogadni",
+      "phonetic": "[ˈørøkbɛ foɡɒdni]",
+      "example_sentence": "Mindkét gyerek örökbe fogadott.",
+      "category": "Család"
+    },
+    {
+      "word": "baba",
+      "phonetic": "[ˈbɒbɒ]",
+      "example_sentence": "János új babája mindössze nyolc hetes.",
+      "category": "Család"
+    },
+    {
+      "word": "születés",
+      "phonetic": "[ˈsylɛteːʃ]",
+      "example_sentence": "Dávid jelen volt minden gyermeke születésénél.",
+      "category": "Család"
+    },
+    {
+      "word": "testvér",
+      "phonetic": "[ˈtɛʃtveːr]",
+      "example_sentence": "Vannak testvéreid?",
+      "category": "Család"
+    },
+    {
+      "word": "gyermek",
+      "phonetic": "[ˈɟɛrmɛk]",
+      "example_sentence": "Mindkét gyermeke külföldön él.",
+      "category": "Család"
+    },
+    {
+      "word": "apa",
+      "phonetic": "[ˈɒpɒ]",
+      "example_sentence": "Apámnak szólítom az apukámat.",
+      "category": "Család"
+    },
+    {
+      "word": "lány",
+      "phonetic": "[ˈlaːɲ]",
+      "example_sentence": "A lányom Németországban él.",
+      "category": "Család"
+    },
+    {
+      "word": "család",
+      "phonetic": "[ˈt͡sɒlaːd]",
+      "example_sentence": "Új család költözött a környékre.",
+      "category": "Család"
+    },
+    {
+      "word": "apa",
+      "phonetic": "[ˈɒpɒ]",
+      "example_sentence": "Két kisgyermek apja.",
+      "category": "Család"
+    },
+    {
+      "word": "generáció",
+      "phonetic": "[ˈɡɛnɛraːt͡sijo]",
+      "example_sentence": "A fiatalabb generáció többet utazott külföldre, mint a szüleik.",
+      "category": "Család"
+    },
+    {
+      "word": "nagyapa",
+      "phonetic": "[ˈnɒɟɒpɒ]",
+      "example_sentence": "A nagyapám majdnem 90 éves.",
+      "category": "Család"
+    },
+    {
+      "word": "nagyanya",
+      "phonetic": "[ˈnɒɟɒɲɒ]",
+      "example_sentence": "A gyerekek gyakran látják a nagyanyát.",
+      "category": "Család"
+    },
+    {
+      "word": "férj",
+      "phonetic": "[ˈfeːrj]",
+      "example_sentence": "Zsuzsanna férje mérnök.",
+      "category": "Család"
+    },
+    {
+      "word": "anya",
+      "phonetic": "[ˈɒɲɒ]",
+      "example_sentence": "Anyám éppen betöltötte az 50-et.",
+      "category": "Család"
+    },
+    {
+      "word": "mama",
+      "phonetic": "[ˈmɒmɒ]",
+      "example_sentence": "Mama a legidősebb a családban.",
+      "category": "Család"
+    },
+    {
+      "word": "szülő",
+      "phonetic": "[ˈsylø]",
+      "example_sentence": "Múlt héten először találkoztam Pál szüleivel.",
+      "category": "Család"
+    },
+    {
+      "word": "nővér",
+      "phonetic": "[ˈnøːveːr]",
+      "example_sentence": "Natália Janka bátyja.",
+      "category": "Család"
+    },
+    {
+      "word": "fiú",
+      "phonetic": "[ˈfijuː]",
+      "example_sentence": "Két fiam és egy lányom van.",
+      "category": "Család"
+    },
+    {
+      "word": "feleség",
+      "phonetic": "[ˈfɛlɛʃeːɡ]",
+      "example_sentence": "A feleségem tanár.",
+      "category": "Család"
+    },
+    {
+      "word": "nagynéni",
+      "phonetic": "[ˈnɒɟneːni]",
+      "example_sentence": "Van egy nagynénim Amerikában.",
+      "category": "Család"
+    },
+    {
+      "word": "gyermekkor",
+      "phonetic": "[ˈɟɛrmɛkkor]",
+      "example_sentence": "Nagyon boldog gyermekkorom volt.",
+      "category": "Család"
+    },
+    {
+      "word": "foganni",
+      "phonetic": "[ˈfoɡɒnni]",
+      "example_sentence": "A baba nyaralás alatt fogant.",
+      "category": "Család"
+    },
+    {
+      "word": "unokatestvér",
+      "phonetic": "[ˈunokɒtɛʃtveːr]",
+      "example_sentence": "A legidősebb unokatestvérem 30 éves.",
+      "category": "Család"
+    },
+    {
+      "word": "apukám",
+      "phonetic": "[ˈɒpukaːm]",
+      "example_sentence": "Apukám egy másik szó az apára, amit gyerekek használnak.",
+      "category": "Család"
+    },
+    {
+      "word": "válás",
+      "phonetic": "[ˈvaːlaːʃ]",
+      "example_sentence": "A bátyám válni fog a feleségétől.",
+      "category": "Család"
+    },
+    {
+      "word": "unoka",
+      "phonetic": "[ˈunokɒ]",
+      "example_sentence": "A legkisebb unokám hamarosan meglátogat.",
+      "category": "Család"
+    },
+    {
+      "word": "unokahúg",
+      "phonetic": "[ˈunokɒhuːɡ]",
+      "example_sentence": "Az unokahúga éppen végzett az iskolában.",
+      "category": "Család"
+    },
+    {
+      "word": "nagyszülő",
+      "phonetic": "[ˈnɒɟsylø]",
+      "example_sentence": "A nagyszülők fontos tagjai a legtöbb családnak.",
+      "category": "Család"
+    },
+    {
+      "word": "unoka",
+      "phonetic": "[ˈunokɒ]",
+      "example_sentence": "Az unokánk hamarosan egyetemet kezd.",
+      "category": "Család"
+    },
+    {
+      "word": "örökség",
+      "phonetic": "[ˈørøkʃeːɡ]",
+      "example_sentence": "A szokások nagyon fontosak kulturális örökségünk számára.",
+      "category": "Család"
+    },
+    {
+      "word": "örökölni",
+      "phonetic": "[ˈørøkølni]",
+      "example_sentence": "Anna örökölte anyja kék szemeit.",
+      "category": "Család"
+    },
+    {
+      "word": "anyukám",
+      "phonetic": "[ˈɒɲukaːm]",
+      "example_sentence": "Zsuzsanna anyukámnak szólítja az anyját.",
+      "category": "Család"
+    },
+    {
+      "word": "unokaöcs",
+      "phonetic": "[ˈunokɒøt͡ʃ]",
+      "example_sentence": "Két unokaöcsem él Ausztráliában.",
+      "category": "Család"
+    },
+    {
+      "word": "unokahúg",
+      "phonetic": "[ˈunokɒhuːɡ]",
+      "example_sentence": "Alig várom, hogy vasárnap lássam az új unokahúgomat.",
+      "category": "Család"
+    },
+    {
+      "word": "terhesség",
+      "phonetic": "[ˈtɛrhɛʃʃeːɡ]",
+      "example_sentence": "A nővérem abbahagyta az ivást és a dohányzást a terhessége alatt.",
+      "category": "Család"
+    },
+    {
+      "word": "terhes",
+      "phonetic": "[ˈtɛrhɛʃ]",
+      "example_sentence": "A nővérem abbahagyta a dohányzást, amikor terhes lett.",
+      "category": "Család"
+    }
+  ]
+}
